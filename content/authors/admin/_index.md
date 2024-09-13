@@ -52,8 +52,8 @@ interests:
   - 정보 검색
 
 education:
-  - area: 인공지능 박사
-    institution: 스탠퍼드 대학교
+  - area: 이공학계열
+    institution: 전주고등학교
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: '논문 읽기'
       url: 'https://example.com'
-  - area: 인공지능 석사
-    institution: 매사추세츠 공과대학교
+  - area: 컴퓨터공학부
+    institution: 전북대학교
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
