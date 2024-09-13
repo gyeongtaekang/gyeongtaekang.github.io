@@ -3,15 +3,15 @@
 title: 강경태
 
 # Name pronunciation (optional)
-name_pronunciation: 강경태-1
+name_pronunciation: 열정 빼면 시체
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 강
+last_name: 경태
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌟
 
 # Is this the primary user of the site?
 superuser: true
