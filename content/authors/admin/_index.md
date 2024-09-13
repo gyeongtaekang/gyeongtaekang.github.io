@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # 작가 목록에서 이 작가를 강조 표시할까요? (참/거짓)
-highlight_name: true
+highlight_name: false
 
 # 역할/위치/태그라인
 role: 수석 과학자
