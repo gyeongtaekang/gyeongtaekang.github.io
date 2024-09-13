@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 강경태
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
