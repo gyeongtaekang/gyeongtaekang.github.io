@@ -1,25 +1,4 @@
-/* 전체 배경색 변경 */
-body {
-    background-color: #f0f0f0;
-  }
-  
-  /* 제목 스타일 변경 */
-  h1, h2, h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-  }
-  
-  /* 사용자 정의 버튼 스타일 */
-  button {
-    background-color: #007bff;
-    color: white;
-    border-radius: 4px;
-    padding: 10px;
-    border: none;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
+.avatar {
+    border-radius: 0; /* 테두리를 사각형으로 변경 */
   }
   
