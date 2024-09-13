@@ -1,4 +1,4 @@
-.avatar {
-    border-radius: 0; /* 테두리를 사각형으로 변경 */
+div img.avatar {
+    border-radius: 0 !important; /* 부모 요소와 함께 사용하여 우선순위 상승 */
   }
   
