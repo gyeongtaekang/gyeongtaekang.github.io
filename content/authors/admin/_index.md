@@ -20,12 +20,12 @@ superuser: true
 highlight_name: false
 
 # 역할/위치/태그라인
-role: 수석 과학자
+role: 대학생
 
 # 이력서 블록에 표시할 조직/소속
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 전북대학교
+    url: https://www.jbnu.ac.kr/kor/
 
 # 소셜 네트워크 링크
 # 다른 아이콘을 사용하려면? 단순히 `assets/media/icons/` 폴더에 SVG 아이콘을 다운로드하세요.
