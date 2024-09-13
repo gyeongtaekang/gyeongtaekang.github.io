@@ -1,4 +1,4 @@
-div img.avatar {
-    border-radius: 0 !important; /* 부모 요소와 함께 사용하여 우선순위 상승 */
+.avatar {
+    border-radius: 0 !important; /* !important로 무조건 우선 적용 */
   }
   
