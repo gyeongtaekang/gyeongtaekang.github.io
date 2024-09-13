@@ -1,4 +1,3 @@
 .avatar {
-    border-radius: 0 !important; /* !important로 무조건 우선 적용 */
-  }
-  
+  border-radius: 0 !important; /* 테두리를 사각형으로 변경 */
+}
