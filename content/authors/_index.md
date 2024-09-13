@@ -1,5 +1,5 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
+# 작성자 프로필 페이지를 게시하려면 아래의 `_build` 및 `cascade` 설정을 모두 제거하세요.
 _build:
   render: never
 cascade:
