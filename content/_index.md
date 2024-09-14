@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # 전기 아래에 동작 버튼을 표시할까요? (선택 사항)
-      button:
-        text: 이력서 다운로드
-        url: uploads/resume.pdf
+      #button:
+        #text: 이력서 다운로드
+        #url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -39,37 +39,9 @@ sections:
         
         2023년 12월 제1회 아이디어 해커톤에서 최우수상 경력과 2023년부터 2024년까지 7개의 글쓰기 공모전에서 수상한 경력도 있습니다.
 
-        저의 목표 대학원은 서울대 융의원입니다
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: 주요 출판물
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: 최근 출판물
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: 최근 및 예정된 강연
-      filters:
-        folders:
-          - event
+        저의 목표 대학원은 서울대입니다
+
+
     design:
       view: article-grid
       columns: 1
