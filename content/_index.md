@@ -15,9 +15,7 @@ sections:
       username: admin
       text: ""
       # 전기 아래에 동작 버튼을 표시할까요? (선택 사항)
-      #button:
-        #text: 이력서 다운로드
-        #url: uploads/resume.pdf
+
     design:
       css_class: dark
       background:

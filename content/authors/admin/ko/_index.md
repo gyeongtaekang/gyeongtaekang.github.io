@@ -48,8 +48,9 @@ profiles:
 
 interests:
   - 인공 지능
-  - 계산 언어학
-  - 정보 검색
+  - 의료
+  - 프론트 및 백엔드 개발
+  - 모바일 앱 개발
 
 education:
   - area: 이공학계열
@@ -74,23 +75,26 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: 클라우드 인프라스트럭처 디렉터
-    company_name: GenCoin
+  - position: 제1회 아이디어해커톤 최우수상
+    company_name: 전북대학교
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-12-01
     date_end: ''
     summary: |
       책임:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: 백엔드 소프트웨어 엔지니어
+    image:
+          # `assets/media/`에 배경 이미지를 추가하세요.
+          filename: a.svg
+  - position: 크몽 프리랜서 개발자
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-02-01
+    date_end: 2024-04-30
     summary: |
       책임:
       - 새 데이터 센터로 인프라 이전
