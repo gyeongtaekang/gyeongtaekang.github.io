@@ -2,73 +2,21 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language (English)
+# Default language
 en:
   languageCode: en-us
-  title: Gyengtae 
-  params:
-    description: Description of my blog...
-  contentDir: content/en
-  menu:
-    main:
-      - name: Home
-        url: '/'
-        weight: 1
-      - name: Bio
-        url: '/'
-        weight: 10
-      - name: Papers
-        url: '/#papers'
-        weight: 11
-      - name: Talks
-        url: '/#talks'
-        weight: 12
-      - name: News
-        url: '/#news'
-        weight: 13
-      - name: Experience
-        url: '/experience/'
-        weight: 20
-      - name: Projects
-        url: '/projects/'
-        weight: 30
-      - name: Teaching
-        url: '/teaching/'
-        weight: 40
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  #contentDir: content/en
 
-# Korean language settings (한국어)
-ko:
-  languageCode: ko
-  title: 내 블로그
-  params:
-    description: 나만의 블로그 설명...
-  contentDir: content/ko
-  menu:
-    main:
-      - name: 홈
-        url: '/'
-        weight: 1
-      - name: 소개
-        url: '#about'
-        weight: 2
-      - name: 바이오
-        url: '/'
-        weight: 10
-      - name: 논문
-        url: '/#papers'
-        weight: 11
-      - name: 발표
-        url: '/#talks'
-        weight: 12
-      - name: 뉴스
-        url: '/#news'
-        weight: 13
-      - name: 경력
-        url: '/experience/'
-        weight: 20
-      - name: 프로젝트
-        url: '/projects/'
-        weight: 30
-      - name: 강의
-        url: '/teaching/'
-        weight: 40
+# Uncomment the lines below to configure your website in a second language.
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
