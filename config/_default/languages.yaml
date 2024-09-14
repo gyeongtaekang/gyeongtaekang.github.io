@@ -14,9 +14,27 @@ en:
       - name: Home
         url: '/'
         weight: 1
-      - name: About
-        url: '#about'
-        weight: 2
+      - name: Bio
+        url: '/'
+        weight: 10
+      - name: Papers
+        url: '/#papers'
+        weight: 11
+      - name: Talks
+        url: '/#talks'
+        weight: 12
+      - name: News
+        url: '/#news'
+        weight: 13
+      - name: Experience
+        url: '/experience/'
+        weight: 20
+      - name: Projects
+        url: '/projects/'
+        weight: 30
+      - name: Teaching
+        url: '/teaching/'
+        weight: 40
 
 # Korean language settings (한국어)
 ko:
@@ -33,3 +51,24 @@ ko:
       - name: 소개
         url: '#about'
         weight: 2
+      - name: 바이오
+        url: '/'
+        weight: 10
+      - name: 논문
+        url: '/#papers'
+        weight: 11
+      - name: 발표
+        url: '/#talks'
+        weight: 12
+      - name: 뉴스
+        url: '/#news'
+        weight: 13
+      - name: 경력
+        url: '/experience/'
+        weight: 20
+      - name: 프로젝트
+        url: '/projects/'
+        weight: 30
+      - name: 강의
+        url: '/teaching/'
+        weight: 40
