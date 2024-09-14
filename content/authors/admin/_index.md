@@ -72,17 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: 인공지능 학사
-    institution: 매사추세츠 공과대학교
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      포함된 과정:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: 클라우드 인프라스트럭처 디렉터
     company_name: GenCoin
@@ -142,12 +132,23 @@ skills:
         icon: camera
 
 languages:
-  - name: 영어
-    percent: 100
-  - name: 중국어
-    percent: 75
-  - name: 포르투갈어
-    percent: 25
+  - name: Java
+    percent: 80
+  - name: C++
+    percent: 90
+  - name: C
+    percent: 80
+  - name: Python
+    percent: 80
+  - name: C#
+    percent: 80
+  - name: HTML
+    percent: 90
+  - name: Css
+    percent: 90
+  - name: Java Script
+    percent: 80
+  
 
 # 상.
 #   아래 상을 추가/제거하세요.
