@@ -42,32 +42,7 @@ sections:
         저의 목표 대학원은 서울대입니다
 
 
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: 수상 내역 및 활동
-      subtitle: ''
-      text: ''
-      # 표시할 페이지 유형. 예: post, talk, publication...
-      page_type: post
-      # 표시할 페이지 수 선택 (0 = 모든 페이지)
-      count: 5
-      # 필터 기준
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # 페이지를 몇 개나 오프셋할지 선택
-      offset: 0
-      # 페이지 정렬: 날짜 기준 내림차순(desc) 또는 오름차순(asc).
-      order: desc
+
     design:
       # 레이아웃 보기 선택
       view: date-title-summary
