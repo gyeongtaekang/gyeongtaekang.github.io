@@ -48,7 +48,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: 최근 뉴스
+      title: 수상 내역 및 활동
       subtitle: ''
       text: ''
       # 표시할 페이지 유형. 예: post, talk, publication...
