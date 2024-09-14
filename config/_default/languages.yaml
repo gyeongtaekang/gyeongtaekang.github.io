@@ -5,7 +5,7 @@
 # Default language (English)
 en:
   languageCode: en-us
-  title: My Blog
+  title: Gyengtae 
   params:
     description: Description of my blog...
   contentDir: content/en
