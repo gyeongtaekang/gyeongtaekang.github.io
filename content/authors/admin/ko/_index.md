@@ -85,7 +85,7 @@ work:
       책임:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet,
     image:
           # `assets/media/`에 배경 이미지를 추가하세요.
           filename: a.svg
