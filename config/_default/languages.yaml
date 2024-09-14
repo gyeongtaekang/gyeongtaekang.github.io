@@ -1,22 +1,16 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+languages:
+  ko:
+    weight: 1  # This gives priority to the 'ko' language
+    languageName: 한국어
+    contentDir: content/ko
+    title: '사이트 제목 한국어'  # Site title in Korean
+    params:
+      description: '한국어 사이트 설명'  # Site description in Korean
 
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  en:
+    weight: 2  # English is set as secondary
+    languageName: English
+    contentDir: content/en
+    title: 'Site Title English'
+    params:
+      description: 'English site description'
