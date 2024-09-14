@@ -1,17 +1,10 @@
 defaultContentLanguage: ko  # 기본 언어를 한국어로 설정
 languages:
   ko:
-    weight: 1  # This gives priority to the 'ko' language
     languageName: 한국어
     contentDir: content/ko
-    title: '사이트 제목 한국어'  # Site title in Korean
-    params:
-      description: '한국어 사이트 설명'  # Site description in Korean
-
+    weight: 1  # 한국어를 기본 언어로 설정
   en:
-    weight: 2  # English is set as secondary
     languageName: English
     contentDir: content/en
-    title: 'Site Title English'
-    params:
-      description: 'English site description'
+    weight: 2  # 영어를 보조 언어로 설정
