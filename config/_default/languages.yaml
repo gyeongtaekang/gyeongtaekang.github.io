@@ -12,7 +12,7 @@ ko:
   menu:
     main:
       - name: 소개
-        url: '#about'
+        url: '#admin'
         weight: 1
 
 # 추가 언어 (영어 설정)
@@ -25,5 +25,5 @@ en:
   menu:
     main:
       - name: About
-        url: '#about'
+        url: '#admin'
         weight: 1
