@@ -6,6 +6,7 @@ title: 강경태
 name_pronunciation: 열정 빼면 시체
 
 # SEO용 전체 이름
+color: black
 first_name: 강
 last_name: 경태
 
