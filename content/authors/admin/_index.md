@@ -75,17 +75,16 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: 클라우드 인프라스트럭처 디렉터
-    company_name: GenCoin
+  - position: 그린컴퓨터 학원
+    company_name: 그린아트
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-03-01~2022-05-15
     date_end: ''
     summary: |
-      책임:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      배운 내용:
+      - 웹을 처음 접하기도 했고 프론트 엔드 부분을 배웠습니다.
+      -이 경험은 웹을 독학할수 있는 기반이 되었습니다.
   - position: 백엔드 소프트웨어 엔지니어
     company_name: X
     company_url: ''
