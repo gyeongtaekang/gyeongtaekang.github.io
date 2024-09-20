@@ -62,9 +62,7 @@ education:
     button:
       text: '논문 읽기'
       url: 'https://example.com'
-    button:
-      text: '이력서 다운로드'   # 버튼에 표시될 텍스트
-      url: '/uploads/resume.pdf' 
+
   - area: 컴퓨터공학부
     institution: 전북대학교
     date_start: 2016-01-01
@@ -76,7 +74,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    button:
+      text: '이력서 다운로드'   # 버튼에 표시될 텍스트
+      url: '/uploads/resume.pdf' 
 work:
   - position: 그린컴퓨터 학원
     company_name: 그린아트
