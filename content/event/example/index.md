@@ -37,6 +37,7 @@ tags:
   - 환경보호
 
 featured: true
+presentation: true
 
 image:
   caption: '이미지 출처: [Unsplash](https://unsplash.com/photos/forest)'
