@@ -50,7 +50,7 @@ sections:
       spacing:
         padding: [100px, 0, 0, 0]  # 상단에 50px 간격 추가
 
-  - block: work-experience
+  - block: resume-experience
     content:
       title: 'Work Experience'
       items:
@@ -77,6 +77,7 @@ sections:
             - 다양한 API와의 연동을 통해 백엔드 통합 구현
             - 프론트엔드와 백엔드 모두를 아우르는 풀스택 프로젝트 참여
             - 크몽 플랫폼에서 프리랜서로 활동하며 고객 맞춤형 웹 및 앱 솔루션 제공
+
 
   - block: cta-card
     demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
