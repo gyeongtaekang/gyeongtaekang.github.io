@@ -276,23 +276,18 @@ awards:
     summary: |
       2024년 6월 17일부터 2024년 7월 10일까지 내가 만드는 비교과 프로그램 공모전에서 우수상을 수상하였습니다.
 
-  - title: 전주 가맥지기 활동
-    date: '2024-07-01'
-    url: '[여기를 클릭](https://www.jbnu.ac.kr/kor/)'
-    summary: |
-      2024년 7월 1일부터 2024년 8월 31일까지 전주에서 가맥지기로 활동하였습니다.
 
 
 
 
-  - title: 'R에서 객체 지향 프로그래밍'
+  - title: '전주 가맥지기 활동'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: '2024-07-01'
     awarder: datacamp
     icon: datacamp
     summary: |
-      객체 지향 프로그래밍(OOP)은 함수와 그것들이 작용할 수 있는 객체 간의 관계를 지정할 수 있게 해주어 코드의 복잡성을 관리하는 데 도움을 줍니다. 이는 중급 수준의 과정으로, S3 및 R6 시스템을 사용한 OOP 소개를 제공합니다. S3는 일상적인 R 프로그래밍에 유용하며 일부 함수를 단순화하는 데 도움을 줍니다. R6는 업계 특화 분석, 웹 API 작업 및 GUI 구축에 특히 유용합니다.
+      2024년 7월 1일부터 2024년 8월 31일까지 전주에서 가맥지기로 활동하였습니다.
 ---
 
 ## 나에 대해서
