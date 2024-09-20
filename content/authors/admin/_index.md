@@ -60,7 +60,7 @@ education:
     summary: |
       전주고등학교에서 이공학 계열로 공부하면서 다양한 수학, 과학, 그리고 기초 공학 과목을 이수하였습니다. 학생 과학 동아리 활동을 통해 논문 작성 및 발표 경험을 쌓았으며, 다양한 실험 프로젝트를 진행하며 학문적 기초를 다졌습니다.
     button:
-      text: '증명서 읽기'
+      text: 'PDF 다운로드'
       url: 'https://example.com'
 
   - area: 컴퓨터공학부
@@ -85,17 +85,18 @@ work:
       배운 내용:
       - 웹을 처음 접하기도 했고 프론트 엔드 부분을 배웠습니다.
       - 이 경험은 웹을 독학할수 있는 기반이 되었습니다.
-  - position: 백엔드 소프트웨어 엔지니어
-    company_name: X
+  - position: 풀스택 소프트웨어 개발자
+    company_name: 프리랜서
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: 2022-12-31
     summary: |
-      책임:
-      - 새 데이터 센터로 인프라 이전
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      주요 프로젝트:
+      - React Native와 Android Studio를 사용하여 모바일 애플리케이션 개발
+      - 다양한 API와의 연동을 통해 백엔드 통합 구현
+      - 프론트엔드와 백엔드 모두를 아우르는 풀스택 프로젝트 참여
+      - 크몽 플랫폼에서 프리랜서로 활동하며 고객 맞춤형 웹 및 앱 솔루션 제공
 
 # 기술
 # `assets/media/icons/`에 자신의 SVG 아이콘을 추가하세요
@@ -118,7 +119,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 등산
+      - name: 러닝
         description: ''
         percent: 60
         icon: person-simple-walk
