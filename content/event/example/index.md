@@ -36,7 +36,7 @@ tags:
   - SDGs
   - 환경보호
 
-featured: true
+
 presentation: true
 
 image:
