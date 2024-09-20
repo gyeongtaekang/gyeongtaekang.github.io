@@ -284,7 +284,7 @@ awards:
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2024-07-01'
-    awarder: datacamp
+    awarder: 하이트진로
     icon: datacamp
     summary: |
       2024년 7월 1일부터 2024년 8월 31일까지 전주에서 가맥지기로 활동하였습니다.
