@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 지속가능한 발전 목표 경진대회
 cms_exclude: true
 #url: talk
 
