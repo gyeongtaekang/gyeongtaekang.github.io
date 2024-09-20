@@ -281,6 +281,13 @@ awards:
     url: '[여기를 클릭](https://www.jbnu.ac.kr/kor/)'
     summary: |
       2024년 7월 1일부터 2024년 8월 31일까지 전주에서 가맥지기로 활동하였습니다.
+  - title: 신경 네트워크와 딥러닝
+    url: '[여기를 클릭](https://www.coursera.org/learn/neural-networks-deep-learning)'
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      신경 네트워크와 딥러닝의 기초 개념을 공부했습니다. 마지막에는 딥러닝이 부상하는 주요 기술적 추세를 이해하고, 완전 연결된 딥 뉴럴 네트워크를 구축, 훈련 및 적용하며, 신경 네트워크 아키텍처의 주요 매개 변수를 식별하고, 딥러닝을 자신의 애플리케이션에 적용할 수 있었습니다.
 
 ---
 
