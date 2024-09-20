@@ -62,6 +62,9 @@ education:
     button:
       text: '논문 읽기'
       url: 'https://example.com'
+    button:
+      text: '이력서 다운로드'   # 버튼에 표시될 텍스트
+      url: '/uploads/resume.pdf' 
   - area: 컴퓨터공학부
     institution: 전북대학교
     date_start: 2016-01-01
@@ -85,7 +88,7 @@ work:
     summary: |
       배운 내용:
       - 웹을 처음 접하기도 했고 프론트 엔드 부분을 배웠습니다.
-      -이 경험은 웹을 독학할수 있는 기반이 되었습니다.
+      - 이 경험은 웹을 독학할수 있는 기반이 되었습니다.
   - position: 백엔드 소프트웨어 엔지니어
     company_name: X
     company_url: ''
