@@ -27,8 +27,8 @@ all_day: false
 publishDate: '2023-12-01T00:00:00Z'
 
 authors:
-  - 홍길동
-  - 김영희
+  - 강경태
+  - 강건우
 
 tags:
   - 산림보호
@@ -36,7 +36,7 @@ tags:
   - SDGs
   - 환경보호
 
-
+# featured: true 이게 이미지 넣는법
 presentation: true
 
 image:
