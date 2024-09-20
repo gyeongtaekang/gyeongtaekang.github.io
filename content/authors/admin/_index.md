@@ -156,31 +156,132 @@ languages:
 #   'title', 'awarder', 및 'date'만 필요합니다.
 #   다중 줄 'summary'는 YAML의 '|' 또는 '|2-' 다중 줄 접두어로 시작하고 2칸 들여쓰기하세요.
 awards:
-  - title: 신경 네트워크와 딥러닝
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 전북대학교 의류학과 입학
+    date: '2020/03/01~ing'
+    url: https://www.jbnu.ac.kr/kor/
     summary: |
-      신경 네트워크와 딥러닝의 기초 개념을 공부했습니다. 마지막에는 딥러닝이 부상하는 주요 기술적 추세를 이해하고, 완전 연결된 딥 뉴럴 네트워크를 구축, 훈련 및 적용하며, 신경 네트워크 아키텍처의 주요 매개 변수를 식별하고, 딥러닝을 자신의 애플리케이션에 적용할 수 있었습니다.
-  - title: 블록체인 기초
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      전북대학교 의류학과에 입학하였습니다.
+
+  - title: 대한민국 육군 15사단 입대
+    date: '2020/10/05'
+    url: https://www.jbnu.ac.kr/kor/
     summary: |
-      배운 것:
-      - 자신만의 블록체인 솔루션을 합성
-      - 비트코인의 구체적인 메커니즘에 대한 심층적인 이해
-      - 비트코인의 실제 애플리케이션을 이해하고 비트코인, 이더리움, 스마트 계약 및 Dapps를 공격하고 파괴하는 방법 및 비트코인의 작업 증명 합의 알고리즘에 대한 대안을 배움
-  - title: 'R에서 객체 지향 프로그래밍'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      대한민국 육군 15사단에 입대하였습니다.
+
+  - title: 군대에서 첫 휴가
+    date: '2021/05/04~2021/05/18'
+    url: https://www.jbnu.ac.kr/kor/
     summary: |
-      객체 지향 프로그래밍(OOP)은 함수와 그것들이 작용할 수 있는 객체 간의 관계를 지정할 수 있게 해주어 코드의 복잡성을 관리하는 데 도움을 줍니다. 이는 중급 수준의 과정으로, S3 및 R6 시스템을 사용한 OOP 소개를 제공합니다. S3는 일상적인 R 프로그래밍에 유용하며 일부 함수를 단순화하는 데 도움을 줍니다. R6는 업계 특화 분석, 웹 API 작업 및 GUI 구축에 특히 유용합니다.
+      군대에서 처음이자 마지막 휴가를 다녀왔습니다.
+
+  - title: 대한민국 육군 병장 만기 조기전역
+    date: '2022/02/25'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      대한민국 육군 병장으로 만기 조기전역하였습니다.
+
+  - title: 전북대학교 복학
+    date: '2022/03/01'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      대면수업으로 복학하였습니다.
+
+  - title: 케리비안베이 라이프가드
+    date: '2022/06/16~2024/08/25'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      케리비안베이에서 라이프가드로 서비스직 경험을 쌓았습니다.
+
+  - title: 하이원스키장 리프트탑승보조 알바
+    date: '2022/12/27~2023/02/28'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      하이원스키장에서 리프트 탑승보조 아르바이트를 했습니다.
+
+  - title: 의류학과 2학년 과탑
+    date: '2022년도 2학기'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      전북대학교 의류학과 2학년 2학기 과탑을 차지하였습니다.
+
+  - title: 컴퓨터공학부로 전과
+    date: '2022/02/15'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      전북대학교 의류학과에서 컴퓨터공학부로 전과하였습니다.
+
+  - title: 전북대학교 아이디어 해커톤 최우수상
+    date: '2023/12/01~03'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      전북대학교 아이디어 해커톤에서 최우수상을 수상하였습니다.
+
+  - title: AI 활용 학습 수기 공모전 장려상
+    date: '2023/11/27~2023/12/29'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      AI 활용 학습 수기 공모전에서 장려상을 수상하였습니다.
+
+  - title: 학습 꿀 Tip 공모전 장려상
+    date: '2023/11/27~2023/12/29'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      학습 꿀 Tip 공모전에서 장려상을 수상하였습니다.
+
+  - title: 나만의 학습 꿀팁 노하우 공모전 장려상
+    date: '2023/11/27~2023/12/29'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      나만의 학습 꿀팁 노하우 공모전에서 장려상을 수상하였습니다.
+
+  - title: 지속가능발전목표 SDGs 프레젠테이션 대회 우수상
+    date: '2023/12/22'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      지속가능발전목표 SDGs 프레젠테이션 대회에서 우수상을 수상하였습니다.
+
+  - title: 동계 빅데이터 캠프 이수
+    date: '2024/01/09~2024/01/12'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      동계 빅데이터 캠프를 이수하였습니다.
+
+  - title: 창업 아이디어 메이커톤 베스트 피칭상
+    date: '2024/02/02'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      창업 아이디어 메이커톤에서 베스트 피칭상을 수상하였습니다.
+
+  - title: 크몽 프리랜서 활동
+    date: '2024/02/01~2024/04/15'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      크몽에서 프리랜서로 활동하였으며, 학교 공부 문제로 중단하였습니다.
+
+  - title: 하이파이브 서포터즈 활동
+    date: '2024/02/28~2024/08/31'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      하이파이브 서포터즈로 활동하였습니다.
+
+  - title: 이경수 교수님 의료 인공지능 연구실
+    date: '2024년 4월~ing'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      이경수 교수님의 의료 인공지능 연구실에서 연구 활동을 하고 있습니다.
+
+  - title: 내가 만드는 비교과 프로그램 공모전 우수상
+    date: '2024/06/17~2024/07/10'
+    url: https://www.jbnu.ac.kr/kor/
+    summary: |
+      내가 만드는 비교과 프로그램 공모전에서 우수상을 수상하였습니다.
+
+  - title: 전주 가맥지기 활동
+    date: '2024/07/01~2024/08/31'
+    url: '[여기를 클릭](https://www.jbnu.ac.kr/kor/)'
+    summary: |
+      전주에서 가맥지기로 활동하였습니다.
+
 ---
 
 ## 나에 대해서
