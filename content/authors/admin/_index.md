@@ -56,27 +56,23 @@ education:
   - area: 이공학계열
     institution: 전주고등학교
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2019-12-31
     summary: |
-      LLMs의 멋짐에 대한 논문. 조 스미스 교수(https://example.com)의 지도를 받았습니다. 5개의 IEEE 컨퍼런스에서 논문을 발표했으며, 2개의 스프링거 저널에 기고되었습니다.
+      전주고등학교에서 이공학 계열로 공부하면서 다양한 수학, 과학, 그리고 기초 공학 과목을 이수하였습니다. 학생 과학 동아리 활동을 통해 논문 작성 및 발표 경험을 쌓았으며, 다양한 실험 프로젝트를 진행하며 학문적 기초를 다졌습니다.
     button:
-      text: '논문 읽기'
+      text: '증명서 읽기'
       url: 'https://example.com'
 
   - area: 컴퓨터공학부
     institution: 전북대학교
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2025-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      포함된 과정:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      전북대학교 컴퓨터공학부에서 주로 프로그래밍, 알고리즘, 데이터베이스, 운영체제 등 컴퓨터 과학과 관련된 과목을 학습했습니다. 또한, 다양한 프로젝트를 통해 소프트웨어 개발 실습 경험을 쌓았으며, 앱 및 웹 개발 프로젝트에 참여하여 실무적인 기술을 배양했습니다. 교내 해커톤에서도 수상 경력을 쌓으며 창의적인 문제 해결 능력을 발휘했습니다.
     button:
-      text: '이력서 다운로드'   # 버튼에 표시될 텍스트
-      url: '/uploads/resume.pdf' 
+      text: '증명서 다운로드'
+      url: '/uploads/resume.pdf'
+
 work:
   - position: 그린컴퓨터 학원
     company_name: 그린아트
