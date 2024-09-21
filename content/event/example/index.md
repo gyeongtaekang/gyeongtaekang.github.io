@@ -37,7 +37,7 @@ tags:
   - 환경보호
 
 # featured: true 이게 이미지 넣는법
-presentation: true
+presentation: true 
 
 image:
   caption: '이미지 출처: [Unsplash](https://unsplash.com/photos/forest)'
