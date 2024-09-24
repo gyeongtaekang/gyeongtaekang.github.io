@@ -35,7 +35,8 @@ tags:
   - 재활용
 
 image:
-  caption: '이미지 출처: [Unsplash](https://unsplash.com/photos/energy)'
+  caption: '이미지 출처: [Unsplash](https://unsplash.com/photos/forest)'
+  filename: 'presentation.jpg'
   focal_point: Right
 
 
