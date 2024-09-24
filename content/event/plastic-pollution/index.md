@@ -35,8 +35,9 @@ tags:
   - 재활용
 
 image:
-  caption: '이미지 출처: [Unsplash](https://unsplash.com/photos/plastic-pollution)'
+  caption: '이미지 출처: [Unsplash](https://unsplash.com/photos/energy)'
   focal_point: Right
+
 
 url_code: ''
 url_pdf: ''
