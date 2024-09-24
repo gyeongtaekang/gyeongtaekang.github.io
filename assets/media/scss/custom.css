@@ -1,0 +1,29 @@
+// 변수 정의
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+
+// 기본적인 스타일
+body {
+  font-family: Arial, sans-serif;
+  background-color: $primary-color;
+  color: white;
+}
+
+// 중첩 사용 예시
+.navbar {
+  background-color: $secondary-color;
+  ul {
+    list-style: none;
+    li {
+      display: inline-block;
+      padding: 10px;
+      a {
+        color: white;
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
