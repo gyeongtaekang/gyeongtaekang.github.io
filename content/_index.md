@@ -48,7 +48,7 @@ sections:
       view: date-title-summary
       # 간격 줄이기
       spacing:
-        padding: [100px, 0, 0, 0]  # 상단에 50px 간격 추가
+        padding: [100px, 0, 0, 0]  # 상단에 100px 간격 추가
 
   - block: resume-experience
     content:
@@ -80,7 +80,7 @@ sections:
 
 title: 지속가능한 발전 목표 경진대회
 cms_exclude: true
-#url: talk
+# url: talk
 
 # View
 view: card
@@ -89,10 +89,6 @@ view: card
 image:
   caption: ''
   filename: ''
----
-
-
-
 
   - block: cta-card
     demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
