@@ -11,6 +11,8 @@ sections:
       title: Contact
       text: |-
         <br> <span style="font-size:95%">전북대학교 컴퓨터 공학부 7호관 533호 Macs 연구실</span> <br>
+        <p>연락처: 010-4672-1420</p><br>
+        <p>이메일:namwon420@naver.com</p>
         <iframe
           width="100%"
           height="400"
