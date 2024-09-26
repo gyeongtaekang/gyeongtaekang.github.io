@@ -60,3 +60,4 @@ sitemap:
 
 params:
   customCSS: ["css/custom.css"]
+  custom_layout: true
