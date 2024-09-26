@@ -83,38 +83,30 @@ sections:
       title: 
       text: <br><span style="font-size:125%">MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
 
-  - block: slider
+  - block: markdown
     content:
-      slides:
-        - title: <span style="font-size:90%">AI</span>
-          content: <span style="font-size:90%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:90%">
-          align: center
-          background:
-            image:
-              filename: presentation.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-
-        - title: <span style="font-size:90%">Medical AI</span>
-          content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
-          align: center
-          background:
-            image:
-              filename: medical.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-
-        # 다른 슬라이드들도 같은 형식으로 계속 추가하세요...
-
+      title: '지속가능한 발전 목표 경진대회'
+      text: |-
+        <div id="slider" style="max-width: 100%; overflow: hidden; position: relative;">
+          <!-- 슬라이드들을 감싸는 컨테이너 -->
+          <div class="slides" style="display: flex; transition: transform 0.5s ease-in-out;">
+            <!-- 슬라이드 1 -->
+            <div class="slide-item" style="min-width: 100%; flex-shrink: 0;">
+              <img src="assets/media/presentation.jpg" alt="AI" style="width: 100%;">
+              <div class="caption" style="text-align: center;">AI - 의료/항공우주/컨텐츠 분야</div>
+            </div>
+            <!-- 슬라이드 2 -->
+            <div class="slide-item" style="min-width: 100%; flex-shrink: 0;">
+              <img src="assets/media/medical.jpg" alt="Medical AI" style="width: 100%;">
+              <div class="caption" style="text-align: center;">Medical AI - 의료 진단 및 환경 개선</div>
+            </div>
+            <!-- 더 많은 슬라이드를 추가하려면 동일한 형식으로 추가하세요... -->
+          </div>
+        </div>
     design:
-      slide_height: '350px'
-      is_fullscreen: true
-      loop: true
-      interval: 3000
+      view: date-title-summary
+      spacing:
+        padding: [50px, 0, 0, 0]
 
   - block: cta-card
     demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
