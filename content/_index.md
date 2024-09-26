@@ -80,7 +80,7 @@ sections:
 
 title: 지속가능한 발전 목표 경진대회
 cms_exclude: true
-#url: talk
+# url: talk
 
 # View
 view: card
@@ -89,142 +89,25 @@ view: card
 image:
   caption: ''
   filename: ''
----
 
-sections:
+- block: cta-card
+  demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
+  content:
+    title: 👉 이와 같은 학술 웹사이트를 만들어 보세요
+    text: |-
+      이 사이트는 250,000명 이상의 학자들이 신뢰하는 무료 Hugo 기반 오픈소스 웹사이트 빌더인 Hugo Blox Builder로 생성되었습니다.
 
-  - block: features
-    content:
-      title: 
-      text: <br><span style="font-size:125%">MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
+      <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GitHub에서 HugoBlox/hugo-blox-builder에 Star를 주기">Star</a>
 
-  - block: slider
-    content:
-      slides:
-
-      - title: <span style="font-size:90%">AI</span>
-        content: <span style="font-size:90%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:90%">
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Medical AI</span>
-        content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
-        align: center
-        background:
-          image:
-            filename: medical.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Healthcare</span>
-        content: <span style="font-size:90%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Aerospace</span>
-        content: <span style="font-size:90%">항공우주에 적용 가능한 특성화 AI 기술 개발</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Contents AI</span>
-        content: <span style="font-size:90%">웹툰 및 컨텐츠 적용 가능한 특성화 AI 기술 개발</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Mathematics</span>
-        content: <span style="font-size:90%">AI와 관련된 수학 및 최적화 이론 연구</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Development</span>
-        content: <span style="font-size:90%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-
-      - title: <span style="font-size:90%">Recruit</span>
-        content: <span style="font-size:90%">Interested in MacsLAB?</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-        link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
-          text-color: '#000'
-          url: contact
-
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
-
-
-  - block: cta-card
-    demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
-    content:
-      title: 👉 이와 같은 학술 웹사이트를 만들어 보세요
-      text: |-
-        이 사이트는 250,000명 이상의 학자들이 신뢰하는 무료 Hugo 기반 오픈소스 웹사이트 빌더인 Hugo Blox Builder로 생성되었습니다.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GitHub에서 HugoBlox/hugo-blox-builder에 Star를 주기">Star</a>
-
-        블록으로 쉽게 구축하세요 - 코딩 필요 없음!
-        
-        랜딩 페이지, 세컨드 브레인, 코스에서 학술 이력서, 컨퍼런스, 기술 블로그까지 모두 구축 가능합니다.
-      button:
-        text: 시작하기
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # 카드 배경 색상 (CSS 클래스)
-        css_class: "bg-primary-700"
-        css_style: ""
+      블록으로 쉽게 구축하세요 - 코딩 필요 없음!
+      
+      랜딩 페이지, 세컨드 브레인, 코스에서 학술 이력서, 컨퍼런스, 기술 블로그까지 모두 구축 가능합니다.
+    button:
+      text: 시작하기
+      url: https://hugoblox.com/templates/
+  design:
+    card:
+      # 카드 배경 색상 (CSS 클래스)
+      css_class: "bg-primary-700"
+      css_style: ""
 ---
