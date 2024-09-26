@@ -78,11 +78,7 @@ sections:
             - 프론트엔드와 백엔드 모두를 아우르는 풀스택 프로젝트 참여
             - 크몽 플랫폼에서 프리랜서로 활동하며 고객 맞춤형 웹 및 앱 솔루션 제공
 
-title: 지속가능한 발전 목표 경진대회
-cms_exclude: true
-# url: talk
-
- - block: features
+  - block: features
     id: features
     content:
       title: <span style="font-size:75%">My Interests</span>
@@ -95,23 +91,23 @@ cms_exclude: true
         - name: 데이터 분석 (Data Science)
           icon: calculator
           icon_pack: fas
-          description:  <span style="font-size:90%">여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
+          description: <span style="font-size:90%">여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
         - name: 개발 (Development)
           icon: laptop
           icon_pack: fas
-          description:  <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
+          description: <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
         - name: Medical AI
           icon: laptop-medical
           icon_pack: fas
-          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
+          description: <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
         - name: ALPS 부회장
           icon: laptop-code
           icon_pack: fas
-          description:  <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
+          description: <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
         - name: etc
           icon: globe
           icon_pack: fas
-          description:  <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
+          description: <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
 
 # View
 view: card
