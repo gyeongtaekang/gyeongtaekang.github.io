@@ -1,29 +1,23 @@
+
+# Theme metadata
+name = "Custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1565c0"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
 // 변수 정의
 $primary-color: #3498db;
 $secondary-color: #2ecc71;
-
-// 기본적인 스타일
-body {
-  font-family: Arial, sans-serif;
-  background-color: $primary-color;
-  color: white;
-}
-
-// 중첩 사용 예시
-.navbar {
-  background-color: $secondary-color;
-  ul {
-    list-style: none;
-    li {
-      display: inline-block;
-      padding: 10px;
-      a {
-        color: white;
-        text-decoration: none;
-        &:hover {
-          text-decoration: underline;
-        }
-      }
-    }
-  }
-}
