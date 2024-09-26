@@ -90,6 +90,7 @@ image:
   caption: ''
   filename: ''
 
+sections:
   - block: cta-card
     demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
     content:
