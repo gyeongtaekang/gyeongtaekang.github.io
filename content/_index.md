@@ -48,7 +48,7 @@ sections:
       view: date-title-summary
       # 간격 줄이기
       spacing:
-        padding: [100px, 0, 0, 0]  # 상단에 50px 간격 추가
+        padding: [100px, 0, 0, 0]  # 상단에 100px 간격 추가
 
   - block: resume-experience
     content:
@@ -90,24 +90,24 @@ image:
   caption: ''
   filename: ''
 
-- block: cta-card
-  demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
-  content:
-    title: 👉 이와 같은 학술 웹사이트를 만들어 보세요
-    text: |-
-      이 사이트는 250,000명 이상의 학자들이 신뢰하는 무료 Hugo 기반 오픈소스 웹사이트 빌더인 Hugo Blox Builder로 생성되었습니다.
+  - block: cta-card
+    demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
+    content:
+      title: 👉 이와 같은 학술 웹사이트를 만들어 보세요
+      text: |-
+        이 사이트는 250,000명 이상의 학자들이 신뢰하는 무료 Hugo 기반 오픈소스 웹사이트 빌더인 Hugo Blox Builder로 생성되었습니다.
 
-      <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GitHub에서 HugoBlox/hugo-blox-builder에 Star를 주기">Star</a>
+        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GitHub에서 HugoBlox/hugo-blox-builder에 Star를 주기">Star</a>
 
-      블록으로 쉽게 구축하세요 - 코딩 필요 없음!
-      
-      랜딩 페이지, 세컨드 브레인, 코스에서 학술 이력서, 컨퍼런스, 기술 블로그까지 모두 구축 가능합니다.
-    button:
-      text: 시작하기
-      url: https://hugoblox.com/templates/
-  design:
-    card:
-      # 카드 배경 색상 (CSS 클래스)
-      css_class: "bg-primary-700"
-      css_style: ""
+        블록으로 쉽게 구축하세요 - 코딩 필요 없음!
+        
+        랜딩 페이지, 세컨드 브레인, 코스에서 학술 이력서, 컨퍼런스, 기술 블로그까지 모두 구축 가능합니다.
+      button:
+        text: 시작하기
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # 카드 배경 색상 (CSS 클래스)
+        css_class: "bg-primary-700"
+        css_style: ""
 ---
