@@ -97,7 +97,7 @@ sections:
             </div>
             <!-- 슬라이드 2 -->
             <div class="slide-item" style="min-width: 100%; flex-shrink: 0;">
-              <img src="assets/media/medical.jpg" alt="Medical AI" style="width: 100%;">
+              <img src="assets/media/presentation.jpg" alt="Medical AI" style="width: 100%;">
               <div class="caption" style="text-align: center;">Medical AI - 의료 진단 및 환경 개선</div>
             </div>
             <!-- 더 많은 슬라이드를 추가하려면 동일한 형식으로 추가하세요... -->
