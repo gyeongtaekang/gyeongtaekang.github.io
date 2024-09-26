@@ -1,15 +1,8 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
-
 main:
   - name: Introduce
     url: /
     weight: 10
-  - name: News
-    url: /news
-    weight: 13
   - name: error
     url: /error
     weight: 14
@@ -25,3 +18,10 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: contect
+    url: /contect
+    weight: 13
+    children:  # 서브메뉴를 추가하는 부분
+      - name: 안녕
+        url: /contect/hello  # 서브메뉴 링크
+        weight: 1  # 서브메뉴의 순서
