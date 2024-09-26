@@ -20,7 +20,7 @@ main:
     weight: 40
   - name: contect
     url: /contect
-    weight: 13
+    weight: 50
     children:  # 서브메뉴를 추가하는 부분
       - name: 안녕
         url: /contect/hello  # 서브메뉴 링크
