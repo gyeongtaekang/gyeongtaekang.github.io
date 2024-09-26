@@ -81,18 +81,6 @@ sections:
           description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
 
 
-  - block: slideshow
-    content:
-      title: "슬라이드 쇼"
-      slides:
-        - image: "a.svg"  # 첫 번째 슬라이드 이미지
-          caption: "첫 번째 슬라이드 설명"
-        - image: "media/presentation.jpg"  # 두 번째 슬라이드 이미지
-          caption: "두 번째 슬라이드 설명"
-        - image: "media/presentation.jpg"  # 세 번째 슬라이드 이미지
-          caption: "세 번째 슬라이드 설명"
-    design:
-      css_class: "slideshow"
 
 
 
