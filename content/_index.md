@@ -78,7 +78,36 @@ sections:
             - 프론트엔드와 백엔드 모두를 아우르는 풀스택 프로젝트 참여
             - 크몽 플랫폼에서 프리랜서로 활동하며 고객 맞춤형 웹 및 앱 솔루션 제공
 
-
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">My Interests</span>
+      text: 저는 좋아하는 것들로 일상을 채우고, 발전하고 싶어하는 사람입니다.<br><br><br><br>
+      items:
+        - name: 인공지능(AI)
+          icon: code-branch
+          icon_pack: fas
+          description: <span style="font-size:90%">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
+        - name: 데이터 분석 (Data Science)
+          icon: calculator
+          icon_pack: fas
+          description: <span style="font-size:90%">여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
+        - name: 개발 (Development)
+          icon: laptop
+          icon_pack: fas
+          description: <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
+        - name: Medical AI
+          icon: laptop-medical
+          icon_pack: fas
+          description: <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
+        - name: ALPS 부회장
+          icon: laptop-code
+          icon_pack: fas
+          description: <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
+        - name: etc
+          icon: globe
+          icon_pack: fas
+          description: <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
 
 # View
 view: card
