@@ -1,0 +1,46 @@
+<div class="slideshow">
+  {{ range .Params.slides }}
+      <div class="slide">
+          <img src="{{ .image | relURL }}" alt="Slide Image">
+          <div class="caption">{{ .caption }}</div>
+      </div>
+  {{ end }}
+</div>
+
+<style>
+  .slideshow {
+      position: relative;
+      max-width: 100%;
+      margin: auto;
+  }
+  
+  .slideshow img {
+      width: 100%;
+      display: block;
+  }
+  
+  .slideshow .caption {
+      position: absolute;
+      bottom: 10px;
+      left: 20px;
+      color: white;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 10px;
+  }
+</style>
+
+<script>
+  let slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+      let slides = document.querySelectorAll(".slideshow .slide");
+      slides.forEach(slide => slide.style.display = "none");
+      
+      slideIndex++;
+      if (slideIndex > slides.length) { slideIndex = 1; }
+
+      slides[slideIndex - 1].style.display = "block";
+      setTimeout(showSlides, 3000); // Change image every 3 seconds
+  }
+</script>
