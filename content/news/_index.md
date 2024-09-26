@@ -15,8 +15,7 @@ sections:
           width="100%"
           height="400"
           frameborder="0" style="border:0"
-          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBC2G5YylMYeQmCkgj6pvS6_aYyfrz2GgM
-            &q=35.84601324617979,127.13444961966684" allowfullscreen>
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBC2G5YylMYeQmCkgj6pvS6_aYyfrz2GgM&q=35.84601324617979,127.13444961966684" allowfullscreen>
         </iframe>
       email: ksl(at)jbnu.ac.kr
       phone: +82-63-270-2406
@@ -30,3 +29,4 @@ sections:
       autolink: true
     design:
       columns: '3'
+---
