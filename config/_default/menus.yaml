@@ -24,4 +24,4 @@ main:
     children:  # 서브메뉴를 추가하는 부분
       - name: 안녕
         url: /contect/hello  # 서브메뉴 링크
-        weight: 1  # 서브메뉴의 순서
+        weight: 90  # 서브메뉴의 순서
