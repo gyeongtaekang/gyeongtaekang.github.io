@@ -31,21 +31,11 @@ organizations:
 # 소셜 네트워크 링크
 # 다른 아이콘을 사용하려면? 단순히 `assets/media/icons/` 폴더에 SVG 아이콘을 다운로드하세요.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: 이메일 보내기
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/gyeongtae1101/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/gyeongtaekang
 
 interests:
   - 인공 지능
