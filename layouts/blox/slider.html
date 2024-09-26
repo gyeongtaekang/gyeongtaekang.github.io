@@ -1,0 +1,79 @@
+{{/* layouts/partials/blox/slider.html */}}
+<style>
+  .slider-container {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  .slide-item {
+    min-width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+  }
+  .slide-item img {
+    width: 100%;
+    height: auto;
+  }
+  .slider-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .slider-nav button {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+  }
+</style>
+
+<div class="slider-container">
+  <div class="slides">
+    {{ range .Params.slides }}
+    <div class="slide-item">
+      <img src="/assets/media/{{ .background.image.filename }}" alt="{{ .title }}">
+      <div class="caption">{{ .content }}</div>
+    </div>
+    {{ end }}
+  </div>
+  <!-- 슬라이더 네비게이션 버튼 -->
+  <div class="slider-nav">
+    <button onclick="prevSlide()">&#10094;</button>
+    <button onclick="nextSlide()">&#10095;</button>
+  </div>
+</div>
+
+<script>
+  let currentSlide = 0;
+
+  function showSlide(index) {
+    const slides = document.querySelectorAll('.slide-item');
+    const totalSlides = slides.length;
+    if (index >= totalSlides) currentSlide = 0;
+    if (index < 0) currentSlide = totalSlides - 1;
+
+    slides.forEach((slide, i) => {
+      slide.style.transform = `translateX(${(i - currentSlide) * 100}%)`;
+    });
+  }
+
+  function nextSlide() {
+    currentSlide++;
+    showSlide(currentSlide);
+  }
+
+  function prevSlide() {
+    currentSlide--;
+    showSlide(currentSlide);
+  }
+
+  // 초기 슬라이드 설정
+  showSlide(currentSlide);
+</script>
