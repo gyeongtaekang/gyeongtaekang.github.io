@@ -7,7 +7,7 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: contact
+  - block: markdown
     content:
       title: Contact
       text: |-
