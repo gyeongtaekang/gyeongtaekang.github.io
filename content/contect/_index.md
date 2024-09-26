@@ -1,5 +1,5 @@
 ---
-title: 'News'
+title: 'contect'
 date: 2023-10-24
 type: landing
 
@@ -10,7 +10,7 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 의료 AI 및 계산 수학 연구실 (Macs)의 학부연구생/석사 position에 관심 있으시면 아래로 연락주시면 감사드리겠습니다.</span> <br>
+        <br> <span style="font-size:95%">전북대학교 컴퓨터 공학부 7호관 533호 Macs 연구실</span> <br>
         <iframe
           width="100%"
           height="400"
