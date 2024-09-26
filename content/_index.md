@@ -83,56 +83,109 @@ sections:
       title: 
       text: <br><span style="font-size:125%">MacsLAB에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
 
-  - block: markdown
-    content:
-      title: '슬라이더'
-      text: |-
-        <style>
-          .slider-container {
-            max-width: 100%;
-            overflow: hidden;
-            position: relative;
-          }
+- block: slider
+  content:
+    slides:
 
-          .slides {
-            display: flex;
-            transition: transform 0.5s ease-in-out;
-          }
+      - title: <span style="font-size:90%">AI</span>
+        content: <span style="font-size:90%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-          .slide-item {
-            min-width: 100%;
-            flex-shrink: 0;
-            text-align: center;
-          }
+      - title: <span style="font-size:90%">Medical AI</span>
+        content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-          .slide-item img {
-            width: 100%;
-            height: auto;
-          }
-        </style>
+      - title: <span style="font-size:90%">Healthcare</span>
+        content: <span style="font-size:90%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-        <div id="slider" class="slider-container">
-          <div class="slides">
-            <!-- 슬라이드 1 -->
-            <div class="slide-item">
-              <img src="/assets/media/presentation.jpg" alt="Slide 1">
-              <div class="caption">AI - 의료/항공우주/컨텐츠 분야</div>
-            </div>
-            <!-- 슬라이드 2 -->
-            <div class="slide-item">
-              <img src="/assets/media/presentation.jpg" alt="Slide 2">
-              <div class="caption">Medical AI - 의료 진단 및 환경 개선</div>
-            </div>
-            <!-- 슬라이드 3 -->
-            <div class="slide-item">
-              <img src="/assets/media/presentation.jpg" alt="Slide 3">
-              <div class="caption">Healthcare - 의료 및 헬스케어 분야</div>
-            </div>
-            <!-- 추가 슬라이드를 이곳에 추가할 수 있습니다 -->
-          </div>
-        </div>
-    design:
-      view: plain
+      - title: <span style="font-size:90%">Aerospace</span>
+        content: <span style="font-size:90%">항공우주에 적용 가능한 특성화 AI 기술 개발</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Contents AI</span>
+        content: <span style="font-size:90%">웹툰 및 컨텐츠 적용 가능한 특성화 AI 기술 개발</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Mathematics</span>
+        content: <span style="font-size:90%">AI와 관련된 수학 및 최적화 이론 연구</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Development</span>
+        content: <span style="font-size:90%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Recruit</span>
+        content: <span style="font-size:90%">Interested in MacsLAB?</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Join Us</span>
+          text-color: '#000'
+          url: contact
+
+  design:
+    slide_height: '350px'
+    is_fullscreen: true
+    loop: true
+    interval: 3000
 
   - block: cta-card
     demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
