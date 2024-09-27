@@ -7,8 +7,6 @@
 appearance:
   mode: system
   color: emerald
-  theme_day : custom
-  theme_night : custom
 
 # SEO
 marketing:
