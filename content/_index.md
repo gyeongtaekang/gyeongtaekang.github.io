@@ -82,18 +82,34 @@ sections:
       spacing:
         padding: [100px, 0, 0, 0]  # 상단에 100px 간격 추가
 
-  - block: slideshow
+
+
+  - block: slider
     content:
-      title: "슬라이드 쇼"
       slides:
-        - image: "a.svg"  # 첫 번째 슬라이드 이미지
-          caption: "첫 번째 슬라이드 설명"
-        - image: "media/presentation.jpg"  # 두 번째 슬라이드 이미지
-          caption: "두 번째 슬라이드 설명"
-        - image: "media/presentation.jpg"  # 세 번째 슬라이드 이미지
-          caption: "세 번째 슬라이드 설명"
-    design:
-      css_class: "slideshow"
+
+      - title: <span style="font-size:70%">Recruit</span>
+        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">Healthcare</span>
+        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
 
 
 
