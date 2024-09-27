@@ -45,8 +45,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+      - title: <span style="font-size:70%">코딩</span>
+        content: <span style="font-size:70%">컴퓨터 과학이나 코딩에 관심있으십니까?</span>
         align: center
         background:
           image:
@@ -56,8 +56,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: <span style="font-size:70%">런닝</span>
+        content: <span style="font-size:70%">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>
         align: center
         background:
           image:
@@ -67,8 +67,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+      - title: <span style="font-size:70%">대학원</span>
+        content: <span style="font-size:70%">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>
         align: center
         background:
           image:
