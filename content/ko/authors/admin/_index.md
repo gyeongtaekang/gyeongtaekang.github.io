@@ -35,12 +35,12 @@ interests:
 
 education:
   courses:
-    - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-      institution: 대구경북과학기술원 (DGIST)
-      year: 2018 - 2023
-    - course: B.S. in (전산전자공학부)
-      institution: 한동대학교
-      year: 2014 - 2018
+    - course: 컴퓨터공학부
+      institution: 전북대학교(JBNU)
+      year: 2020 - 2025
+    - course: 일반계(이공계열)
+      institution: 전주고등학교
+      year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
