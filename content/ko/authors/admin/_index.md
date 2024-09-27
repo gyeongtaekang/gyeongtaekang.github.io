@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 이경수
+title: 강경태
 
 # Full Name (for SEO)
-first_name: Kyungsu
-last_name: Lee
+first_name: gyeongtae
+last_name: Kang
 
 # Username (this should match the folder name)
 authors:
@@ -14,12 +14,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 조교수
+role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교 컴퓨터인공지능학부
-    url: 'https://csai.jbnu.ac.kr/csai/index.do'
+  - name: 경태의 개발연습
+    url: 'https://gyeongta1101.netlify.app'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.

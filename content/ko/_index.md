@@ -92,7 +92,7 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">Lab's Interests</span>
+      title: <span style="font-size:75%">강경태의 관심사</span>
       text: 저는 다음과 같은 주제에 관심이 있습니다.<br><br><br><br>
       items:
         - name: 인공지능(AI)
