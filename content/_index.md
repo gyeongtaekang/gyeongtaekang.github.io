@@ -5,9 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 기본 섹션 간격
-  spacing: "6rem"
-
 
   - block: features
     id: features
