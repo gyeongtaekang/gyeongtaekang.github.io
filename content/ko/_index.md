@@ -8,17 +8,17 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
-      text: <br><span style="font-size:125%">전북대학교 의료 AI 및 계산 과학 연구실 홈페이지에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
+      title: <span style="font-size:70%">강경태의 포트폴리오 사이트</span>
+      text: <br><span style="font-size:125%">강경태의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>
+        {{% cta cta_link="./field/" cta_text="더보기 →" %}}
 
 
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:70%">공모전</span>
+        content: <span style="font-size:70%">다양한 공모전에 관심있으십니까?</span>
         align: center
         background:
           image:
@@ -34,8 +34,8 @@ sections:
           text-color: '#000'
           url: contact
 
-      - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:70%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
+      - title: <span style="font-size:70%">아웃소싱(외주)</span>
+        content: <span style="font-size:70%">크몽이나 기타 외주를 받고싶으십니까?<span style="font-size:70%">
         align: center
         background:
           image:
