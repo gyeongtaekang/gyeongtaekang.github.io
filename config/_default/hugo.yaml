@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 꽁탱탱 # Website name
+title: 경탱탱 # Website name
 baseURL: 'https://gyeongtaekang.github.io/' # Website URL
 
 ############################
