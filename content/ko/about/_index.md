@@ -70,8 +70,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Mathematics</span>
-        content: <span style="font-size:90%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: <span style="font-size:90%">2022년도 2학기 의류학과 2학년 과탑</span>
+        content: <span style="font-size:90%">의류학과 시절에도 뛰어난 학업 성과를 거둔 것은 학업 성취도와 노력의 결과를 보여줍니다.</span>
         align: center
         background:
           image:
@@ -81,8 +81,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Development</span>
-        content: <span style="font-size:90%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+      - title: <span style="font-size:90%">2023/12/22 지속가능발전목표 SDGs 프레젠테이션 대회 우수상</span>
+        content: <span style="font-size:90%">지속가능발전목표(SDGs) 프레젠테이션 대회에서 우수상을 수상한 것은 사회적 문제 해결과 발표 능력에서의 역량을 보여줍니다.</span>
         align: center
         background:
           image:
@@ -93,8 +93,8 @@ sections:
           color: '#000'
 
 
-      - title: <span style="font-size:90%">Recruit</span>
-        content: <span style="font-size:90%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:90%">2024/01/09~2024/01/12 동계 빅데이터 캠프 이수</span>
+        content: <span style="font-size:90%">빅데이터 캠프를 이수한 것은 데이터 분석과 AI에 대한 관심과 역량 향상에 중요한 경험으로, 현재 연구와 관련된 전문성을 나타냅니다.</span>
         align: center
         background:
           image:
