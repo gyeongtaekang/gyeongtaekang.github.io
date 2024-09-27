@@ -1,27 +1,66 @@
 # Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
 main:
-  - name: Introduce
-    url: /
-    weight: 10
-  - name: error
-    url: /error
-    weight: 14
-  - name: event
-    url: /event
-    weight: 14
-  - name: Experience
-    url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
-  - name: contect
-    url: /contect
-    weight: 50
-    children:  # 서브메뉴를 추가하는 부분
-      - name: 안녕
-        url: /contect/hello  # 서브메뉴 링크
-        weight: 90  # 서브메뉴의 순서
+  # - name: Home
+  #   url: /
+  #   weight: 1
+  - name: About
+    url: about
+    weight: 100
+
+  - name: People
+    url: people
+    weight: 200
+  - parent: People
+    name: Professor
+    url: /author/이경수/
+    weight: 210
+  - parent: People
+    name: Members
+    url: people
+    weight: 220
+
+  - name: Research
+    url: publication
+    weight: 300
+  - parent: Research
+    name: Publications
+    url: publication
+    weight: 310
+  - parent: Research
+    name: Research Fields
+    url: field
+    weight: 320
+
+  # - name: Projects
+  #   url: project
+  #   weight: 400
+
+
+  # - name: Coursework
+  #   url: publication
+  #   weight: 500
+
+  - name: Inform
+    url: post
+    weight: 600
+  - parent: Inform
+    name: Notifications
+    url: notification
+    weight: 610
+  - parent: Inform
+    name: News
+    url: post
+    weight: 620
+  - parent: Inform
+    name: Event
+    url: event
+    weight: 630
+
+
+  - name: Contact
+    url: contact
+    weight: 700
