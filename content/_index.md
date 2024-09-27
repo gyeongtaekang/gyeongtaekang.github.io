@@ -5,6 +5,20 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+
+      - title: <span style="font-size:70%">Recruit</span>
+        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+        align: center
+        background:
+          image:
+            filename: presentation.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
   - block: features
     id: features
@@ -37,6 +51,18 @@ sections:
           icon_pack: fab
           description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
 
+
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      slide_width: '100px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
+
+
   - block: markdown
     content:
       title: '📚 나에 대해'
@@ -57,34 +83,6 @@ sections:
       # 간격 줄이기
       spacing:
         padding: [100px, 0, 0, 0]  # 상단에 100px 간격 추가
-
-
-
-  - block: slider
-    content:
-      slides:
-
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
-        align: center
-        background:
-          image:
-            filename: presentation.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
 
 
 
