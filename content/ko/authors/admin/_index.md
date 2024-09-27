@@ -22,15 +22,16 @@ organizations:
     url: 'https://gyeongta1101.netlify.app'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+bio: 
+전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
 
 interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
+  - 인공지능 및 딥러닝
+  - 데이터 분석 및 빅데이터
+  - 소프트웨어 개발 및 프로그래밍
+  - 창업 및 아이디어 구현
+  - 사회 문제 해결 및 지속가능성
+  - 서비스 경험 및 소통
 
 education:
   courses:
