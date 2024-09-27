@@ -8,17 +8,17 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-size:70%">강경태의 포트폴리오 사이트</span>
-      text: <br><span style="font-size:125%">강경태의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="더보기 →" %}}
+      title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
+      text: "<br><span style=\"font-size:125%\">강경태의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
-- block: image
-  id: profile-image
-  content:
-    title: ""
-    text: |
-      <!-- Add the image below -->
-      <img src="media/me.jpg" alt="My Image" style="max-width: 300px; border-radius: 10px;">
+  - block: image
+    id: profile-image
+    content:
+      title: ""
+      text: |
+        <!-- Add the image below -->
+        <img src="media/me.jpg" alt="My Image" style="max-width: 300px; border-radius: 10px;">
+
 
 
   - block: slider
