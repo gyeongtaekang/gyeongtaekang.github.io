@@ -9,25 +9,6 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography
-    content:
-      # 표시할 사용자 프로필 선택 (`content/authors/` 내 폴더명)
-      username: admin
-      text: ""
-      # 전기 아래에 동작 버튼을 표시할까요? (선택 사항)
-
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # `assets/media/`에 배경 이미지를 추가하세요.
-          filename: a.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
           
 
   - block: features
