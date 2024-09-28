@@ -3,32 +3,29 @@
 title:
 date: 2024-03-25
 type: landing
----
-
-# Define a 2-column layout for image and text side by side
-- block: layout
-  content:
-    columns:
-      - width: 50%
-        content:
-          - block: image
-            content:
-              title: ""
-              text: |
-                <img src="media/Ai.jpg" alt="Description of Image" style="max-width: 100%; border-radius: 10px;">
-      - width: 50%
-        content:
-          - block: markdown
-            content:
-              title: ""
-              subtitle: ""
-              text: |
-                <span style="font-size:125%">여기에 원하는 글을 작성하세요.</span> <br><br>
-                텍스트 내용을 이 부분에 추가하세요.
+sections:
+  # Define a 2-column layout for image and text side by side
+  - block: layout
+    content:
+      columns:
+        - width: 50%
+          content:
+            - block: image
+              content:
+                title: ""
+                text: |
+                  <img src="media/Ai.jpg" alt="Description of Image" style="max-width: 100%; border-radius: 10px;">
+        - width: 50%
+          content:
+            - block: markdown
+              content:
+                title: ""
+                subtitle: ""
+                text: |
+                  <span style="font-size:125%">여기에 원하는 글을 작성하세요.</span> <br><br>
+                  텍스트 내용을 이 부분에 추가하세요.
     design:
       gutter: "20px" # Adjust space between image and text
-
-sections:
 
   - block: features
     content:
@@ -46,67 +43,66 @@ sections:
   - block: slider
     content:
       slides:
+        - title: <span style="font-size:70%">공모전</span>
+          content: <span style="font-size:70%">다양한 공모전에 관심있으십니까?</span>
+          align: center
+          background:
+            image:
+              filename: recruitment.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
+          link:
+            icon: user
+            icon_pack: fas
+            text: <span style="font-size:60%">Join Us</span>
+            text-color: '#000'
+            url: contact
 
-      - title: <span style="font-size:70%">공모전</span>
-        content: <span style="font-size:70%">다양한 공모전에 관심있으십니까?</span>
-        align: center
-        background:
-          image:
-            filename: recruitment.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-        link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
-          text-color: '#000'
-          url: contact
+        - title: <span style="font-size:70%">아웃소싱(외주)</span>
+          content: <span style="font-size:70%">크몽이나 기타 외주를 받고싶으십니까?</span>
+          align: center
+          background:
+            image:
+              filename: Ai.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
 
-      - title: <span style="font-size:70%">아웃소싱(외주)</span>
-        content: <span style="font-size:70%">크몽이나 기타 외주를 받고싶으십니까?</span>
-        align: center
-        background:
-          image:
-            filename: Ai.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
+        - title: <span style="font-size:70%">코딩</span>
+          content: <span style="font-size:70%">컴퓨터 과학이나 코딩에 관심있으십니까?</span>
+          align: center
+          background:
+            image:
+              filename: healthcare.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
 
-      - title: <span style="font-size:70%">코딩</span>
-        content: <span style="font-size:70%">컴퓨터 과학이나 코딩에 관심있으십니까?</span>
-        align: center
-        background:
-          image:
-            filename: healthcare.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
+        - title: <span style="font-size:70%">런닝</span>
+          content: <span style="font-size:70%">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>
+          align: center
+          background:
+            image:
+              filename: mathematics.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
 
-      - title: <span style="font-size:70%">런닝</span>
-        content: <span style="font-size:70%">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>
-        align: center
-        background:
-          image:
-            filename: mathematics.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">대학원</span>
-        content: <span style="font-size:70%">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>
-        align: center
-        background:
-          image:
-            filename: development.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
+        - title: <span style="font-size:70%">대학원</span>
+          content: <span style="font-size:70%">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>
+          align: center
+          background:
+            image:
+              filename: development.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
 
     design:
       slide_height: '350px'
@@ -193,3 +189,4 @@ sections:
         {{% cta cta_link="./contact/" cta_text="Join team →" %}}
     design:
       columns: '1'
+---
