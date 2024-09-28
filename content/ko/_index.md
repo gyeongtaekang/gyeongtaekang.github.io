@@ -3,33 +3,10 @@
 title:
 date: 2024-03-25
 type: landing
----
+
+
 
 sections:
-
-  - block: layout
-    content:
-      # Define a 2-column layout for image and text side by side
-      columns:
-        - width: 50%
-          content:
-            - block: image
-              content:
-                title: ""
-                text: |
-                  <img src="media/Ai.jpg" alt="Description of Image" style="max-width: 100%; border-radius: 10px;">
-        - width: 50%
-          content:
-            - block: markdown
-              content:
-                title: ""
-                subtitle: ""
-                text: |
-                  <span style="font-size:125%">여기에 원하는 글을 작성하세요.</span> <br><br>
-                  텍스트 내용을 이 부분에 추가하세요.
-    design:
-      # Customize the layout of the columns
-      gutter: "20px" # Adjust space between image and text
 
   - block: features
     content:
@@ -43,6 +20,8 @@ sections:
       text: |
         <!-- Add the image below -->
         <img src="media/me.jpg" alt="My Image" style="max-width: 300px; border-radius: 10px;">
+
+
 
   - block: slider
     content:
@@ -66,7 +45,7 @@ sections:
           url: contact
 
       - title: <span style="font-size:70%">아웃소싱(외주)</span>
-        content: <span style="font-size:70%">크몽이나 기타 외주를 받고싶으십니까?</span>
+        content: <span style="font-size:70%">크몽이나 기타 외주를 받고싶으십니까?<span style="font-size:70%">
         align: center
         background:
           image:
@@ -119,6 +98,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 3000
 
+
   - block: features
     id: features
     content:
@@ -149,6 +129,7 @@ sections:
           icon: app-store-ios
           icon_pack: fab
           description:  <span style="font-size:90%">노트북,스마트폰등 혼자서 분해 조립가능</span><br><br>
+
 
   - block: collection
     content:
@@ -197,3 +178,4 @@ sections:
         {{% cta cta_link="./contact/" cta_text="Join team →" %}}
     design:
       columns: '1'
+---
