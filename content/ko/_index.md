@@ -4,26 +4,7 @@ title:
 date: 2024-03-25
 type: landing
 sections:
-  # Single image block
-  - block: image
-    id: single-image
-    content:
-      title: ""
-      # You can add additional text if necessary
-      text: <span style="font-size:70%">AI와 함께하는 미래</span>
-      background:
-        image:
-          filename: Ai.jpg
-          filters:
-            brightness: 0.6 # Adjust the brightness
-        position: center
-        color: '#000'
-    design:
-      # Optional design properties to adjust image
-      align: center
-      padding: "50px"
 
-      
 
   - block: features
     content:
