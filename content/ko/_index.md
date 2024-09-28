@@ -4,31 +4,31 @@ title:
 date: 2024-03-25
 type: landing
 sections:
-
-  # Add a section to display Ai.jpg image
+  # Single image block
   - block: image
-    id: ai-image
+    id: single-image
     content:
       title: ""
-      text: |
-        <!-- Display Ai.jpg image -->
-        <img src="media/Ai.jpg" alt="AI Image" style="max-width: 100%; border-radius: 10px;">
+      # You can add additional text if necessary
+      text: <span style="font-size:70%">AI와 함께하는 미래</span>
+      background:
+        image:
+          filename: Ai.jpg
+          filters:
+            brightness: 0.6 # Adjust the brightness
+        position: center
+        color: '#000'
     design:
-      # Optional: Customize the layout of the image (center it)
+      # Optional design properties to adjust image
       align: center
+      padding: "50px"
+
+      
 
   - block: features
     content:
       title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
       text: "<br><span style=\"font-size:125%\">강경태의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
-
-  - block: image
-    id: profile-image
-    content:
-      title: ""
-      text: |
-        <!-- Add the profile image below -->
-        <img src="media/me.jpg" alt="My Image" style="max-width: 300px; border-radius: 10px;">
 
   - block: slider
     content:
