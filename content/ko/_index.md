@@ -1,9 +1,52 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2024-03-25
-type: landing
+# Display name
+title: '강건우'
+lang: ko
+# Full name (for SEO)
+first_name: Kang
+last_name: gunwoo
 
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: Student
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: 전북대학교 통계학과
+    url: https://stat.jbnu.ac.kr/
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:rkdrjsdn1000@naver.com'
+    label: E-mail Me
+  - icon: brands/instagram
+    url: https://www.instagram.com/_gunn__oo__
+  - icon: brands/github
+    url: https://github.com/gumwoo
+  - icon: at-symbol
+    url: https://velog.io/@_gunnn_oo__
+    label: Velog
+  - icon: at-symbol
+    url: https://blog.naver.com/gunnn___
+    label: Naver Blog
+
+interests:
+  - Backend Development
+  - AI
+
+education:
+  - area: 통계학, 컴퓨터 공학
+    institution: 전북대학교
+    date_start: 2020-03-02
+# Skills
 sections:
 
   - block: features
