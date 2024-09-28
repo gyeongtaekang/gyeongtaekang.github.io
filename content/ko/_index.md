@@ -6,6 +6,18 @@ type: landing
 sections:
 
 
+  # Add a section to display Ai.jpg image
+  - block: image
+    id: ai-image
+    content:
+      title: ""
+      text: |
+        <!-- Display Ai.jpg image -->
+        <img src="media/Ai.jpg" alt="AI Image" style="max-width: 100%; border-radius: 10px;">
+    design:
+      # Optional: Customize the layout of the image (center it)
+      align: center
+
   - block: features
     content:
       title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
