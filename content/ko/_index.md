@@ -97,7 +97,7 @@ sections:
       text: 저는 다음과 같은 주제에 관심이 있습니다.<br><br><br><br>
       items:
         - name: 인공지능(AI)
-          icon: medical.svg
+          icon: medical
           icon_pack: fas
           description: <span style="font-size:90%">기계학습,딥러닝,Rnn,컴퓨터 비전 등등</span><br><br>
         - name: 런닝
