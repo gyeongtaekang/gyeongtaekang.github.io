@@ -5,7 +5,6 @@ date: 2024-03-25
 type: landing
 sections:
 
-
   # Add a section to display Ai.jpg image
   - block: image
     id: ai-image
@@ -28,7 +27,7 @@ sections:
     content:
       title: ""
       text: |
-        <!-- Add the image below -->
+        <!-- Add the profile image below -->
         <img src="media/me.jpg" alt="My Image" style="max-width: 300px; border-radius: 10px;">
 
   - block: slider
@@ -180,4 +179,3 @@ sections:
         {{% cta cta_link="./contact/" cta_text="Join team →" %}}
     design:
       columns: '1'
----
