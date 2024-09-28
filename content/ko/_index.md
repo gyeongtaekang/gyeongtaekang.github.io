@@ -4,28 +4,7 @@ title:
 date: 2024-03-25
 type: landing
 sections:
-  # Define a 2-column layout for image and text side by side
-  - block: layout
-    content:
-      columns:
-        - width: 50%
-          content:
-            - block: image
-              content:
-                title: ""
-                text: |
-                  <img src="media/Ai.jpg" alt="Description of Image" style="max-width: 100%; border-radius: 10px;">
-        - width: 50%
-          content:
-            - block: markdown
-              content:
-                title: ""
-                subtitle: ""
-                text: |
-                  <span style="font-size:125%">여기에 원하는 글을 작성하세요.</span> <br><br>
-                  텍스트 내용을 이 부분에 추가하세요.
-    design:
-      gutter: "20px" # Adjust space between image and text
+
 
   - block: features
     content:

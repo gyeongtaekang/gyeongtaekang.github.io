@@ -1,0 +1,24 @@
+{{/* layouts/partials/blocks/layout.html */}}
+
+<div class="row">
+    {{ range .content.columns }}
+    <div class="col-md-{{ default 6 .width }}"> <!-- Use width or default to 50% (6 out of 12 grid) -->
+      {{ if .content }}
+        <!-- Check if the block contains an image -->
+        {{ with .content.image }}
+        <div class="block-image">
+          <img src="{{ .src | absURL }}" alt="{{ .alt }}" style="max-width: 100%; border-radius: 10px;">
+        </div>
+        {{ end }}
+  
+        <!-- Check if the block contains markdown content -->
+        {{ with .content.markdown }}
+        <div class="block-text">
+          {{ .text | markdownify }}
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  
