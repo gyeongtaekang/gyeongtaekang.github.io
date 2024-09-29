@@ -5,6 +5,57 @@ date: 2024-03-25
 type: landing
 sections:
 
+  - block: markdown
+    content:
+      text: |
+        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
+    design:
+      columns: '1'
+
+  - block: about.biography
+    id: about
+    content:
+      title: ''
+      username: admin
+    design:
+      background:
+        color: gray
+
+  - block: markdown
+    content:
+      title: About me
+      text: |- 
+        <span class="justified-text">
+        어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 융합하고 탐구하는 것을 즐깁니다. 의료 인공지능과 뇌공학 분야에서 뇌의 메커니즘을 해석하는 연구에 관심이 있습니다.
+        </span>
+
+  - block: features
+    content:
+      title: "Interests"
+      items:
+        - name: "인공지능 (AI)"
+          icon: brain
+          icon_pack: fas
+        - name: "Data Science"
+          icon: database
+          icon_pack: fas
+        - name: "개발 (Development)"
+          icon: laptop
+          icon_pack: fas
+        - name: "의학, 의공학"
+          icon: hospital
+          icon_pack: fas
+        - name: "Medical AI & Brain"
+          icon: laptop-medical
+          icon_pack: fas
+        - name: "Algorithm"
+          icon: code
+          icon_pack: fas
+
+    design:
+      columns: '1'
+
+
   - block: features
     content:
       title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
@@ -147,168 +198,15 @@ sections:
     advanced:
       css_style: "text-align: center;"
 
-  - block: markdown
-    content:
-      text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
-    design:
-      columns: '1'
 
-  - block: about.biography
-    id: about
-    content:
-      title: ''
-      username: admin
-    design:
-      background:
-        color: gray
 
-  - block: markdown
-    content:
-      title: About me
-      text: |- 
-        <span class="justified-text">
-        어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 융합하고 탐구하는 것을 즐깁니다. 의료 인공지능과 뇌공학 분야에서 뇌의 메커니즘을 해석하는 연구에 관심이 있습니다.
-        </span>
-
-  - block: features
-    content:
-      title: "Interests"
-      items:
-        - name: "인공지능 (AI)"
-          icon: brain
-          icon_pack: fas
-        - name: "Data Science"
-          icon: database
-          icon_pack: fas
-        - name: "개발 (Development)"
-          icon: laptop
-          icon_pack: fas
-        - name: "의학, 의공학"
-          icon: hospital
-          icon_pack: fas
-        - name: "Medical AI & Brain"
-          icon: laptop-medical
-          icon_pack: fas
-        - name: "Algorithm"
-          icon: code
-          icon_pack: fas
-
-    design:
-      columns: '1'
-
-  - block: skills
-    content:
-      title: Languages & Technologies
-      username: admin
-      css_style: |
-        #section-skills > .col-12 {
-          display: flex;
-          flex-wrap: wrap;
-          width: 100%;
-          justify-content: flex-start;
-        } 
-        #section-skills .row {
-          display: flex;
-          flex-direction: column;
-        }
-        #section-skills .col-12 .col-md-6 {
-          flex-direction: column;
-          flex: 0 0 25%;
-        }
-        .skills-content {
-          margin-left: 30px;
-          margin-right: 30px;
-        }
-        .skills-wrapper {
-          border: 1px solid #00E5E5;
-        }
-        .skills-percent {
-          background-color: #00FFFF;
-        }
-    design:
-      columns: '1'
-
-  - block: skills
-    content:
-      title: Skills
-      username: admin
-      css_style: |
-        #section-skills > .col-12 {
-          display: flex;
-          flex-wrap: wrap;
-          width: 100%;
-          justify-content: flex-start;
-        } 
-        #section-skills .row {
-          display: flex;
-          flex-direction: column;
-        }
-        #section-skills .col-12 .col-md-6 {
-          display: flex;
-          flex: 0 0 50%;
-        }
-        .skills-content {
-          margin-left: 30px;
-          margin-right: 30px;
-        }
-        .skills-wrapper {
-          border: 1px solid #00E5E5;
-        }
-        .skills-percent {
-          background-color: #00FFFF;
-        }
-    design:
-      columns: 1
-
-  - block: collection
-    content:
-      id: section-1
-      title: Various Activities
-      count: 60
-      offset: 0
-      order: desc
-      filters:
-        folders:
-          - collaborate/Litmus Renewal Project
-          - researchproject
-          - course/CAPSTONE
-    design:
-      view: card
-      columns: '2'
-
-  - block: features
-    content:
-      title: Favorites
-      items:
-        - name: Cat
-          icon: cat
-          icon_pack: fas
-        - name: Book
-          icon: book-open
-          icon_pack: fas
-        - name: Music
-          icon: music
-          icon_pack: fas
-        - name: Photography
-          icon: camera-retro
-          icon_pack: fas
-        - name: Coffee & Tea
-          icon: coffee
-          icon_pack: fas
-        - name: Whiskey
-          icon: whiskey-glass
-          icon_pack: fas
-
-    design:
-      columns: 2
 
   - block: experience
     content:
       title: Education
       items:
         - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
-          description: 전북대학교 (학석사 연계 과정)
+          description: 전북대학교 
           date_start: '2025-09-02'
           date_end: '2027-02-28'
         - title: B.S. in (컴퓨터공학부)
