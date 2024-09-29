@@ -62,10 +62,10 @@ url_pdf: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-o
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
+ image:
+   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+   focal_point: ''
+   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
