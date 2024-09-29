@@ -46,7 +46,7 @@ sections:
             겨울 스포츠 경험 및 알바 활동
 
         - title: 전북대학교 의류학과 2학년 과탑
-          date_start: '2022-2학기'
+          date_start: '2022-09-01'  # 날짜 형식을 변경
           description: |
             학과에서 우수한 성적으로 과탑 수상
 
@@ -117,8 +117,6 @@ sections:
           date_end: '2024-08-31'
           description: |
             전주의 가맥지기로 활동하며 다양한 경험
- 
-
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
   image: 'featured.jpg'
