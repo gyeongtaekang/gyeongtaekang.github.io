@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Student
+      title: 주인
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -21,7 +21,7 @@ sections:
 
   - block: people
     content:
-      title: Student Researchers
+      title: 애완동물
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
