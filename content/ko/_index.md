@@ -192,7 +192,7 @@ sections:
     content:
       title: My tags
       subtitle: ''
-      text: 어떤 태그들을 주로 사용했는지 확인할 수 있습니다.
+      text: 사용한 태그들
       taxonomy: tags
       count: 0
     design:
