@@ -70,7 +70,7 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">2022년도 2학기 의류학과 2학년 과탑</span>
+      - title: <span style="font-size:90%">2022년도 2학기 의류학과 과탑</span>
         content: <span style="font-size:90%">의류학과 시절에도 뛰어난 학업 성과를 거둔 것은 학업 성취도와 노력의 결과를 보여줍니다.</span>
         align: center
         background:
