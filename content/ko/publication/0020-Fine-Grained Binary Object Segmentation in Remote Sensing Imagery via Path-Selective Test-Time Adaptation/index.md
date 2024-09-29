@@ -51,12 +51,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
-url_code: ''
+# url_code: ''
 # url_dataset: '{{url_dataset}}'
 # url_poster: '{{url_poster}}'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://doi.org/10.1109/TGRS.2024.3378311'
+# url_source: 'https://doi.org/10.1109/TGRS.2024.3378311'
 # url_video: ''
 
 # Featured image
