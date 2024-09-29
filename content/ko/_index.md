@@ -13,7 +13,12 @@ sections:
       username: admin
     design:
       background:
-        color: green
+        image:
+          filename: media/Ai.jpg
+          # Optional: Set background image options
+          size: cover
+          position: center
+          parallax: false
 
   - block: markdown
     content:
