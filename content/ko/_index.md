@@ -24,7 +24,7 @@ sections:
     content:
       title: About me
       text: |- 
-        <span class="justified-text">
+        <span class="justified-text" style="color: gray;">
         어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 융합하고 탐구하는 것을 즐깁니다. 의료 인공지능과 뇌공학 분야에서 뇌의 메커니즘을 해석하는 연구에 관심이 있습니다.
         </span>
 
