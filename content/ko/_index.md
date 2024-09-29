@@ -14,7 +14,7 @@ sections:
     design:
       background:
         image:
-          filename: 배경.svg
+          filename: 18216.jpg
           # Optional: Set background image options
           size: cover
           position: center
