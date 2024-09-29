@@ -22,9 +22,7 @@ publishDate: '2024-03-20'
 # Publication type.
 publication_types: ['article-journal']
 
-# Publication name and optional abbreviated publication name.
-publication: 'IEEE Transactions on Geoscience and Remote Sensing'
-publication_short: 'IEEE Transactions on Geoscience and Remote Sensing (TGRS)  [__SCI(E); IF=8.20, 5.20% (Q1)__]'
+
 
 abstract: |
   **사지연장술 원리**: 사지연장술은 뼈를 연장하여 팔다리의 길이를 늘리는 수술입니다. 이 수술은 주로 선천적인 기형이나 외상으로 인한 팔다리의 불균형을 교정하거나, 개인의 신체적인 이유로 키를 늘리기 위해 시행됩니다. 이를 가능하게 하는 핵심 원리는 뼈의 재생 능력을 활용하는 것이며, 연장술은 이를 효과적으로 이용하는 수술 방법입니다.
@@ -42,7 +40,7 @@ abstract: |
 # Summary. An optional shortened abstract.
 summary: ___SCI(E); IF=8.20, 5.20% (Q1)___ <br> _IEEE Transactions on Geoscience and Remote Sensing (TGRS, 2024, Vol. 62)_
 
-tags: ['AI', 'remote sensing', 'Fine-Tuning', 'Segmentation', 'Test-Time Adaptation', 'Q1']
+tags: ['사지연장술', '키수술', '터키 병원', '이동훈정형외과', '뉴본정형외과', '정형외과']
 
 # Display this page in the Featured widget?
 featured: true
