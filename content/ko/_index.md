@@ -14,7 +14,7 @@ sections:
     design:
       background:
         image:
-          filename: Ai.jpg
+          filename: 배경.svg
           # Optional: Set background image options
           size: cover
           position: center
