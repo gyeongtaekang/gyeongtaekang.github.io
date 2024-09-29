@@ -204,13 +204,13 @@ sections:
     content:
       title: Education
       items:
-        - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
-          description: 전북대학교 
-          date_start: '2025-09-02'
-          date_end: '2027-02-28'
+        - title: 이공계열
+          description: 전주고등학교
+          date_start: '2016-03-02'
+          date_end: '2019-12-31'
         - title: B.S. in (컴퓨터공학부)
           description: 전북대학교 (JBNU) 컴퓨터공학부
-          date_start: '2022-03-02'
+          date_start: '2020-03-02'
           date_end: '2025-08-31'
 
   - block: tag_cloud
