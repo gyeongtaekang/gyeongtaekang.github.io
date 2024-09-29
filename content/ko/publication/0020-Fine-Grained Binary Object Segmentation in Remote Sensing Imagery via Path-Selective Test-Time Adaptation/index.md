@@ -13,8 +13,8 @@ author_notes:
   - 'Corresponding author'
 
 # date format: '2013-07-01T00:00:00Z'
-date: '2024-03-20'
-doi: 'https://doi.org/10.1109/TGRS.2024.3378311'
+# date: '2024-03-20'
+# doi: 'https://doi.org/10.1109/TGRS.2024.3378311'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-03-20'
