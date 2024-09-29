@@ -38,7 +38,7 @@ abstract: |
   **연장 후 고정 및 회복**: 연장이 완료된 후에는 뼈가 완전히 치유되고 단단해질 때까지 고정 장치를 계속 유지합니다. 이 기간 동안 환자는 골밀도를 높이고 근육과 신경 조직을 재활할 수 있도록 운동을 병행하게 됩니다. 뼈의 치유는 뼈의 길이, 환자의 나이, 건강 상태에 따라 차이가 있지만 대체로 수개월이 소요됩니다.
 
 # Summary. An optional shortened abstract.
-summary: ___SCI(E); IF=8.20, 5.20% (Q1)___ <br> _IEEE Transactions on Geoscience and Remote Sensing (TGRS, 2024, Vol. 62)_
+summary: ___사지연장술에 대해 <br> _키가 작아서 고민인 저는 키수술을 해야할거같습니다_
 
 tags: ['사지연장술', '키수술', '터키 병원', '이동훈정형외과', '뉴본정형외과', '정형외과']
 
