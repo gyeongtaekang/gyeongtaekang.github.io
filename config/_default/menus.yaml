@@ -40,11 +40,11 @@ main:
     weight: 330
   - parent: Campus Life
     name: Awards & Achievements
-    url: Awards
+    url: /Campus Life/Awards/
     weight: 340
   - parent: Campus Life
     name: Extracurricular Activities
-    url: Activities
+    url: /Campus Life/Activities/
     weight: 350
   # - name: Projects
   #   url: project
