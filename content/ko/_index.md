@@ -14,7 +14,7 @@ sections:
     design:
       background:
         image:
-          filename: media/Ai.jpg
+          filename: Ai.jpg
           # Optional: Set background image options
           size: cover
           position: center
