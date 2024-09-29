@@ -1,51 +1,42 @@
 ---
-title: 'Intelligent Bladder Volume Monitoring for Wearable Ultrasound Devices: Enhancing Accuracy through Deep Learning-based Coarse-to-Fine Shape Estimation'
+title: '런닝의 효과에 대하여'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - 이경수
-  - 이문환
-  - 강동호
-  - 김세웅
-  - 장진호
-  - 오승준
-  - 황재윤
+  - 강경태
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
   - ''
   - ''
   - ''
   - 'Corresponding author'
-  - 'Corresponding author'
-# {{equal}}
 
 # date format: '2013-07-01T00:00:00Z'
-date: '2024-01-05'
-doi: 'https://doi.org/10.1109/TUFFC.2024.3350033'
+# date: '2024-03-20'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-05'
+publishDate: '2024-03-20'
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ['article-journal']
 
-# Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-publication_short: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC)  [__SCI(E); IF=3.6, 17.70% (Q1)__]
+abstract: |
+  **런닝의 신체적 효과**: 런닝은 가장 효과적인 유산소 운동 중 하나로, 체력을 강화하고 심폐 건강을 증진시키는 데 큰 도움을 줍니다. 규칙적인 런닝은 심장과 폐의 기능을 강화하여 산소를 더 효율적으로 사용할 수 있게 하며, 근육의 지구력을 향상시켜 체력 증진에 도움을 줍니다.
 
-abstract: Accurate and continuous bladder volume monitoring is crucial for managing urinary dysfunctions. Wearable ultrasound devices offer a solution by enabling non-invasive and real-time monitoring. Previous studies have limitations in power consumption and computation cost or quantitative volume estimation capability. To alleviate this, we present a novel pipeline that effectively integrates conventional feature extraction and deep learning to achieve continuous quantitative bladder volume monitoring efficiently. Particularly, in the proposed pipeline, bladder shape is coarsely estimated by a simple bladder wall detection algorithm in wearable devices, and the bladder wall coordinates are wirelessly transferred to an external server. Subsequently, a roughly estimated bladder shape from the wall coordinates is refined in an external server with a diffusion-based model. With this approach, power consumption and computation costs on wearable devices remained low, while fully harnessing the potential of deep learning for accurate shape estimation. To evaluate the proposed pipeline, we collected a dataset of bladder ultrasound images and RF signals from 250 patients. By simulating data acquisition from wearable devices using the dataset, we replicated real-world scenarios and validated the proposed method within these scenarios. Experimental results exhibit superior improvements, including +9.32% of IoU value in 2D segmentation and -22.06 of RMSE in bladder volume regression compared to state-of-the-art performance from alternative methods, emphasizing the potential of this approach in continuous bladder volume monitoring in clinical settings. Therefore, this study effectively bridges the gap between accurate bladder volume estimation and the practical deployment of wearable ultrasound devices, promising improved patient care and quality of life.
+  **체중 조절 및 다이어트 효과**: 런닝은 칼로리 소모량이 높은 운동으로, 체중 감량과 체지방 감소에 효과적입니다. 꾸준한 런닝은 신진대사를 촉진시켜 지방을 효과적으로 연소시킬 수 있습니다. 또한 런닝은 운동 후에도 신체가 에너지를 계속 소비하게 하는 '애프터번(Afterburn)' 효과를 가지고 있어 다이어트에 효과적입니다.
 
-# Summary. An optional shortened abstract.
-summary: ___SCI(E); IF=3.60, 17.70% (Q1)___ <br> _IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (TUFFC, 2024, Early Access)_
+  **정신 건강 및 스트레스 완화**: 런닝은 정신 건강에도 긍정적인 효과를 줍니다. 런닝을 할 때 뇌에서 엔돌핀과 같은 '행복 호르몬'이 분비되어 스트레스와 불안을 줄이고 기분을 개선시킵니다. 이는 런닝이 우울증이나 불안증을 겪는 사람들에게 심리적인 안정감을 주는 이유이기도 합니다.
 
-tags: ['AI', 'medical', 'ultrasound', 'Diffusion', 'Q1']
+  **근력 및 골밀도 향상**: 런닝은 주로 하체 근육을 사용하는 운동이지만, 전신의 균형을 유지하고 자세를 바르게 하면서 코어 근육도 단련됩니다. 또한, 꾸준한 런닝은 뼈에 적당한 자극을 주어 골밀도를 향상시키며, 이는 골다공증 예방에도 효과적입니다.
+
+  **심혈관 질환 예방**: 규칙적인 런닝은 고혈압, 심장병, 뇌졸중과 같은 심혈관 질환의 위험을 감소시킵니다. 이는 런닝을 통해 심장과 혈관이 강화되고 혈류가 개선되기 때문입니다. 꾸준한 런닝은 좋은 콜레스테롤(HDL)을 증가시키고 나쁜 콜레스테롤(LDL)을 감소시키는 데에도 도움이 됩니다.
+
+  **면역력 강화 및 수명 연장**: 런닝은 면역체계를 강화하여 감염과 질병으로부터 신체를 보호하는 역할을 합니다. 또한, 전반적인 신체 기능을 개선하고 만성질환의 위험을 줄여 수명을 연장하는 효과도 있습니다.
+
+summary: "런닝은 신체적 건강뿐만 아니라 정신적 안정에도 도움이 되는 종합적인 유산소 운동입니다. 규칙적인 런닝으로 건강한 생활을 추구해 보세요."
+
+tags: ['런닝', '운동', '다이어트', '심혈관 건강', '정신 건강', '면역력 강화']
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,21 +46,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: '{{url_pdf}}'
-url_code: ''
+# url_pdf: ''
+# url_code: ''
 # url_dataset: '{{url_dataset}}'
 # url_poster: '{{url_poster}}'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://doi.org/10.1109/TUFFC.2024.3350033'
+# url_source: ''
 # url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
