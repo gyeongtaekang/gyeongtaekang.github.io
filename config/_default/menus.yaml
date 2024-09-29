@@ -15,7 +15,7 @@ main:
     url: people
     weight: 200
   - parent: People
-    name: Professor
+    name: Student
     url: /author/강경태/
     weight: 210
   - parent: People

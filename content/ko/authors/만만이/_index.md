@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 강경태
+title: 만만이
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,7 +8,7 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 강경태
+  - 만만이
 
 # Is this the primary user of the site?
 superuser: false
