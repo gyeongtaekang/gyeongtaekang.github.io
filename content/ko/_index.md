@@ -29,30 +29,35 @@ sections:
         </span>
 
   - block: features
+    id: features
     content:
-      title: "Interests"
+      title: "<span style=\"font-size:75%\">강경태의 관심사</span>"
+      text: "저는 다음과 같은 주제에 관심이 있습니다.<br><br>"
       items:
-        - name: "인공지능 (AI)"
+        - name: 인공지능(AI)
           icon: brain
           icon_pack: fas
-        - name: "Data Science"
-          icon: database
+          description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN, 컴퓨터 비전 등등</span>"
+        - name: 런닝
+          icon: running
           icon_pack: fas
-        - name: "개발 (Development)"
-          icon: laptop
+          description: "<span style=\"font-size:90%\">하루에 10km씩 런닝하며 체중감소</span>"
+        - name: 노래
+          icon: music
           icon_pack: fas
-        - name: "의학, 의공학"
+          description: "<span style=\"font-size:90%\">맑은 보이스의 혼코노러버</span>"
+        - name: 의료
           icon: hospital
           icon_pack: fas
-        - name: "Medical AI & Brain"
-          icon: laptop-medical
+          description: "<span style=\"font-size:90%\">의료지식을 공부하며 의료 인공지능과의 결합 고민</span>"
+        - name: 주식
+          icon: chart-line
           icon_pack: fas
-        - name: "Algorithm"
-          icon: code
+          description: "<span style=\"font-size:90%\">미장위주, 금리인하, 실적발표, RSI 등 투자와 재테크에 관심</span>"
+        - name: 전자기기
+          icon: mobile-alt
           icon_pack: fas
-
-    design:
-      columns: '1'
+          description: "<span style=\"font-size:90%\">노트북, 스마트폰 등의 분해 및 조립 가능</span>"
 
 
   - block: features
@@ -131,36 +136,6 @@ sections:
       loop: true
       interval: 3000
 
-  - block: features
-    id: features
-    content:
-      title: "<span style=\"font-size:75%\">강경태의 관심사</span>"
-      text: "저는 다음과 같은 주제에 관심이 있습니다.<br><br>"
-      items:
-        - name: 인공지능(AI)
-          icon: brain
-          icon_pack: fas
-          description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN, 컴퓨터 비전 등등</span>"
-        - name: 런닝
-          icon: running
-          icon_pack: fas
-          description: "<span style=\"font-size:90%\">하루에 10km씩 런닝하며 체중감소</span>"
-        - name: 노래
-          icon: music
-          icon_pack: fas
-          description: "<span style=\"font-size:90%\">맑은 보이스의 혼코노러버</span>"
-        - name: 의료
-          icon: hospital
-          icon_pack: fas
-          description: "<span style=\"font-size:90%\">의료지식을 공부하며 의료 인공지능과의 결합 고민</span>"
-        - name: 주식
-          icon: chart-line
-          icon_pack: fas
-          description: "<span style=\"font-size:90%\">미장위주, 금리인하, 실적발표, RSI 등 투자와 재테크에 관심</span>"
-        - name: 전자기기
-          icon: mobile-alt
-          icon_pack: fas
-          description: "<span style=\"font-size:90%\">노트북, 스마트폰 등의 분해 및 조립 가능</span>"
 
   - block: collection
     content:
