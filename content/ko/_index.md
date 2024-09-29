@@ -5,12 +5,6 @@ date: 2024-03-25
 type: landing
 sections:
 
-  - block: markdown
-    content:
-      text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
-    design:
-      columns: '1'
 
   - block: about.biography
     id: about
@@ -19,7 +13,7 @@ sections:
       username: admin
     design:
       background:
-        color: gray
+        color: green
 
   - block: markdown
     content:
