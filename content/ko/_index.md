@@ -133,7 +133,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
+      title: 요즘 알아보고 있는 관심사 소개
       subtitle:
       text:
       count: 3

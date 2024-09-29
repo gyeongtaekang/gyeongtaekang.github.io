@@ -1,14 +1,11 @@
 ---
-title: 'Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective Test-Time Adaptation'
+title: '사지 연장술이란?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 이경수
-  - 이해윤
-  - 박주흠
-  - 황재윤
+  - 강경태
 
 # Author notes (optional)
 author_notes:
