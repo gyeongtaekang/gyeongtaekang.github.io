@@ -155,6 +155,21 @@ sections:
 
   - block: collection
     content:
+      id: section-1
+      title: 내 프로젝트
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - field
+    design:
+      view: community/custom_card
+      columns: '2'
+
+
+  - block: collection
+    content:
       title: 요즘 알아보고 있는 관심사 소개
       count: 3
       filters:
