@@ -15,11 +15,11 @@ main:
     url: publication
     weight: 300
   - parent: Passions & Projects
-    name: My Projects
+    name: Interests & Hobbies
     url: publication
     weight: 310
   - parent: Passions & Projects
-    name: Interests & Hobbies
+    name: My Projects
     url: field
     weight: 320
 
