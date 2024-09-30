@@ -3,11 +3,11 @@ main:
     url: people
     weight: 200
   - parent: People
-    name: Student
+    name: My
     url: /author/강경태/
     weight: 210
   - parent: People
-    name: Members
+    name: Animal
     url: people
     weight: 220
 
