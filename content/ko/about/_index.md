@@ -69,30 +69,14 @@ sections:
           text-color: '#fff'
           url: https://www.shospot.kr/
 
-     
-      - title: <span style="font-size:90%">쇼핑몰 관리자페이지</span>
-        content: <span style="font-size:90%">쇼핑몰 사이트 프론트부분중 관리자 페이지를 제작하였습니다</span>
-        align: center
-        background:
-          image:
-            filename: medical.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-        link:
-          icon: external-link-alt
-          icon_pack: fas
-          text: <span style="font-size:60%">바로가기</span>
-          text-color: '#fff'
-          url: https://temp1234aa.netlify.app/back-end/
+    
 
       - title: <span style="font-size:90%">쇼핑몰 관리자페이지</span>
         content: <span style="font-size:90%">쇼핑몰 사이트 프론트부분중 관리자 페이지를 제작하였습니다</span>
         align: center
         background:
           image:
-            filename: medical.jpg
+            filename: 관리자.png
             filters:
               brightness: 0.4
           position: center
