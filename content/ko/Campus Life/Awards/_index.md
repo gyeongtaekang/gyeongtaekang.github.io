@@ -13,7 +13,7 @@ sections:
           certificate_url: ''
           date_start: '01 Dec 2023'
           date_end: '03 Dec 2023'
-          description: '최우수 아이디어 제안 및 개발'
+          description: '배달조각이라는 안드로이드 스튜디오 기반 앱 제작'
           icon: academic-cap
           organization: 전북대학교
           organization_url: ''
@@ -71,7 +71,7 @@ sections:
           certificate_url: ''
           date_start: '01 Feb 2024'
           date_end: '15 Apr 2024'
-          description: '크몽 플랫폼에서 프리랜서로 활동 (학교 문제로 중단)'
+          description: '크몽 플랫폼에서 프리랜서로 활동 (학점 관리 이슈로 중단)'
           icon: handshake
           organization: 크몽
           organization_url: 'https://kmong.com'
