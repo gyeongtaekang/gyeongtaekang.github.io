@@ -23,15 +23,15 @@ main:
     url: people
     weight: 220
 
-  - name: Research
+  - name: Passions & Projects
     url: publication
     weight: 300
   - parent: Research
-    name: Publications
+    name: My Projects
     url: publication
     weight: 310
   - parent: Research
-    name: Research Fields
+    name: Interests & Hobbies
     url: field
     weight: 320
 
