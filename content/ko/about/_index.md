@@ -9,7 +9,7 @@ sections:
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">경험한 프로젝트랑 간략히 소개</span>
+      text: <br><span style="font-size:125%">외주와 함께 진행했던 경험을 간략하게 소개해드리겠습니다.</span>
 
   - block: slider
     content:
