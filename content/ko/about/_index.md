@@ -14,7 +14,6 @@ sections:
   - block: slider
     content:
       slides:
-
       - title: <span style="font-size:90%">2022/02/15 전북대학교 의류학과 -> 컴퓨터공학부로 전과</span>
         content: <span style="font-size:90%">전공을 의류학과에서 컴퓨터공학부로 전과한 것은 큰 전환점이며, 현재의 연구 및 활동 방향에 큰 영향을 준 중요한 사항입니다.<span style="font-size:90%">
         align: center
@@ -92,7 +91,6 @@ sections:
           position: center
           color: '#000'
 
-
       - title: <span style="font-size:90%">2024/01/09~2024/01/12 동계 빅데이터 캠프 이수</span>
         content: <span style="font-size:90%">빅데이터 캠프를 이수한 것은 데이터 분석과 AI에 대한 관심과 역량 향상에 중요한 경험으로, 현재 연구와 관련된 전문성을 나타냅니다.</span>
         align: center
@@ -119,15 +117,37 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 3000
 
-  # - block: hero
-  #   content:
-  #     title: |
-  #       <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab</span>
-  #     image:
-  #       filename: welcome.jpg
-  #     text: |
-  #       <br>
-        
-  #       <span style="font-size:75%">전북대학교 의료 AI 및 계산 수학 연구실 (MACS Lab) 홈페이지에 오신 것을 환영합니다. MACS에서는 의료, 항공, 국방 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
-  
----
+  - block: portfolio
+    widget: portfolio
+    headless: true
+    weight: 20
+    title: ''
+    subtitle: ''
+    content:
+      # Page type to display. E.g. project.
+      page_type: project
+
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      filter_default: 0
+
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      filter_button:
+        - name: 전체
+          tag: '*'
+        - name: 모바일 개발
+          tag: MD
+        - name: 웹 개발
+          tag: WD
+        - name: 기타
+          tag: etc
+
+    design:
+      columns: '1'
+      view: masonry
+      flip_alt_rows: true
+      background: {}
+      spacing: {padding: [0, 0, 0, 0]}
