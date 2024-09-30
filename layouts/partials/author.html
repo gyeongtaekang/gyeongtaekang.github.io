@@ -1,0 +1,5 @@
+{{ with .Params.bio }}
+  <div class="author-bio">
+    {{ . | markdownify }}
+  </div>
+{{ end }}
