@@ -1,28 +1,66 @@
 ---
-title: 자기소개 사이트"경태의 개발연습" 프로젝트
-date: 2024-03-27
+title: '자기소개 사이트 "경태의 개발연습" 프로젝트'
+
+# Authors
+authors:
+  - 강경태
+
+# date format: '2013-07-01T00:00:00Z'
+# date: '2024-03-27'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-03-27'
+
+# Publication type.
+publication_types: ['article-journal']
+
+abstract: |
+  **"경태의 개발연습" 프로젝트**: 자기소개와 개인의 활동을 소개하는 웹사이트로, 자신의 성장 과정과 취미, 프로젝트를 체계적으로 보여주는 것을 목적으로 합니다. 개인 브랜딩을 강조하며 포트폴리오로서의 역할을 수행합니다.
+
+  **주요 구성 요소**: 간단한 자기소개, 취미와 관심사, 포트폴리오 및 활동 기록을 포함하며, 사용자의 성격과 역량을 잘 나타내는 디자인으로 구성되어 있습니다. 웹 기술인 CSS, JavaScript, React 등을 활용하여 반응형, 사용자 친화적인 인터페이스를 구축하였습니다.
+
+  **프로젝트 의의와 가치**: 웹 개발 역량을 강화하고 자신의 성취와 열정을 전달하며, 경태의 스토리를 효과적으로 표현하는 특별한 공간을 만드는 것이 목적입니다. 이를 통해 자기소개 사이트는 다양한 기회를 만드는 개인의 온라인 명함 역할을 수행하게 됩니다.
+
+summary: "자신의 취미와 활동, 성취를 온라인에서 표현하는 자기소개 사이트 '경태의 개발연습'을 통해 개인 브랜딩과 웹 개발 역량을 동시에 강화한 프로젝트입니다."
+
+tags: ['자기소개 사이트', '웹 개발', '포트폴리오', 'React', '디자인']
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://gyeongtaekang.netlify.app/'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: 개인 자기소개 프로젝트'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+# projects:
+#   - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+# slides: example
 ---
-
-"경태의 개발연습" 프로젝트는 개인을 소개하고 취미와 경험을 공유하는 데 초점을 둔 자기소개 사이트입니다. 이 프로젝트는 자신의 역량과 관심사를 한눈에 파악할 수 있도록 제작되었으며, 전반적으로 경태의 성장 과정과 관심 분야를 보여주는 역할을 합니다. 프로젝트를 통해 웹 개발 능력을 활용하여 개인의 이야기와 포트폴리오를 매력적이고 체계적으로 구성하였습니다.
-
-<!--more-->
-
-1. 사이트의 목적과 의의
-"경태의 개발연습"은 자신을 소개하고, 다양한 활동과 취미를 공유하는 동시에 경태가 걸어온 길을 돌아보며, 앞으로의 계획을 정리할 수 있는 공간입니다. 개인이 해왔던 프로젝트, 수상 경력, 학업, 취미 생활 등 다양한 부분을 한곳에 모아 체계적으로 정리함으로써 자신만의 스토리를 전달하는 역할을 합니다.
-
-2. 주요 콘텐츠와 구성
-자기소개 및 프로필: 사이트의 첫 화면에서는 경태의 간단한 자기소개와 프로필을 확인할 수 있습니다. 경태의 관심사, 학력, 경력 등의 주요 정보가 잘 정리되어 있어, 방문자가 경태에 대해 간단하게 파악할 수 있도록 구성되었습니다.
-
-경태의 취미와 관심사: 경태의 취미 생활과 관심사를 소개하는 페이지를 통해, 개발뿐만 아니라 다양한 활동을 즐기는 경태의 모습을 보여줍니다. 예를 들어, 런닝, 음악, 의료 인공지능, 데이터 분석 등 개인의 다양한 취미를 글과 사진으로 표현하였으며, 이를 통해 방문자가 경태의 열정과 관심 분야를 쉽게 알 수 있도록 구성하였습니다.
-
-포트폴리오 및 활동 기록: 학업이나 개인 프로젝트, 프리랜서로서 참여했던 외주 프로젝트 등 그동안 경태가 해왔던 다양한 활동 내역을 한눈에 볼 수 있게 구성하였습니다. 수상 경력과 프로젝트 설명 등을 포함하여 경태의 성취와 역량을 보여줍니다. 방문자는 이 페이지를 통해 경태의 전문성과 경험을 이해할 수 있습니다.
-
-3. 기술적 구현과 디자인
-사이트는 사용자 친화적이고 반응형으로 디자인되어 있어 다양한 기기에서 최적의 화면으로 보일 수 있습니다. CSS, JavaScript, React 등의 최신 웹 기술을 활용하여 개인 브랜딩에 맞춘 깔끔하고 일관된 스타일을 적용하였으며, 사진과 아이콘, 글씨체 등의 디자인 요소를 통해 경태의 개성을 담아냈습니다.
-
-4. 프로젝트의 의의와 가치
-"경태의 개발연습"은 웹 개발 능력을 실전에서 활용하여 만든 프로젝트로, 단순한 자기소개를 넘어 자신의 성취와 열정을 전달하고자 하는 경태의 스토리를 담은 특별한 공간입니다. 이를 통해 자신을 더 효과적으로 표현하고 다양한 사람들과 소통할 수 있는 플랫폼이 되었습니다. 또한, 이러한 자기소개 사이트를 제작하면서 웹 개발의 기술적인 역량을 강화하고, 디자인적인 측면에서 사용자 경험을 고려한 UI/UX를 구현하는 실전 연습의 기회가 되었습니다.
-
-"경태의 개발연습"은 개인의 매력을 더욱 돋보이게 하는 온라인 명함 같은 역할을 수행하며, 다양한 기회를 만드는 중요한 프로젝트입니다.
-
-https://gyeongtaekang.netlify.app/
