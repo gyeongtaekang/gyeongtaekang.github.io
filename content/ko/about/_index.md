@@ -32,6 +32,9 @@ sections:
           text: <span style="font-size:60%">바로가기</span>
           text-color: '#fff'
           url: https://supermbti.netlify.app/
+          style: "transition: background-color 0.3s ease; background-color: #007BFF; color: #fff;"
+          hover_style: "background-color: #FFD700;"
+
 
       # 2. 영어 학습 사이트
       - title: <span style="font-size:90%">영어 학습 사이트</span>
