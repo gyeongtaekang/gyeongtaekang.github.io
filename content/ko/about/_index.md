@@ -31,7 +31,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">바로가기</span>
           text-color: '#fff'
-          url: https://mbtitest.com
+          url: https://supermbti.netlify.app/
 
       # 2. 영어 학습 사이트
       - title: <span style="font-size:90%">영어 학습 사이트</span>
@@ -49,7 +49,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">바로가기</span>
           text-color: '#fff'
-          url: https://englishlearning.com
+          url: https://abceggs.co.kr/
 
       # 3. 쇼핑몰 사이트
       - title: <span style="font-size:90%">쇼핑몰 사이트</span>
@@ -67,7 +67,7 @@ sections:
           icon_pack: fas
           text: <span style="font-size:60%">바로가기</span>
           text-color: '#fff'
-          url: https://shoppingmall.com
+          url: https://www.shospot.kr/
 
       # 4. 기존 슬라이더 - 전과
       - title: <span style="font-size:90%">2022/02/15 전북대학교 의류학과 -> 컴퓨터공학부로 전과</span>
