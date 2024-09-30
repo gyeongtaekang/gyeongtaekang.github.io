@@ -69,21 +69,9 @@ sections:
           text-color: '#fff'
           url: https://www.shospot.kr/
 
-      # 4. 기존 슬라이더 - 전과
-      - title: <span style="font-size:90%">2022/02/15 전북대학교 의류학과 -> 컴퓨터공학부로 전과</span>
-        content: <span style="font-size:90%">전공을 의류학과에서 컴퓨터공학부로 전과한 것은 큰 전환점이며, 현재의 연구 및 활동 방향에 큰 영향을 준 중요한 사항입니다.</span>
-        align: center
-        background:
-          image:
-            filename: Ai.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      # 5. 기존 슬라이더 - 해커톤 최우수상
-      - title: <span style="font-size:90%">(2023/12/01~03) 전북대학교 아이디어 해커톤 최우수상</span>
-        content: <span style="font-size:90%">아이디어 해커톤에서 최우수상을 받은 것은 창의성과 문제 해결 능력을 인정받은 중요한 성과입니다.</span>
+     
+      - title: <span style="font-size:90%">쇼핑몰 관리자페이지</span>
+        content: <span style="font-size:90%">쇼핑몰 사이트 프론트부분중 관리자 페이지를 제작하였습니다</span>
         align: center
         background:
           image:
@@ -92,14 +80,37 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: <span style="font-size:60%">바로가기</span>
+          text-color: '#fff'
+          url: https://temp1234aa.netlify.app/back-end/
 
-      # 6. 기존 슬라이더 - 메이커톤 베스트 피칭상
-      - title: <span style="font-size:90%">2024/02/02 창업 아이디어 메이커톤 베스트 피칭상</span>
-        content: <span style="font-size:90%">창업 아이디어 메이커톤에서 베스트 피칭상을 수상한 것은 아이디어의 사업화 가능성과 발표 능력을 인정받은 핵심 성과입니다.</span>
+      - title: <span style="font-size:90%">쇼핑몰 관리자페이지</span>
+        content: <span style="font-size:90%">쇼핑몰 사이트 프론트부분중 관리자 페이지를 제작하였습니다</span>
         align: center
         background:
           image:
-            filename: healthcare.jpg
+            filename: medical.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: <span style="font-size:60%">바로가기</span>
+          text-color: '#fff'
+          url: https://temp1234aa.netlify.app/back-end/
+
+      # 6. 기존 슬라이더 - 메이커톤 베스트 피칭상
+      - title: <span style="font-size:90%">리액트 네이치브 푸쉬알림 보내기 외주</span>
+        content: <span style="font-size:90%">리액트 네이티브앱에서 파이어베이스와 연동해서 푸쉬 앱알림을 도와드렸습니다.</span>
+        align: center
+        background:
+          image:
+            filename: 리액트외주.png
             filters:
               brightness: 0.4
           position: center
