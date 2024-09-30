@@ -4,6 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 곰탱 # Website name
+image:
+  filename: "Ai.jpg"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 baseURL: 'https://gyeongtaekang.github.io/' # Website URL
 
 ############################
