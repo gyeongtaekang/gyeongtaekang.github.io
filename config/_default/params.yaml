@@ -115,3 +115,13 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+show_logo: true
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    button:
+      enable: true
+      text: "곰탱"
+      url: "https://gyeongtaekang.github.io/"
