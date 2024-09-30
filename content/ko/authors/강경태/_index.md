@@ -18,8 +18,9 @@ role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: 경태의 개발연습
+  - name: '<span style="color: initial; transition: color 0.3s;">경태의 개발연습</span>'
     url: 'https://gyeongta1101.netlify.app'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
