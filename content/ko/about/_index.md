@@ -21,7 +21,7 @@ sections:
         align: center
         background:
           image:
-            filename: medical.jpg
+            filename: mbti.png
             filters:
               brightness: 0.4
           position: center
@@ -39,7 +39,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 영어사이트.png
             filters:
               brightness: 0.4
           position: center
@@ -57,7 +57,7 @@ sections:
         align: center
         background:
           image:
-            filename: Ai.jpg
+            filename: 쇼핑스팟.png
             filters:
               brightness: 0.4
           position: center
