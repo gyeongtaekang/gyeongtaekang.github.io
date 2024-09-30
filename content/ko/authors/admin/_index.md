@@ -22,7 +22,7 @@ organizations:
     url: 'https://gyeongta1101.netlify.app'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
+bio: 전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.(admin)
 
 interests:
   - 인공지능 및 딥러닝
@@ -46,18 +46,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:ksl@jbnu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-7223-0903
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/gyeongtae1101/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gyeongtaekang
   - icon: cv
     icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+    link: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
