@@ -21,7 +21,7 @@ sections:
         align: center
         background:
           image:
-            filename: mbti.jpg
+            filename: medical.jpg
             filters:
               brightness: 0.4
           position: center
@@ -39,7 +39,7 @@ sections:
         align: center
         background:
           image:
-            filename: english.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.4
           position: center
@@ -57,7 +57,7 @@ sections:
         align: center
         background:
           image:
-            filename: shopping.jpg
+            filename: Ai.jpg
             filters:
               brightness: 0.4
           position: center
