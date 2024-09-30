@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: accomplishments
     content:
-      title: Awards & Certifications
+      title: 경력
       subtitle: '나의 수상 및 활동 내역'
       text: ''
       items:
