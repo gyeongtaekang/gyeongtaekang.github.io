@@ -62,6 +62,3 @@ security:
 sitemap:
   _merge: deep
 
-# Example to set the logo image in the navbar
-params:
-  logo: "Ai.jpg"
