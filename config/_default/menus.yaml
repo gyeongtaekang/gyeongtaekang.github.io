@@ -26,11 +26,11 @@ main:
   - name: Passions & Projects
     url: publication
     weight: 300
-  - parent: Research
+  - parent: Passions & Projects
     name: My Projects
     url: publication
     weight: 310
-  - parent: Research
+  - parent: Passions & Projects
     name: Interests & Hobbies
     url: field
     weight: 320
