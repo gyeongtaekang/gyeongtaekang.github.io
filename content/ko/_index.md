@@ -164,7 +164,7 @@ sections:
         folders:
           - field
     design:
-      view: list
+      view: community/custom_card
       columns: '2'
 
 

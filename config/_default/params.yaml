@@ -46,7 +46,7 @@ header:
       filename: "logo.png"
     button:
       enable: true
-      text: "곰탱"
+      text: "강경태"
       url: "https://gyeongtaekang.github.io/"
 
 # Site footer

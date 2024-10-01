@@ -5,7 +5,7 @@
 
 title: 강경태 # Website name
 image:
-  filename: "Ai.jpg"
+  filename: "me.jpg"
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 baseURL: 'https://gyeongtaekang.github.io/' # Website URL
 
