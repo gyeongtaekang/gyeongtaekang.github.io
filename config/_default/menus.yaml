@@ -1,12 +1,12 @@
 main:
-  - name: People
+  - name: introduce
     url: people
     weight: 200
-  - parent: People
+  - parent: introduce
     name: My
     url: /author/강경태/
     weight: 210
-  - parent: People
+  - parent: introduce
     name: Animal
     url: people
     weight: 220
@@ -35,18 +35,18 @@ main:
     url: /Campus Life/Activities/
     weight: 350
 
-  - name: Inform
+  - name: alarm
     url: post
     weight: 600
-  - parent: Inform
+  - parent: alarm
     name: Notifications
     url: notification
     weight: 610
-  - parent: Inform
+  - parent: alarm
     name: News
     url: post
     weight: 620
-  - parent: Inform
+  - parent: alarm
     name: Event
     url: event
     weight: 630
