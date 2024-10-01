@@ -3,11 +3,29 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 곰탱 # Website name
+title: 강경태 # Website name
 image:
   filename: "Ai.jpg"
   caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 baseURL: 'https://gyeongtaekang.github.io/' # Website URL
+
+# Site title and description
+title: "강경태 - 전북대학교 컴퓨터공학부 강경태의 개발 이야기"
+description: "전북대학교 컴퓨터공학부 강경태의 다양한 프로젝트와 연구 활동, 그리고 개발자 라이프를 공유하는 블로그입니다."
+
+# Keywords for search engines
+keywords: ["전북대학교", "컴퓨터공학", "개발자", "강경태", "웹 개발", "AI 연구", "개인 블로그"]
+
+# Author name
+author: "강경태"
+
+# Open Graph settings (for social media previews)
+params:
+  description: "전북대학교 컴퓨터공학부 강경태의 개발 이야기와 다양한 프로젝트 소개"
+  author: "강경태"
+  ogImage: "me.jpg"  # 사이트를 대표하는 이미지의 경로
+  ogType: "website"
+  ogTitle: "곰탱 - 전북대학교 컴퓨터공학부 강경태의 개발 이야기"
 
 ############################
 ## LANGUAGE
