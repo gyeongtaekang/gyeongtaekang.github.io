@@ -150,7 +150,7 @@ sections:
           - post
           - event
     design:
-      view: community/custom_card
+      view: compact
       columns: '2'
 
   - block: collection
@@ -164,7 +164,7 @@ sections:
         folders:
           - field
     design:
-      view: community/custom_card
+      view: grid
       columns: '2'
 
 
