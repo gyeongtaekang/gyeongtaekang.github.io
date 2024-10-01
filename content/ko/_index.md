@@ -164,7 +164,7 @@ sections:
         folders:
           - field
     design:
-      view: grid
+      view: list
       columns: '2'
 
 
