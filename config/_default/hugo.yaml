@@ -27,6 +27,10 @@ params:
   ogType: "website"
   ogTitle: "곰탱 - 전북대학교 컴퓨터공학부 강경태의 개발 이야기"
 
+instagram:
+  username: "gyeongtae1101"
+  url: "https://www.instagram.com/gyeongtae1101/"
+
 ############################
 ## LANGUAGE
 ############################
