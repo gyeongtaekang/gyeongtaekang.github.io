@@ -79,11 +79,11 @@ sections:
             position: center
             color: '#000'
           link:
-            icon: user
+            icon: external-link-alt
             icon_pack: fas
-            text: "<span style=\"font-size:60%\">Join Us</span>"
-            text-color: '#000'
-            url: contact
+            text: "Image credit: Unsplash"
+            text-color: '#fff'
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
 
         - title: "<span style=\"font-size:70%\">아웃소싱(외주)</span>"
           content: "<span style=\"font-size:70%\">크몽이나 기타 외주를 받고싶으십니까?</span>"
@@ -95,6 +95,12 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: external-link-alt
+            icon_pack: fas
+            text: "Image credit: Unsplash"
+            text-color: '#fff'
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
 
         - title: "<span style=\"font-size:70%\">코딩</span>"
           content: "<span style=\"font-size:70%\">컴퓨터 과학이나 코딩에 관심있으십니까?</span>"
@@ -106,6 +112,12 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: external-link-alt
+            icon_pack: fas
+            text: "Image credit: Unsplash"
+            text-color: '#fff'
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
 
         - title: "<span style=\"font-size:70%\">런닝</span>"
           content: "<span style=\"font-size:70%\">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>"
@@ -117,6 +129,12 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: external-link-alt
+            icon_pack: fas
+            text: "Image credit: Unsplash"
+            text-color: '#fff'
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
 
         - title: "<span style=\"font-size:70%\">대학원</span>"
           content: "<span style=\"font-size:70%\">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>"
@@ -128,6 +146,12 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          link:
+            icon: external-link-alt
+            icon_pack: fas
+            text: "Image credit: Unsplash"
+            text-color: '#fff'
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
 
     design:
       slide_height: '350px'
@@ -135,6 +159,7 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 3000
+
 
 
   - block: collection
