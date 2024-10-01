@@ -1,48 +1,19 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [강경태의 Hugo Theme를 이용한 사이트 만들기](https://gyeongtaekang.github.io/)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+1. 경태의 개발연습
+자기소개 및 개발 포트폴리오를 공유하기 위한 개인 사이트입니다. 컴퓨터공학과 학생으로서 배운 것과 개발한 프로젝트들을 체계적으로 정리하고, 스스로의 성장을 돌아볼 수 있는 공간을 제공합니다. 다양한 프로젝트 경험을 공유하고, 취미와 관심사를 소개하여 보다 개인적인 느낌의 홈페이지를 구현하였습니다.
+https://gyeongtaekang.netlify.app/
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+2. MBTI 검사 사이트
+심리 테스트와 MBTI 성격 유형 검사를 제공하는 사이트입니다. 사용자가 재미있게 심리 검사를 해볼 수 있도록 구성되었으며, 처음에는 구글 애드센스를 통한 광고 수입을 위해 개발되었습니다. 현재는 외주를 통해 지속적으로 업데이트 및 수익 창출이 이뤄지고 있습니다.
+https://supermbti.netlify.app/
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+[3. 영어 학습 사이트]
+사용자들이 영어를 효과적으로 학습할 수 있도록 구성된 사이트입니다. 이미 개발되어 있던 사이트의 기존 구조를 유지하며 기능과 디자인을 재개발하였습니다. 학습 콘텐츠, 단어장 및 퀴즈 등 다양한 학습 기능이 포함되어 있습니다.
+https://abceggs.co.kr/
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
-
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
-
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+[4. 쇼핑몰 사이트]
+전자상거래 기능을 제공하는 쇼핑몰 사이트로, 일부 기능 수정 및 신규 기능을 추가 개발했습니다. 상품 상세 페이지와 결제 기능 등을 중심으로 사용자 경험을 향상시켰으며, 사용자가 쉽게 제품을 검색하고 구매할 수 있도록 구성하였습니다.
