@@ -1,5 +1,5 @@
 ---
-title: "Notifications<br>(카드 3개 종류 해야해서 수정)"
+title: Notifications
 
 # Listing view
 view: list
