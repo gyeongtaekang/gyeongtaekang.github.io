@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 경험
 date: 2024-03-25
 type: landing
 
