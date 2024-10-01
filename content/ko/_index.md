@@ -73,7 +73,7 @@ sections:
           align: center
           background:
             image:
-              filename: recruitment.jpg
+              filename: forest.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -90,7 +90,7 @@ sections:
           align: center
           background:
             image:
-              filename: Ai.jpg
+              filename: forest1.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -101,7 +101,7 @@ sections:
           align: center
           background:
             image:
-              filename: healthcare.jpg
+              filename: forest2.jpg
               filters:
                 brightness: 0.4
             position: center
