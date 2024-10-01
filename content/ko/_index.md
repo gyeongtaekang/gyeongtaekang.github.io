@@ -37,7 +37,7 @@ sections:
         - name: 인공지능(AI)
           icon: brain
           icon_pack: fas
-          description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN, 컴퓨터 비전 등등</span>"
+          description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN,FCN 컴퓨터 비전 등등</span>"
         - name: 런닝
           icon: running
           icon_pack: fas
@@ -45,7 +45,7 @@ sections:
         - name: 노래
           icon: music
           icon_pack: fas
-          description: "<span style=\"font-size:90%\">맑은 보이스의 혼코노러버</span>"
+          description: "<span style=\"font-size:90%\">꾀꼬리 같은 맑은 보이스의 소유자로서, 혼코노러버</span>"
         - name: 의료
           icon: hospital
           icon_pack: fas
