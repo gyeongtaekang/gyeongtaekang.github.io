@@ -1,5 +1,6 @@
 ---
 title: Notifications
+(카드 3개종류해야해서 수정)
 
 # Listing view
 view: list
