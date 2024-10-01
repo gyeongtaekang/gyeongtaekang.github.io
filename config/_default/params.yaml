@@ -3,18 +3,17 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
-
+# Appearance settings
 appearance:
-  theme_night: minimal
-  theme_day: minimal
+  theme_night: custom
+  theme_day: custom
   font: native
   font_size: L
 
-
+# SEO and marketing settings
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: '경태의 개발연습'
     description: '전북대학교 컴퓨터공학부 강경태의 두번째 자기소개 사이트입니다.'
@@ -25,32 +24,30 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: ''  # Google site verification token
     baidu: ''
 
-# Site header
-
+# Site header settings
 header:
   navbar:
     enable: true
     align: c
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
+    show_theme_chooser: true
+    show_translations: true
     highlight_active_link: false
-    # Move 'logo' and 'button' under 'navbar'
     logo:
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "logo.png"
+      text: ""  # Text for logo (if any)
+      filename: "logo.png"  # Ensure the file exists in `assets/media/`
     button:
       enable: true
       text: "강경태"
       url: "https://gyeongtaekang.github.io/"
 
-# Site footer
-
+# Site footer settings
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -60,27 +57,25 @@ footer:
       share_alike: true
       allow_commercial: false
 
-# Localization
-
+# Localization settings
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
-# Site features
-
+# Site features settings
 features:
   syntax_highlighter:
-    enable: false
+    enable: true  # Enable syntax highlighting
     extra_languages:
       - r
       - latex
   math:
-    enable: false
+    enable: false  # Math rendering
   privacy_pack:
-    enable: false
+    enable: false  # Privacy pack
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/gyeongtaekang/gyeongtaekang.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -99,7 +94,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: wowchemy  # Search provider
     algolia:
       app_id: ''
       api_key: ''
@@ -110,8 +105,7 @@ features:
     api_key: ''
     zoom: 15
 
-# Extensions
-
+# Extensions settings
 extensions:
   decap_cms:
     branch: main
@@ -119,9 +113,17 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
-
+# Citation style for publications
 publications:
   date_format: January 2006
   citation_style: apa
 
+# Personal information
+name: 강경태
+role: 학생
+organization: 전북대학교 컴퓨터공학부
+organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
+email: 'namwon420@naver.com'
+
+# ogImage setting (Optional)
+ogImage: "assets/media/logo.png"  # Ensure the image exists at this path
