@@ -1,7 +1,13 @@
 ---
-title: "Baedal Jjok (Delivery Sharing)" App Development
-date: 2024-03-26
-tags: ['Delivery App', 'Location-based Service', 'Delivery Fee Sharing', 'Real-time Matching', 'Secure Payment', 'App Development']
+title: 'Baedal Jjok (Delivery Sharing) App Development'
+date: '2024-03-26'
+tags:
+  - Delivery App
+  - Location-based Service
+  - Delivery Fee Sharing
+  - Real-time Matching
+  - Secure Payment
+  - App Development
 ---
 
 <div class="justify-text">
