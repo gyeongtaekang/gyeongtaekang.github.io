@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 만만이
+title: Manmani
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,39 +8,38 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 만만이
+  - Manmani
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 아침 알람담당
+role: Morning Alarm Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: 전국 닭연맹 대표
+  - name: President of the National Chicken Federation
 
 # Profile image (avatar)
-avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
+avatar: avatar.jpg  # Specify the path of the profile image file
 
 # Short bio (displayed in user profile at end of posts)
-# Short bio (displayed in user profile at end of posts)
 bio: |
-  때는 2014년.. 강경태는 학교 귀가후 집으로 가는 데 만만이가 화난 상태로 기다리고 있었다...  
-  집에 들어가려는 나와 그걸 막고 나를 보며 깃을 세우고 있는 만만이...  
-  어쩔 수 없이 싸우지 않고 그냥 만만이에게 쫓기며 집 안으로 안전하게 들어갔다  
-  (사실 만만이를 피해 도망간 건 비밀이다.)
+  It was the year 2014... Gyeongtae returned from school, only to find Manmani waiting in an angry state...  
+  Trying to enter the house, I was confronted by Manmani, who raised its feathers and blocked my way...  
+  Having no choice but to avoid a fight, I ran and safely entered the house away from Manmani.  
+  (Truth be told, it's a secret that I ran away from Manmani.)
 
 # interests:
 #   - 
 
 # education:
 #   courses:
-#     - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-#       institution: 대구경북과학기술원 (DGIST)
+#     - course: Integrated M.S. & Ph.D. in (Electrical, Electronics, and Computer Engineering)
+#       institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST)
 #       year: 2018 - 2023
-#     - course: B.S. in (전산전자공학부)
-#       institution: 한동대학교
+#     - course: B.S. in (School of Computer and Electronic Engineering)
+#       institution: Handong Global University
 #       year: 2014 - 2018
 
 # Social/Academic Networking

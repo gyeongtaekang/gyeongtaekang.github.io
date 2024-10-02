@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 햄찌
+title: Hamjji
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,34 +8,34 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 햄찌
+  - Hamjji
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 귀요미 담당
+role: Cutie Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: 現전국 귀염뽀짝 연맹 대표 <br> 前전국 햄스터 클럽 부대표
+  - name: Current President of the National Cuteness Association <br> Former Vice President of the National Hamster Club
 
 # Profile image (avatar)
-avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
+avatar: avatar.jpg  # Specify the path of the profile image file
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+# bio: Includes deep learning techniques for medical domains using federated learning and representation learning, domain adaptation and test-time learning in deep learning-based computer vision applications, and deep learning-based diagnostics for medical applications including image processing and image-text captioning.
 
 # interests:
 #   - 
 
 # education:
 #   courses:
-#     - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-#       institution: 대구경북과학기술원 (DGIST)
+#     - course: Integrated M.S. & Ph.D. in (Electrical, Electronics, and Computer Engineering)
+#       institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST)
 #       year: 2018 - 2023
-#     - course: B.S. in (전산전자공학부)
-#       institution: 한동대학교
+#     - course: B.S. in (School of Computer and Electronic Engineering)
+#       institution: Handong Global University
 #       year: 2014 - 2018
 
 # Social/Academic Networking
