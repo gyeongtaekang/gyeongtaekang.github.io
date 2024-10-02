@@ -1,11 +1,11 @@
 ---
-title: Publications
+title: A Writing About My Interests
 
 # Listing view
-view: citation
+view: community/custom_compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'researchpaper.jpg'
 ---
