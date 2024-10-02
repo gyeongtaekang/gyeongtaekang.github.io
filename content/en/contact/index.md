@@ -9,15 +9,15 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부 20학번 강경태 </span> <br>
+        <br> <span style="font-size:95%">Jeonbuk National University, Department of Computer Science, Class of 2020 - Gyeongtae Kang</span> <br>
       email: namwon420@naver.com
       phone: 010-4672-1420
       address:
-        street: 전북대학교 공과대학 7호관 533호
-        city: 전주시
-        region: 전라북도
+        street: Room 533, College of Engineering Building 7, Jeonbuk National University
+        city: Jeonju
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: South Korea
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
