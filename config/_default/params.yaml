@@ -24,7 +24,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''  # Google site verification token
+    google: 'foEXPySUXat0TT5_gVbfRU_Qr7K2dtrR69ChBilLuhs'  # Google site verification token
     baidu: ''
 
 # Site header settings
