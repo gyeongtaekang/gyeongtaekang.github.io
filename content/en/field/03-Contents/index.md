@@ -1,6 +1,6 @@
 ---
-title: "Gyeongtae's Development Practice" Project - Personal Introduction Site
-date: 2024-03-27
+title: "\"Gyeongtae's Development Practice\" Project - Personal Introduction Site"
+date: "2024-03-27"
 tags: ['Personal Introduction Site', 'Portfolio', 'Web Development', 'React', 'Personal Branding', 'Website Creation']
 ---
 
