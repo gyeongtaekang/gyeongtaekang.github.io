@@ -1,22 +1,22 @@
 ---
-title: 2024/06/17~2024/07/10 내가 만드는 비교과 프로그램 공모전 우수상
+title: Excellence Award in "My Comparative Program" Contest (2024/06/17 - 2024/07/10)
 date: 2024-06-17
-tags: ['전북대', '융합인재', '프로그램 공모전', '국제 문제', '외국인 교류']
+tags: ['Chonbuk National University', 'Convergence Talent', 'Program Contest', 'International Issues', 'Exchange with Foreign Students']
 ---
 
-**비교과 프로그램 공모전 우수상**
+**Excellence Award in Comparative Program Contest**
 
-전북대 융합인재를 양성하기 위한 프로젝트로 외국인 학생들과 함께 국제 문제에 대해 논의하고 해결 방안을 모색하는 프로그램을 계획하였습니다. 이 프로그램은 다양한 문화와 시각을 가진 학생들이 모여 글로벌 이슈에 대한 의견을 교환하며 서로의 견해를 이해하고 배울 수 있도록 구성되었습니다.
+As a project to cultivate convergence talent at Chonbuk National University, a program was planned to discuss and explore solutions to international issues in collaboration with foreign students. The program was designed to bring together students from diverse cultural backgrounds and perspectives, encouraging the exchange of opinions on global issues and fostering mutual understanding and learning.
 
-### 프로젝트 의의
-이 프로젝트를 통해 전북대 학생들은 국제적인 감각을 키우고, 글로벌 리더로 성장하는 데 필요한 역량을 강화할 수 있었습니다. 또한 외국인 학생들과의 교류를 통해 글로벌 네트워크를 형성하고, 다문화 환경에서의 문제 해결 능력을 배양할 수 있었습니다.
+### Project Significance
+Through this project, Chonbuk National University students were able to develop an international perspective and strengthen the capabilities required to grow as global leaders. Additionally, interactions with foreign students provided an opportunity to build a global network and enhance problem-solving skills in a multicultural environment.
 
 ---
 
-**프로그램 내용**
-- 외국인 학생들과 함께 국제 이슈에 대한 토론 및 협력적 해결방안 모색
-- 문화 교류 및 팀워크를 통한 융합인재 교육
-- 전북대 학생들이 주도적으로 프로그램을 기획하고 참여하는 형태로 진행
+**Program Details**
+- Discussion and collaborative problem-solving on international issues with foreign students
+- Convergence talent education through cultural exchange and teamwork
+- Program led and planned by Chonbuk National University students to ensure active participation
 
-**성과 및 의의**
-이번 공모전에서 우수상을 수상하며 융합인재 교육의 중요성과 학생 주도적 국제 교류의 가치를 인정받았습니다. 이를 통해 학생들은 글로벌한 시각을 갖추고 다양한 분야에서 성장할 수 있는 역량을 강화하게 되었습니다.
+**Achievements and Significance**
+The program received the Excellence Award in the contest, recognizing the importance of convergence talent education and the value of student-led international exchanges. Through this experience, students have strengthened their global outlook and enhanced their ability to grow across various fields.

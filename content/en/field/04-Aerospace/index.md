@@ -1,30 +1,32 @@
 ---
-title: 배달 조각 앱 개발
+title: "Baedal Jjok (Delivery Sharing)" App Development
 date: 2024-03-26
-tags: ['배달 앱', '위치 기반 서비스', '배달비 분담', '실시간 매칭', '안전 결제', '앱 제작']
+tags: ['Delivery App', 'Location-based Service', 'Delivery Fee Sharing', 'Real-time Matching', 'Secure Payment', 'App Development']
 ---
+
 <div class="justify-text">
-"배달 조각" 앱은 사용자가 현재 위치 주변에서 함께 배달비를 나눌 사람을 찾을 수 있도록 하는 플랫폼입니다. 이 앱은 배달 음식을 시킬 때 부담스러울 수 있는 배달비를 줄이기 위해 고안된 서비스로, 사용자들이 실시간으로 주변에서 함께 주문할 사람을 찾을 수 있게 도와줍니다.
+The "Baedal Jjok" app is a platform that allows users to find people nearby who are willing to share delivery fees. The app is designed to help users reduce the potentially burdensome cost of delivery when ordering food, enabling them to find others in real time to place shared orders.
 
 <!--more-->
 <br>
-## 앱의 주요 기능과 특징
 
-**위치 기반 매칭**  
-   앱 사용자의 현재 위치를 기반으로 주변에 함께 배달비를 나눌 사람을 찾습니다. 이를 통해 배달비 부담을 줄이고 더 저렴한 비용으로 음식을 즐길 수 있게 됩니다.
+## Key Features and Characteristics of the App
 
-**실시간 매칭 시스템**  
-   앱은 실시간으로 사용자들의 참여 상황을 업데이트하며, 주문하고자 하는 메뉴, 인원 수, 예상 배달비 등의 정보를 공유합니다. 이를 통해 사용자는 자신의 선호도에 맞는 사람들과 배달을 나누어 시킬 수 있습니다.
+**Location-based Matching**  
+   The app uses the current location of the user to find nearby people who are willing to share delivery fees. This helps reduce the cost of delivery, allowing users to enjoy their food at a more affordable price.
 
-**편리한 채팅 기능**  
-   매칭된 사용자들끼리 채팅을 통해 주문할 음식을 논의하고 배달비를 분담하는 방법을 결정할 수 있습니다. 이를 통해 매칭된 그룹 간의 의사소통을 원활하게 하며, 배달 주문이 원활하게 진행될 수 있도록 돕습니다.
+**Real-time Matching System**  
+   The app continuously updates the participation status of users in real time, sharing information about the menu to be ordered, the number of people involved, and the estimated delivery fee. This allows users to find others who match their preferences and share a delivery.
 
-**안전한 결제 시스템**  
-   앱 내에서 배달비와 음식 값을 안전하게 분담하고 결제할 수 있는 기능을 제공합니다. 이를 통해 사용자는 상대방과 금전적인 문제를 해결하고 안심하고 거래할 수 있습니다.
+**Convenient Chatting Feature**  
+   Matched users can use the in-app chat to discuss what food to order and decide how to share the delivery fee. This ensures smooth communication within the matched group and helps facilitate a seamless ordering process.
 
-## 앱의 가치와 활용성
+**Secure Payment System**  
+   The app provides a secure payment feature for sharing the cost of food and delivery within the app. This allows users to safely and conveniently handle financial transactions with others, ensuring a hassle-free experience.
 
-"배달 조각" 앱은 배달음식을 자주 이용하는 사용자에게 효율적으로 배달비를 나눌 수 있는 환경을 제공합니다. 특히 1인 가구나 배달비 부담을 느끼는 학생, 직장인 등에게 유용하며, 이를 통해 배달비 부담을 줄이고 더 많은 사람들이 합리적인 가격으로 배달음식을 즐길 수 있게 돕습니다.
+## Value and Usefulness of the App
 
-이러한 앱 개발은 사용자들의 배달비 부담을 줄여주고 소셜 매칭을 통해 새로운 경험을 만들어주며, 배달 음식 문화의 새로운 트렌드를 선도하는 데 기여합니다.
+The "Baedal Jjok" app offers an efficient way to share delivery costs for users who frequently order delivery food. It is particularly useful for single-person households, students, and office workers who are sensitive to delivery fees, enabling more people to enjoy food delivery at a reasonable price.
+
+The development of this app not only helps users reduce their delivery fee burden but also creates a new experience through social matching, contributing to a new trend in food delivery culture.
 </div>

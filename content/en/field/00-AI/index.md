@@ -1,27 +1,27 @@
 ---
-title: 전북대학교 중앙동아리 CPU사이트 제작 프로젝트(미완성)
+title: Chonbuk National University Central Club CPU Website Development Project (Incomplete)
 date: 2024-03-31
-tags: ['전북대학교', '동아리', '사이트 제작', '로그인 시스템', '공지사항']
+tags: ['Chonbuk National University', 'Club', 'Website Development', 'Login System', 'Announcements']
 ---
+
 <div class="justify-text">
-제가 시도했던 프로젝트중 하나를 소개해드리겠습니다. 전북대학교 중앙동아리 CPU 사이트 제작 시도는 동아리원들의 활동을 더 효율적으로 관리하고, 새로운 멤버들의 참여를 쉽게 돕는 중요한 프로젝트입니다. 사이트는 다음과 같은 핵심 기능을 제공할 계획입니다.
+I would like to introduce one of the projects I have attempted. The Chonbuk National University Central Club CPU website development is an important project aimed at efficiently managing the activities of club members and facilitating the participation of new members. The site is planned to provide the following key features.
 
 <br>
 <!--more-->
 
-**로그인 시스템**  
-사이트에 들어오는 모든 사용자는 로그인 시스템을 통해 인증을 받습니다. 기존 동아리원은 자신의 계정으로 로그인하여 동아리 내에서 진행되는 활동 내용과 공지를 확인할 수 있고, 새롭게 가입하려는 학생들은 회원가입 후 간단한 절차를 통해 사이트에 접근할 수 있습니다. 이를 통해 사이트를 사용하는 모든 사용자들은 자신의 권한에 따라 콘텐츠에 접근할 수 있습니다.
+**Login System**  
+All users accessing the site are authenticated through a login system. Existing club members can log in with their accounts to check activities and announcements within the club, and new students who wish to join can sign up through a simple procedure to access the site. This ensures that all users can access content according to their permissions.
 
-**활동 내용 및 동아리 공지**  
-동아리 내의 다양한 활동과 공지사항이 한눈에 들어올 수 있도록 깔끔한 디자인과 정돈된 게시판 형태로 구성되었습니다. 여기서는 동아리의 일정, 행사 계획, 스터디 모임, 워크숍, 멘토링 등 다양한 활동 내용을 공지하고 동아리원들이 소통할 수 있는 공간으로 활용됩니다. 또한 각 활동의 상세한 내용과 일정에 대한 업데이트를 실시간으로 확인할 수 있어 동아리원들의 참여를 원활하게 돕습니다.
+**Activity Details and Club Announcements**  
+A clean design and well-organized bulletin board format are used so that various activities and announcements within the club can be seen at a glance. Here, you can find details about the club's schedule, event plans, study meetings, workshops, mentoring sessions, and more. It serves as a space where members can communicate. Additionally, detailed information and updates on each activity and schedule can be checked in real-time to facilitate smooth participation.
 
-**동아리 가입 신청**  
-동아리에 관심 있는 학생들은 사이트를 통해 간편하게 가입 신청을 할 수 있습니다. 신청자들은 간단한 자기소개와 지원 동기를 작성해 제출하며, 동아리에서는 이를 검토한 후 간단한 승인 절차를 거쳐 가입이 완료됩니다. 이 기능은 기존에 오프라인으로 진행되던 복잡한 가입 절차를 간소화해, 많은 학생들이 편리하게 동아리에 참여할 수 있도록 돕는 역할을 합니다.
+**Club Membership Application**  
+Students interested in the club can easily apply for membership through the site. Applicants can submit a brief self-introduction and their motivation for applying, and the club will review these submissions and complete the membership through a simple approval process. This feature simplifies the previously complex offline application process, allowing many students to conveniently join the club.
 
-**프로젝트 의의**  
-이 사이트는 중앙동아리 CPU의 모든 동아리원과 신규 가입자들이 편리하고 유용하게 활용할 수 있는 온라인 플랫폼을 제공함으로써, 동아리 활동을 더욱 활성화하고 효율적으로 관리할 수 있도록 지원할 것입니다. 또한, 모든 공지사항과 활동 내역을 한 곳에 모아 볼 수 있어 동아리원의 참여도를 높이고, 새로운 멤버들의 동아리 참여를 적극적으로 독려할 수 있게 될 것입니다.
+**Project Significance**  
+This site will provide an online platform that all current and prospective members of the central club CPU can conveniently and effectively use, supporting the activation and efficient management of club activities. Furthermore, by gathering all announcements and activity details in one place, it will encourage greater participation among existing members and actively promote new members' involvement in the club.
 
-
-**링크**  
-[CPU 동아리 사이트](https://lively-kataifi-3d76d7.netlify.app)
+**Link**  
+[CPU Club Website](https://lively-kataifi-3d76d7.netlify.app)
 </div>

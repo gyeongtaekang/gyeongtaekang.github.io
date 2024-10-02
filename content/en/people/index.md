@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: 주인
+      title: Owner
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -21,14 +21,14 @@ sections:
 
   - block: people
     content:
-      title: 애완동물
+      title: Pets
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
         - pet
-          # - 박사과정
-          # - 석사과정
-          # - 학부연구생
+          # - PhD Students
+          # - Master's Students
+          # - Undergraduate Researchers
           # - Principal Investigators
           # - Researchers
           # - Grad Students

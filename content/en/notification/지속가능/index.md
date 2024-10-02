@@ -1,17 +1,16 @@
 ---
-title: 2023/12/22 지속가능발전목표 SDGs 프레젠테이션 대회
+title: 2023/12/22 Sustainable Development Goals (SDGs) Presentation Contest
 date: 2023-12-22
-tags: ['전북대',  '프로그램 공모전', '지속가능', '프레젠테이션']
+tags: ['Chonbuk National University', 'Program Contest', 'Sustainability', 'Presentation']
 ---
 
-인공지능은 최근 산림 보호에 있어 혁신적인 도구로 부상하고 있습니다. 특히 기후 변화와 인간 활동으로 인한 삼림 파괴는 환경에 큰 위협이 되고 있으며, 이를 효과적으로 관리하고 보호하는 것은 지속가능발전목표(SDGs)의 중요한 과제 중 하나입니다.
+Artificial intelligence (AI) has recently emerged as an innovative tool for forest protection. Deforestation due to climate change and human activities poses a significant threat to the environment, making effective management and protection one of the key challenges of the Sustainable Development Goals (SDGs).
 
 <!--more-->
 
-- 위성 이미지 및 드론 활용을 통한 감시 및 모니터링: 인공지능은 위성 이미지와 드론 데이터를 분석하여 삼림 지역의 변화를 실시간으로 모니터링할 수 있습니다. 특히, 딥러닝을 이용해 산불, 벌목, 불법 채취 등의 이상 징후를 빠르게 감지하고 조기에 대응할 수 있도록 도와줍니다. 이를 통해 산림 관리자들은 숲의 상태를 빠르고 효율적으로 파악하고 보호 조치를 취할 수 있습니다.
-- 예측 모델을 통한 산림 파괴 방지: 머신러닝 알고리즘은 과거의 산림 데이터와 현재의 기상, 지형 정보를 학습하여 미래의 산림 파괴 가능성을 예측할 수 있습니다. 예를 들어, 기상 변화나 인간 활동으로 인한 삼림 파괴를 예측하고 그 위험을 감소시키기 위한 전략을 수립하는 데 도움이 됩니다.
-- 생태계 보존 및 생물 다양성 유지: AI 기술은 삼림 내 생물종의 분포와 서식지 변화를 파악하는 데도 활용됩니다. 이를 통해 멸종 위기에 처한 종의 서식지를 보호하고, 생물 다양성을 유지하기 위한 보호 구역을 효율적으로 설정할 수 있습니다.
-- 스마트 농림 기술을 통한 삼림 보존: 인공지능을 활용한 스마트 농림 기술은 농업 및 임업 활동의 효율성을 높이면서 삼림 파괴를 최소화하는 데 기여합니다. AI를 통해 농작물의 상태를 파악하고 병해충을 예측하는 시스템을 구축함으로써 농작업이 산림에 미치는 영향을 최소화할 수 있습니다.
+- **Monitoring with Satellite Imagery and Drones**: AI analyzes satellite images and drone data to monitor forest area changes in real-time. By utilizing deep learning, it can quickly detect anomalies such as wildfires, illegal logging, and poaching, enabling early intervention. This helps forest managers efficiently assess forest conditions and take protective measures.
+- **Preventing Deforestation with Predictive Models**: Machine learning algorithms analyze past forest data along with current weather and topographical information to predict potential future deforestation. For instance, AI can help forecast deforestation risks due to climate change or human activities and assist in developing strategies to mitigate these risks.
+- **Ecosystem Conservation and Biodiversity Preservation**: AI technology is also applied to understand the distribution and habitat changes of species within forests. This enables the protection of habitats for endangered species and the efficient establishment of conservation zones to maintain biodiversity.
+- **Smart Agroforestry for Forest Conservation**: AI-driven smart agroforestry techniques contribute to minimizing forest destruction while improving the efficiency of agricultural and forestry activities. By implementing systems that monitor crop conditions and predict pests and diseases using AI, the environmental impact of agricultural practices on forests can be minimized.
 
-
-발표에서는 이러한 AI 기술의 활용 사례를 중심으로 삼림 보호와 지속가능한 발전에 대한 통찰을 제시하고, 미래 환경 보전에 있어서 AI의 중요성과 잠재력을 강조했습니다. 인공지능은 환경 감시 및 예측을 향상시키고, 산림 파괴에 대한 신속한 대응과 예방책을 마련하는 데 큰 역할을 할 수 있습니다.
+The presentation focused on these examples of AI applications for forest protection and sustainable development, highlighting the importance and potential of AI in future environmental conservation. AI plays a critical role in enhancing environmental monitoring and forecasting, as well as enabling rapid response and prevention strategies against deforestation.
