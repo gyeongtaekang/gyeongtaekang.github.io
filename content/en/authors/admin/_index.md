@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 강경태
+title: Gyeongtae Kang
 
 # Full Name (for SEO)
-first_name: gyeongtae
+first_name: Gyeongtae
 last_name: Kang
 
 # Username (this should match the folder name)
@@ -14,31 +14,31 @@ authors:
 superuser: true
 
 # Role/position
-role: 대학생
+role: University Student
 
 # Organizations/Affiliations
 organizations:
-  - name: 경태의 개발연습
+  - name: Gyeongtae’s Development Practice
     url: 'https://gyeongta1101.netlify.app'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.(admin)
+bio: A student at the Department of Computer Science at Jeonbuk National University (JBNU), who transferred from the Department of Clothing to pursue a passion for AI and data analysis. Gyeongtae has won various awards, including the Grand Prize at the JBNU Idea Hackathon and the Best Pitch Award at the Startup Idea Makethon. Currently active in Professor Kyung-Soo Lee's Medical AI Research Lab, Gyeongtae aims to contribute to society through technology and innovation based on service experience and academic achievements. (admin)
 
 interests:
-  - 인공지능 및 딥러닝
-  - 데이터 분석 및 빅데이터
-  - 소프트웨어 개발 및 프로그래밍
-  - 창업 및 아이디어 구현
-  - 사회 문제 해결 및 지속가능성
-  - 서비스 경험 및 소통
+  - Artificial Intelligence and Deep Learning
+  - Data Analysis and Big Data
+  - Software Development and Programming
+  - Entrepreneurship and Idea Implementation
+  - Solving Social Issues and Sustainability
+  - Service Experience and Communication
 
 education:
   courses:
-    - course: 컴퓨터공학부
-      institution: 전북대학교(JBNU)
+    - course: Department of Computer Science
+      institution: Jeonbuk National University (JBNU)
       year: 2020 - 2025
-    - course: 일반계(이공계열)
-      institution: 전주고등학교
+    - course: General High School (Science and Engineering Track)
+      institution: Jeonju High School
       year: 2016 - 2019
 
 # Social/Academic Networking
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ksl@jbnu.ac.kr'
+email: 'namwon420@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -72,7 +72,6 @@ highlight_name: true
 user_groups:
   - admin
 
-
 ---
 
-전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
+As a student of the Department of Computer Science at Jeonbuk National University (JBNU), who transitioned from the Department of Clothing, Gyeongtae is passionate about AI and data analysis. With several awards, such as the Grand Prize at the JBNU Idea Hackathon and the Best Pitch Award at the Startup Idea Makethon, Gyeongtae is currently active in Professor Kyung-Soo Lee’s Medical AI Research Lab, striving to contribute to society through technology and innovation based on both service experience and academic achievements.

@@ -5,118 +5,119 @@ type: landing
 sections:
   - block: experience
     content:
-      title: 수상 경력 및 활동 기록
+      title: Awards and Activities
       items:
-        - title: 전북대학교 의류학과 입학
+        - title: Admission to JBNU Department of Clothing
           date_start: '2020-03-01'
           description: |
-            의류학과 입학 후 다양한 경험을 쌓음
+            Gained diverse experiences as a student in the Department of Clothing.
 
-        - title: 대한민국 육군 15사단 입대
+        - title: Enlistment in the 15th Division of the ROK Army
           date_start: '2020-10-05'
           description: |
-            육군 복무를 시작하여 병장으로 만기 전역
+            Began military service and was honorably discharged as a Sergeant.
 
-        - title: 군대 첫 휴가
+        - title: First Military Leave
           date_start: '2021-05-04'
           date_end: '2021-05-18'
           description: |
-            군복무 중 유일한 휴가 기간
+            The only leave period during military service.
 
-        - title: 대한민국 육군 병장 만기 조기 전역
+        - title: Early Discharge as a ROK Army Sergeant
           date_start: '2022-02-25'
           description: |
-            육군 병장으로 만기 전역
+            Honorably discharged as a Sergeant.
 
-        - title: 대면 수업 복학
+        - title: Returning to Campus for In-Person Classes
           date_start: '2022-03-01'
           description: |
-            재수와 군 복무 후 꿈에 그리던 대면 수업 복학
+            Resumed in-person classes after military service.
 
-        - title: 케리비안베이 라이프가드 (서비스직 경험)
+        - title: Lifeguard at Caribbean Bay (Service Industry Experience)
           date_start: '2022-06-16'
           date_end: '2024-08-25'
           description: |
-            서비스 직종 경험을 쌓음
+            Gained experience in the service industry.
 
-        - title: 하이원 스키장 리프트 탑승 보조 알바
+        - title: Lift Assistant at High1 Ski Resort
           date_start: '2022-12-27'
           date_end: '2023-02-28'
           description: |
-            겨울 스포츠 경험 및 알바 활동
+            Worked part-time and gained experience in winter sports.
 
-        - title: 전북대학교 의류학과 2학년 과탑
-          date_start: '2022-09-01'  # 날짜 형식을 변경
+        - title: Top Student of the 2nd Year, JBNU Department of Clothing
+          date_start: '2022-09-01'
           description: |
-            학과에서 우수한 성적으로 과탑 수상
+            Achieved outstanding academic performance in the department.
 
-        - title: 컴퓨터공학부로 전과
+        - title: Transferred to Department of Computer Science
           date_start: '2022-02-15'
           description: |
-            의류학과에서 컴퓨터공학부로 전과
+            Transferred from the Department of Clothing to Computer Science.
 
-        - title: 전북대학교 아이디어 해커톤 최우수상
+        - title: Grand Prize at JBNU Idea Hackathon
           date_start: '2023-12-01'
           date_end: '2023-12-03'
           description: |
-            창의적인 아이디어를 통해 최우수상 수상
+            Won the Grand Prize with creative ideas.
 
-        - title: AI 활용 학습 수기 공모전 장려상
+        - title: Encouragement Award at AI Learning Experience Contest
           date_start: '2023-11-27'
           date_end: '2023-12-29'
           description: |
-            AI 기술을 활용한 학습 수기 공모전에서 장려상 수상
+            Received an encouragement award in the AI learning experience contest.
 
-        - title: 다양한 학습 꿀팁 공모전 수상
+        - title: Winner of Various Study Tips Contests
           date_start: '2023-11-27'
           date_end: '2023-12-29'
           description: |
-            학습 꿀팁과 노하우를 공유하는 다양한 공모전에서 입상 및 장려상 수상
+            Awarded in multiple contests for sharing study tips and insights.
 
-        - title: 지속가능발전목표 SDGs 프레젠테이션 대회 우수상
+        - title: Excellence Award at SDGs Presentation Contest
           date_start: '2023-12-22'
           description: |
-            SDGs 프레젠테이션 대회에서 우수한 성과로 우수상 수상
+            Won the Excellence Award in the Sustainable Development Goals presentation contest.
 
-        - title: 동계 빅데이터 캠프 이수
+        - title: Completed Winter Big Data Camp
           date_start: '2024-01-09'
           date_end: '2024-01-12'
           description: |
-            데이터 분석 및 활용 역량 강화
+            Enhanced skills in data analysis and utilization.
 
-        - title: 창업 아이디어 메이커톤 베스트 피칭상
+        - title: Best Pitch Award at Startup Idea Makethon
           date_start: '2024-02-02'
           description: |
-            창업 아이디어로 메이커톤에서 베스트 피칭상 수상
+            Won the Best Pitch Award for startup ideas.
 
-        - title: 크몽 프리랜서 활동
+        - title: Freelancer on Kmong Platform
           date_start: '2024-02-01'
           date_end: '2024-04-15'
           description: |
-            크몽에서 프리랜서로 활동 (학교 공부 이슈로 중단)
+            Worked as a freelancer on Kmong (paused due to academic commitments).
 
-        - title: 하이파이브 서포터즈
+        - title: Hi-Five Supporter Activities
           date_start: '2024-02-28'
           date_end: '2024-08-31'
           description: |
-            하이파이브 서포터즈로 다양한 활동 참여
+            Participated in various activities as a Hi-Five supporter.
 
-        - title: 의료 인공지능 연구실
+        - title: Medical AI Research Lab
           date_start: '2024-04-01'
           description: |
-            이경수 교수님 연구실에서 의료 AI 연구 진행 중
+            Currently conducting research in Medical AI under Professor Kyung-Soo Lee.
 
-        - title: 비교과 프로그램 공모전 우수상
+        - title: Excellence Award at Comparative Program Development Contest
           date_start: '2024-06-17'
           date_end: '2024-07-10'
           description: |
-            비교과 프로그램 개발 공모전에서 우수상 수상
+            Received the Excellence Award in a comparative program development contest.
 
-        - title: 전주 가맥지기
+        - title: Gamaek Waiter in Jeonju
           date_start: '2024-07-01'
           date_end: '2024-08-31'
           description: |
-            전주의 가맥지기로 활동하며 다양한 경험
+            Gained various experiences as a Gamaek waiter in Jeonju.
+
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
   image: 'featured.jpg'

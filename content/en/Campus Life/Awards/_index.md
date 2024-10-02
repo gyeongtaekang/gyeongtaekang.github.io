@@ -5,95 +5,95 @@ type: landing
 sections:
   - block: accomplishments
     content:
-      title: 경력
-      subtitle: '나의 수상 및 활동 내역'
+      title: Career
+      subtitle: 'My Awards and Activities'
       text: ''
       items:
-        - title: 전북대학교 아이디어 해커톤 최우수상
+        - title: Grand Prize at JBNU Idea Hackathon
           certificate_url: ''
           date_start: '01 Dec 2023'
           date_end: '03 Dec 2023'
-          description: '배달조각이라는 안드로이드 스튜디오 기반 앱 제작'
+          description: 'Developed "BaeDalJoGak," an app based on Android Studio'
           icon: academic-cap
-          organization: 전북대학교
+          organization: Jeonbuk National University (JBNU)
           organization_url: ''
           url: ''
 
-        - title: AI 활용 학습 수기 공모전 장려상
+        - title: Encouragement Award in AI Learning Experience Contest
           certificate_url: ''
           date_start: '27 Nov 2023'
           date_end: '29 Dec 2023'
-          description: 'AI 기술을 활용한 학습 노하우 수기 제출'
+          description: 'Submitted an essay on learning techniques using AI technology'
           icon: trophy
-          organization: AI 학습 지원 센터
+          organization: AI Learning Support Center
           organization_url: ''
           url: ''
 
-        - title: 학습 꿀팁 공모전 장려상
+        - title: Encouragement Award in Study Tips Contest
           certificate_url: ''
           date_start: '27 Nov 2023'
           date_end: '29 Dec 2023'
-          description: '효과적인 학습 전략을 공유'
+          description: 'Shared effective study strategies'
           icon: lightbulb
-          organization: 학습 꿀팁 공모전
+          organization: Study Tips Contest
           organization_url: ''
           url: ''
 
-        - title: 지속가능발전목표 SDGs 프레젠테이션 대회 우수상
+        - title: Excellence Award in SDGs Presentation Contest
           certificate_url: ''
           date_start: '22 Dec 2023'
-          description: '지속가능발전목표(SDGs)에 관한 프레젠테이션 대회 우수상 수상'
+          description: 'Received Excellence Award in a presentation contest on Sustainable Development Goals (SDGs)'
           icon: globe
-          organization: SDGs 대회 조직위원회
+          organization: SDGs Contest Organizing Committee
           organization_url: ''
           url: ''
 
-        - title: 동계 빅데이터 캠프 이수
+        - title: Completed Winter Big Data Camp
           certificate_url: ''
           date_start: '09 Jan 2024'
           date_end: '12 Jan 2024'
-          description: '데이터 분석 및 활용 능력 강화 교육 이수'
+          description: 'Completed training to enhance data analysis and utilization skills'
           icon: chart-bar
-          organization: 빅데이터 캠프
+          organization: Big Data Camp
           organization_url: ''
           url: ''
 
-        - title: 창업 아이디어 메이커톤 베스트 피칭상
+        - title: Best Pitch Award at Startup Idea Makethon
           certificate_url: ''
           date_start: '02 Feb 2024'
-          description: '창업 아이디어를 제시하고 뛰어난 피칭으로 수상'
+          description: 'Awarded for outstanding pitching of startup ideas'
           icon: bullhorn
-          organization: 메이커톤 조직위
+          organization: Makethon Organizing Committee
           organization_url: ''
           url: ''
 
-        - title: 크몽 프리랜서 활동
+        - title: Freelancer on Kmong Platform
           certificate_url: ''
           date_start: '01 Feb 2024'
           date_end: '15 Apr 2024'
-          description: '크몽 플랫폼에서 프리랜서로 활동 (학점 관리 이슈로 중단)'
+          description: 'Worked as a freelancer on the Kmong platform (paused due to academic priorities)'
           icon: handshake
-          organization: 크몽
+          organization: Kmong
           organization_url: 'https://kmong.com'
           url: ''
 
-        - title: 내가 만드는 비교과 프로그램 공모전 우수상
+        - title: Excellence Award in Comparative Program Development Contest
           certificate_url: ''
           date_start: '17 Jun 2024'
           date_end: '10 Jul 2024'
-          description: '비교과 프로그램을 직접 개발하여 우수상 수상'
+          description: 'Developed a comparative program and won the Excellence Award'
           icon: award
-          organization: 비교과 프로그램 조직위원회
+          organization: Comparative Program Development Contest Committee
           organization_url: ''
           url: ''
 
-        - title: 전주 가맥지기 활동
+        - title: Gamaek Waiter in Jeonju
           certificate_url: ''
           date_start: '01 Jul 2024'
           date_end: '31 Aug 2024'
-          description: '전주 가맥지기로 다양한 활동 참여'
+          description: 'Participated in various activities as a Gamaek waiter in Jeonju'
           icon: beer
-          organization: 전주 가맥
+          organization: Jeonju Gamaek
           organization_url: ''
           url: ''
       
