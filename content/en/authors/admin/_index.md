@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gyeongtae Kang
+title: 강경태
 
 # Full Name (for SEO)
 first_name: Gyeongtae
