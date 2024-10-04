@@ -18,7 +18,7 @@ role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: '<span style="color: initial; transition: color 0.3s;">경태의 개발연습</span>'
+  - name: '경태의 개발연습'
     url: 'https://gyeongta1101.netlify.app'
 
 

@@ -18,7 +18,7 @@ role: University Student
 
 # Organizations/Affiliations
 organizations:
-  - name: '<span style="color: initial; transition: color 0.3s;">Gyeongtae’s Development Practice</span>'
+  - name: 'Gyeongtae’s Development Practice'
     url: 'https://gyeongta1101.netlify.app'
 
 # Short bio (displayed in user profile at end of posts)
