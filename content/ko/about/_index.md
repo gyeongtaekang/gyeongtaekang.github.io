@@ -6,6 +6,18 @@ type: landing
 
 sections:
 
+  - block: hero
+    content:
+      title: |
+        <span style="font-size:75%">나의 경험과 프로젝트</span>
+      image:
+        filename: 공부.jpg # 원하는 이미지 파일명으로 변경하세요
+      text: |
+        <br>
+        <span style="font-size:125%">다양한 프로젝트와 외주 경험을 소개합니다. 여기에서 저의 작업들을 확인해보세요!</span>
+    design:
+      height: '400px' # 배너의 높이를 조절할 수 있습니다 (px 값 변경 가능)
+
   - block: features
     content:
       title: 
@@ -72,8 +84,7 @@ sections:
           text-color: '#fff'
           url: https://www.shospot.kr/
 
-    
-
+      # 4. 쇼핑몰 관리자페이지
       - title: <span style="font-size:90%">쇼핑몰 관리자페이지</span>
         content: <span style="font-size:90%">쇼핑몰 사이트 프론트부분중 관리자 페이지를 제작하였습니다</span>
         align: center
@@ -91,7 +102,7 @@ sections:
           text-color: '#fff'
           url: https://temp1234aa.netlify.app/back-end/
 
-      # 6. 기존 슬라이더 - 메이커톤 베스트 피칭상
+      # 5. 리액트 네이치브 푸쉬알림 보내기 외주
       - title: <span style="font-size:90%">리액트 네이치브 푸쉬알림 보내기 외주</span>
         content: <span style="font-size:90%">리액트 네이티브앱에서 파이어베이스와 연동해서 푸쉬 앱알림을 도와드렸습니다.</span>
         align: center
@@ -112,15 +123,4 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 3000
 
-  # - block: hero
-  #   content:
-  #     title: |
-  #       <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab</span>
-  #     image:
-  #       filename: welcome.jpg
-  #     text: |
-  #       <br>
-        
-  #       <span style="font-size:75%">전북대학교 의료 AI 및 계산 수학 연구실 (MACS Lab) 홈페이지에 오신 것을 환영합니다. MACS에서는 의료, 항공, 국방 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
-  
 ---
