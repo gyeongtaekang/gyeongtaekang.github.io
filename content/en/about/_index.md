@@ -14,9 +14,12 @@ sections:
         filename: 내mbti.png # Change to the desired image filename
       text: |
         <br>
-        <span style="font-size:80%">I created this page to share a little more about myself.
-        <br>As you can see from my MBTI test results, I am highly introverted and extremely realistic. I act based on logic and planning rather than emotions, and even when it comes to spending, I prefer to make decisions carefully and thoughtfully rather than impulsively.
-        <br>As a representative of introverts at Chonbuk National University, I strive to uphold the interests of introverts.</span>
+        <span style="font-size:80%">I created this page to share a bit more about myself.
+        <br>As you can see from my MBTI test results, I am a highly introverted and extremely realistic person. I act based on logic and planning rather than emotions, and even when it comes to spending, I prefer to make careful and thoughtful decisions rather than acting impulsively.
+        <br>Being an ISTJ and having similarities with ESTJ personalities, I am proud of my ISTJ personality as both types are known to manage their finances well.
+        <br>
+        <br>Additionally, as a representative of introverts at Chonbuk National University, I strive to uphold the interests of introverts.</span>
+
     design:
       height: '400px' # Adjust the height of the banner as needed (px value can be changed)
 
