@@ -9,12 +9,13 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-size:75%">나의 경험과 프로젝트</span>
+        <span style="font-size:75%">나의 성격 소개</span>
       image:
-        filename: 공부.jpg # 원하는 이미지 파일명으로 변경하세요
+        filename: 내mbti.jpg # 원하는 이미지 파일명으로 변경하세요
       text: |
         <br>
-        <span style="font-size:125%">다양한 프로젝트와 외주 경험을 소개합니다. 여기에서 저의 작업들을 확인해보세요!</span>
+        <span style="font-size:80%">저에 대해 조금더 알려드리기 위해 이 페이지를 만들었습니다.
+        <br>저는 MBTI 검사 결과를 보시는거 처럼 매우 내향적인 성격이며, 극도로 현실적입니다. 감정에 휘둘리지 않고 계획적으로 행동하며, 소비할 때도 충동적이기보다 신중하게 계획하고 실행하는 편입니다.</span>
     design:
       height: '400px' # 배너의 높이를 조절할 수 있습니다 (px 값 변경 가능)
 
