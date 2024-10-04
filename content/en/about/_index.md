@@ -11,7 +11,7 @@ sections:
       title: |
         <span style="font-size:75%">About My Personality</span>
       image:
-        filename: 내mbti.jpg # Change to the desired image filename
+        filename: 내mbti.png # Change to the desired image filename
       text: |
         <br>
         <span style="font-size:80%">I created this page to share a little more about myself.
