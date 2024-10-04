@@ -1,87 +1,87 @@
 ---
-title: Chonbuk National University Central Club CPU Website Development Project (Incomplete)
+title: 전북대학교 중앙 동아리 CPU 웹사이트 개발 프로젝트 (미완료)
 date: 2024-03-31
-tags: ['Chonbuk National University', 'Club', 'Website Development', 'Login System', 'Announcements']
+tags: ['전북대학교', '동아리', '웹사이트 개발', '로그인 시스템', '공지사항']
 ---
 
 <div class="justify-text">
-I would like to introduce one of the projects I have attempted. The Chonbuk National University Central Club CPU website development is an important project aimed at efficiently managing the activities of club members and facilitating the participation of new members. The site is planned to provide the following key features.
+제가 시도한 프로젝트 중 하나를 소개하고자 합니다. 전북대학교 중앙 동아리 CPU 웹사이트 개발은 동아리 회원들의 활동을 효율적으로 관리하고 신규 회원들의 참여를 돕기 위한 중요한 프로젝트입니다. 해당 사이트는 다음과 같은 핵심 기능을 제공하도록 기획되었습니다.
 
 <br>
 <!--more-->
 
-**Login System**  
-All users accessing the site are authenticated through a login system. Existing club members can log in with their accounts to check activities and announcements within the club, and new students who wish to join can sign up through a simple procedure to access the site. This ensures that all users can access content according to their permissions.
+**로그인 시스템**  
+사이트에 접속하는 모든 사용자는 로그인 시스템을 통해 인증됩니다. 기존 동아리 회원은 계정을 통해 로그인하여 동아리 내부의 활동 및 공지사항을 확인할 수 있고, 가입을 희망하는 신입생은 간단한 절차를 거쳐 회원가입 후 사이트에 접속할 수 있습니다. 이를 통해 모든 사용자는 권한에 따라 콘텐츠에 접근할 수 있습니다.
 
-**Activity Details and Club Announcements**  
-A clean design and well-organized bulletin board format are used so that various activities and announcements within the club can be seen at a glance. Here, you can find details about the club's schedule, event plans, study meetings, workshops, mentoring sessions, and more. It serves as a space where members can communicate. Additionally, detailed information and updates on each activity and schedule can be checked in real-time to facilitate smooth participation.
+**활동 내역 및 동아리 공지사항**  
+동아리 내 다양한 활동과 공지사항을 한눈에 볼 수 있도록 깔끔한 디자인과 잘 정리된 게시판 형식을 사용합니다. 여기에서는 동아리의 일정, 행사 계획, 스터디 모임, 워크샵, 멘토링 세션 등 다양한 정보와 일정을 실시간으로 확인할 수 있으며, 회원 간의 원활한 소통을 위한 공간으로 활용됩니다.
 
-**Club Membership Application**  
-Students interested in the club can easily apply for membership through the site. Applicants can submit a brief self-introduction and their motivation for applying, and the club will review these submissions and complete the membership through a simple approval process. This feature simplifies the previously complex offline application process, allowing many students to conveniently join the club.
+**동아리 가입 신청**  
+동아리에 관심 있는 학생은 사이트를 통해 간편하게 가입 신청을 할 수 있습니다. 신청자는 간단한 자기소개와 지원 동기를 제출할 수 있으며, 동아리는 이를 검토하여 간단한 승인 절차를 통해 회원 가입을 완료합니다. 이 기능은 기존의 복잡한 오프라인 가입 과정을 단순화하여 많은 학생이 편리하게 동아리에 가입할 수 있도록 합니다.
 
-**Project Significance**  
-This site will provide an online platform that all current and prospective members of the central club CPU can conveniently and effectively use, supporting the activation and efficient management of club activities. Furthermore, by gathering all announcements and activity details in one place, it will encourage greater participation among existing members and actively promote new members' involvement in the club.
+**프로젝트의 의의**  
+이 사이트는 중앙 동아리 CPU의 기존 및 신규 회원 모두가 편리하고 효율적으로 사용할 수 있는 온라인 플랫폼을 제공하여 동아리 활동의 활성화 및 효율적인 관리에 기여할 것입니다. 또한, 모든 공지사항 및 활동 내역을 한 곳에 모아 기존 회원의 활발한 참여를 유도하고 신규 회원들의 동아리 참여를 적극적으로 도울 것입니다.
 
-**Link**  
-[CPU Club Website](https://lively-kataifi-3d76d7.netlify.app)
+**링크**  
+[CPU 동아리 웹사이트](https://lively-kataifi-3d76d7.netlify.app)
 </div>     
 
 ---
 
-# Experience
-## Projects and Works as a Freelancer
+# 경험
+## 프리랜서로 수행한 프로젝트 및 작업
 
-<br><span style="font-size:125%">Here is a brief introduction to the experiences and projects completed as part of freelancing work.</span>
+<br><span style="font-size:125%">이곳에는 프리랜서 작업의 일환으로 수행한 경험과 프로젝트에 대한 간략한 소개가 나와 있습니다.</span>
 
 ---
 
-### Project Slider
+### 프로젝트 슬라이더
 
 <section>
   <div id="slider">
-    <!-- Slide 1 -->
+    <!-- 슬라이드 1 -->
     <div class="slide">
-      <h3>MBTI Test Site</h3>
-      <p>A website where users can take a psychological test. Initially created for Google AdSense revenue, it is currently earning through freelance projects.</p>
-      <a href="https://supermbti.netlify.app/" target="_blank">Visit</a>
-      <img src="mbti.png" alt="MBTI Test Site">
+      <h3>MBTI 테스트 사이트</h3>
+      <p>사용자가 심리 테스트를 받을 수 있는 웹사이트입니다. 처음에는 Google AdSense 수익을 위해 제작되었으며, 현재는 프리랜서 프로젝트를 통해 수익을 창출하고 있습니다.</p>
+      <a href="https://supermbti.netlify.app/" target="_blank">방문하기</a>
+      <img src="mbti.png" alt="MBTI 테스트 사이트">
     </div>
 
-    <!-- Slide 2 -->
+    <!-- 슬라이드 2 -->
     <div class="slide">
-      <h3>English Learning Site</h3>
-      <p>An English learning website that I modified and redeveloped.</p>
-      <a href="https://abceggs.co.kr/" target="_blank">Visit</a>
-      <img src="영어사이트.png" alt="English Learning Site">
+      <h3>영어 학습 사이트</h3>
+      <p>제가 수정 및 재개발한 영어 학습 웹사이트입니다.</p>
+      <a href="https://abceggs.co.kr/" target="_blank">방문하기</a>
+      <img src="영어사이트.png" alt="영어 학습 사이트">
     </div>
 
-    <!-- Slide 3 -->
+    <!-- 슬라이드 3 -->
     <div class="slide">
-      <h3>Shopping Mall Site</h3>
-      <p>I contributed to creating and modifying some features of this shopping mall site.</p>
-      <a href="https://www.shospot.kr/" target="_blank">Visit</a>
-      <img src="쇼핑스팟.png" alt="Shopping Mall Site">
+      <h3>쇼핑몰 사이트</h3>
+      <p>해당 쇼핑몰 사이트의 일부 기능 제작 및 수정을 담당하였습니다.</p>
+      <a href="https://www.shospot.kr/" target="_blank">방문하기</a>
+      <img src="쇼핑스팟.png" alt="쇼핑몰 사이트">
     </div>
 
-    <!-- Slide 4 -->
+    <!-- 슬라이드 4 -->
     <div class="slide">
-      <h3>Shopping Mall Admin Page</h3>
-      <p>I developed the admin page for the shopping mall's frontend.</p>
-      <a href="https://temp1234aa.netlify.app/back-end/" target="_blank">Visit</a>
-      <img src="관리자.png" alt="Shopping Mall Admin Page">
+      <h3>쇼핑몰 관리자 페이지</h3>
+      <p>쇼핑몰의 프론트엔드 관리자 페이지를 개발하였습니다.</p>
+      <a href="https://temp1234aa.netlify.app/back-end/" target="_blank">방문하기</a>
+      <img src="관리자.png" alt="쇼핑몰 관리자 페이지">
     </div>
 
-    <!-- Slide 5 -->
+    <!-- 슬라이드 5 -->
     <div class="slide">
-      <h3>Push Notifications in React Native</h3>
-      <p>Assisted with integrating push notifications in a React Native app using Firebase.</p>
-      <img src="리액트외주.png" alt="Push Notifications in React Native">
+      <h3>React Native 푸시 알림</h3>
+      <p>Firebase를 사용하여 React Native 앱에 푸시 알림 기능을 통합하는 작업을 도왔습니다.</p>
+      <img src="리액트외주.png" alt="React Native 푸시 알림">
     </div>
   </div>
 </section>
 
 ---
 
-### Slide Design
-- The slide height is set to '350px'.
-- Each slide transitions automatically with a loop duration of 3 seconds (3000ms).
+### 슬라이드 디자인
+- 슬라이드 높이는 '350px'로 설정되어 있습니다.
+- 각 슬라이드는 3초(3000ms)마다 자동으로 전환됩니다.
