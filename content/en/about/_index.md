@@ -1,84 +1,115 @@
 ---
-title: 전북대학교 중앙 동아리 CPU 웹사이트 개발 프로젝트 (미완료)
-date: 2024-03-31
-tags: ['전북대학교', '동아리', '웹사이트 개발', '로그인 시스템', '공지사항']
+# Leave the homepage title empty to use the site title
+title: Experience
+date: 2024-03-25
+type: landing
+
+sections:
+
+  - block: features
+    content:
+      title: 
+      text: <br><span style="font-size:125%">Here is a brief introduction to the experiences and projects completed as part of freelancing work.</span>
+
+  - block: slider
+    content:
+      slides:
+
+      # 1. MBTI Test Site
+      - title: <span style="font-size:90%">MBTI Test Site</span>
+        content: <span style="font-size:90%">A website where users can take a psychological test. Initially created for Google AdSense revenue, it is currently earning through freelance projects.</span>
+        align: center
+        background:
+          image:
+            filename: mbti.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: <span style="font-size:60%">Visit</span>
+          text-color: '#fff'
+          url: https://supermbti.netlify.app/
+          style: "transition: background-color 0.3s ease; background-color: #007BFF; color: #fff;"
+          hover_style: "background-color: #FFD700;"
+
+
+      # 2. English Learning Site
+      - title: <span style="font-size:90%">English Learning Site</span>
+        content: <span style="font-size:90%">An English learning website that I modified and redeveloped.</span>
+        align: center
+        background:
+          image:
+            filename: 영어사이트.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: <span style="font-size:60%">Visit</span>
+          text-color: '#fff'
+          url: https://abceggs.co.kr/
+
+      # 3. Shopping Mall Site
+      - title: <span style="font-size:90%">Shopping Mall Site</span>
+        content: <span style="font-size:90%">I contributed to creating and modifying some features of this shopping mall site.</span>
+        align: center
+        background:
+          image:
+            filename: 쇼핑스팟.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: <span style="font-size:60%">Visit</span>
+          text-color: '#fff'
+          url: https://www.shospot.kr/
+
+    
+
+      # 4. Shopping Mall Admin Page
+      - title: <span style="font-size:90%">Shopping Mall Admin Page</span>
+        content: <span style="font-size:90%">I developed the admin page for the shopping mall's frontend.</span>
+        align: center
+        background:
+          image:
+            filename: 관리자.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: <span style="font-size:60%">Visit</span>
+          text-color: '#fff'
+          url: https://temp1234aa.netlify.app/back-end/
+
+      # 5. Push Notification in React Native
+      - title: <span style="font-size:90%">Push Notifications in React Native</span>
+        content: <span style="font-size:90%">Assisted with integrating push notifications in a React Native app using Firebase.</span>
+        align: center
+        background:
+          image:
+            filename: 리액트외주.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
 ---
-
-## 프로젝트 소개
-
-제가 시도한 프로젝트 중 하나를 소개하고자 합니다. 전북대학교 중앙 동아리 CPU 웹사이트 개발은 동아리 회원들의 활동을 효율적으로 관리하고 신규 회원들의 참여를 돕기 위한 중요한 프로젝트입니다. 해당 사이트는 다음과 같은 핵심 기능을 제공하도록 기획되었습니다.
-
-**로그인 시스템**  
-사이트에 접속하는 모든 사용자는 로그인 시스템을 통해 인증됩니다. 기존 동아리 회원은 계정을 통해 로그인하여 동아리 내부의 활동 및 공지사항을 확인할 수 있고, 가입을 희망하는 신입생은 간단한 절차를 거쳐 회원가입 후 사이트에 접속할 수 있습니다. 이를 통해 모든 사용자는 권한에 따라 콘텐츠에 접근할 수 있습니다.
-
-**활동 내역 및 동아리 공지사항**  
-동아리 내 다양한 활동과 공지사항을 한눈에 볼 수 있도록 깔끔한 디자인과 잘 정리된 게시판 형식을 사용합니다. 여기에서는 동아리의 일정, 행사 계획, 스터디 모임, 워크샵, 멘토링 세션 등 다양한 정보와 일정을 실시간으로 확인할 수 있으며, 회원 간의 원활한 소통을 위한 공간으로 활용됩니다.
-
-**동아리 가입 신청**  
-동아리에 관심 있는 학생은 사이트를 통해 간편하게 가입 신청을 할 수 있습니다. 신청자는 간단한 자기소개와 지원 동기를 제출할 수 있으며, 동아리는 이를 검토하여 간단한 승인 절차를 통해 회원 가입을 완료합니다. 이 기능은 기존의 복잡한 오프라인 가입 과정을 단순화하여 많은 학생이 편리하게 동아리에 가입할 수 있도록 합니다.
-
-**프로젝트의 의의**  
-이 사이트는 중앙 동아리 CPU의 기존 및 신규 회원 모두가 편리하고 효율적으로 사용할 수 있는 온라인 플랫폼을 제공하여 동아리 활동의 활성화 및 효율적인 관리에 기여할 것입니다. 또한, 모든 공지사항 및 활동 내역을 한 곳에 모아 기존 회원의 활발한 참여를 유도하고 신규 회원들의 동아리 참여를 적극적으로 도울 것입니다.
-
-**링크**  
-[CPU 동아리 웹사이트](https://lively-kataifi-3d76d7.netlify.app)
-
----
-
-# 경험
-## 프리랜서로 수행한 프로젝트 및 작업
-
-이곳에는 프리랜서 작업의 일환으로 수행한 경험과 프로젝트에 대한 간략한 소개가 나와 있습니다.
-
----
-
-### 프로젝트 슬라이더
-
-<section>
-  <div id="slider">
-    <!-- 슬라이드 1 -->
-    <div class="slide">
-      <h3>MBTI 테스트 사이트</h3>
-      <p>사용자가 심리 테스트를 받을 수 있는 웹사이트입니다. 처음에는 Google AdSense 수익을 위해 제작되었으며, 현재는 프리랜서 프로젝트를 통해 수익을 창출하고 있습니다.</p>
-      <a href="https://supermbti.netlify.app/" target="_blank">방문하기</a>
-      <img src="mbti.png" alt="MBTI 테스트 사이트">
-    </div>
-
-    <!-- 슬라이드 2 -->
-    <div class="slide">
-      <h3>영어 학습 사이트</h3>
-      <p>제가 수정 및 재개발한 영어 학습 웹사이트입니다.</p>
-      <a href="https://abceggs.co.kr/" target="_blank">방문하기</a>
-      <img src="영어사이트.png" alt="영어 학습 사이트">
-    </div>
-
-    <!-- 슬라이드 3 -->
-    <div class="slide">
-      <h3>쇼핑몰 사이트</h3>
-      <p>해당 쇼핑몰 사이트의 일부 기능 제작 및 수정을 담당하였습니다.</p>
-      <a href="https://www.shospot.kr/" target="_blank">방문하기</a>
-      <img src="쇼핑스팟.png" alt="쇼핑몰 사이트">
-    </div>
-
-    <!-- 슬라이드 4 -->
-    <div class="slide">
-      <h3>쇼핑몰 관리자 페이지</h3>
-      <p>쇼핑몰의 프론트엔드 관리자 페이지를 개발하였습니다.</p>
-      <a href="https://temp1234aa.netlify.app/back-end/" target="_blank">방문하기</a>
-      <img src="관리자.png" alt="쇼핑몰 관리자 페이지">
-    </div>
-
-    <!-- 슬라이드 5 -->
-    <div class="slide">
-      <h3>React Native 푸시 알림</h3>
-      <p>Firebase를 사용하여 React Native 앱에 푸시 알림 기능을 통합하는 작업을 도왔습니다.</p>
-      <img src="리액트외주.png" alt="React Native 푸시 알림">
-    </div>
-  </div>
-</section>
-
----
-
-### 슬라이드 디자인
-- 슬라이드 높이는 '350px'로 설정되어 있습니다.
-- 각 슬라이드는 3초(3000ms)마다 자동으로 전환됩니다.
