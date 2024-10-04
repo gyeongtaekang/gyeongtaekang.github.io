@@ -6,10 +6,24 @@ type: landing
 
 sections:
 
+  - block: hero
+    content:
+      title: |
+        <span style="font-size:75%">About My Personality</span>
+      image:
+        filename: 내mbti.jpg # Change to the desired image filename
+      text: |
+        <br>
+        <span style="font-size:80%">I created this page to share a little more about myself.
+        <br>As you can see from my MBTI test results, I am highly introverted and extremely realistic. I act based on logic and planning rather than emotions, and even when it comes to spending, I prefer to make decisions carefully and thoughtfully rather than impulsively.
+        <br>As a representative of introverts at Chonbuk National University, I strive to uphold the interests of introverts.</span>
+    design:
+      height: '400px' # Adjust the height of the banner as needed (px value can be changed)
+
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">Here is a brief introduction to the experiences and projects completed as part of freelancing work.</span>
+      text: <br><span style="font-size:125%">Here's a brief introduction to my experiences working on freelance projects.</span>
 
   - block: slider
     content:
@@ -17,7 +31,7 @@ sections:
 
       # 1. MBTI Test Site
       - title: <span style="font-size:90%">MBTI Test Site</span>
-        content: <span style="font-size:90%">A website where users can take a psychological test. Initially created for Google AdSense revenue, it is currently earning through freelance projects.</span>
+        content: <span style="font-size:90%">A site where you can take psychological tests. Initially created to earn advertising revenue through Google AdSense, but it's now generating income through freelancing.</span>
         align: center
         background:
           image:
@@ -38,7 +52,7 @@ sections:
 
       # 2. English Learning Site
       - title: <span style="font-size:90%">English Learning Site</span>
-        content: <span style="font-size:90%">An English learning website that I modified and redeveloped.</span>
+        content: <span style="font-size:90%">A site for learning English that I revised and redeveloped.</span>
         align: center
         background:
           image:
@@ -56,7 +70,7 @@ sections:
 
       # 3. Shopping Mall Site
       - title: <span style="font-size:90%">Shopping Mall Site</span>
-        content: <span style="font-size:90%">I contributed to creating and modifying some features of this shopping mall site.</span>
+        content: <span style="font-size:90%">Contributed to developing and revising specific functionalities of a shopping mall site.</span>
         align: center
         background:
           image:
@@ -72,11 +86,9 @@ sections:
           text-color: '#fff'
           url: https://www.shospot.kr/
 
-    
-
       # 4. Shopping Mall Admin Page
       - title: <span style="font-size:90%">Shopping Mall Admin Page</span>
-        content: <span style="font-size:90%">I developed the admin page for the shopping mall's frontend.</span>
+        content: <span style="font-size:90%">Developed the admin page for the frontend part of a shopping mall site.</span>
         align: center
         background:
           image:
@@ -92,9 +104,9 @@ sections:
           text-color: '#fff'
           url: https://temp1234aa.netlify.app/back-end/
 
-      # 5. Push Notification in React Native
-      - title: <span style="font-size:90%">Push Notifications in React Native</span>
-        content: <span style="font-size:90%">Assisted with integrating push notifications in a React Native app using Firebase.</span>
+      # 5. React Native Push Notification Freelancing
+      - title: <span style="font-size:90%">React Native Push Notification Freelancing</span>
+        content: <span style="font-size:90%">Assisted in integrating push notifications in a React Native app using Firebase.</span>
         align: center
         background:
           image:
@@ -112,4 +124,5 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
+
 ---
