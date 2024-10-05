@@ -24,7 +24,7 @@ sections:
       title: About me
       text: |- 
         <span class="justified-text" style="color: gray;text-align: justify;">
-        안녕하세요! 저는 전북대학교 컴퓨터공학부 학생으로, 인공지능(AI)과 데이터 분석에 관심이 많습니다. 원래 의류학을 전공하다가 새로운 도전을 위해 컴퓨터공학으로 전과하였고, 그 이후 다양한 프로젝트와 공모전에 참여하며 성장해 왔습니다. 현재는 의료 AI 분야에서 활발하게 활동하며 기술과 혁신을 통해 사회에 긍정적인 변화를 가져오고자 노력하고 있습니다. 끊임없이 배우고 도전하며, 서울대 의료인공지능 연구실로 진학하는것이 저의 목표입니다.
+          안녕하세요! 저는 전북대학교 컴퓨터공학부 학생으로, 인공지능(AI)과 데이터 분석에 관심이 많습니다. 다양한 프로젝트와 공모전에 참여하며 실무 경험을 쌓고 있으며, 현재는 의료 AI 분야에서 활발하게 활동하고 있습니다. 기술과 혁신을 통해 사회에 긍정적인 변화를 가져오고자 노력하며, 프로그래밍과 알고리즘 문제 해결에도 열정이 있습니다. 끊임없이 배우고 도전하며, 더 나아가 서울대 의료인공지능 연구실로 진학해 전문성을 키우는 것이 저의 목표입니다.
         </span>
 
   - block: features
@@ -69,98 +69,99 @@ sections:
       title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
       text: "<br><span style=\"font-size:125%\">버튼 hover 색변화</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
-  - block: slider
-    content:
-      slides:
-        - title: "<span style=\"font-size:70%\">공모전</span>"
-          content: "<span style=\"font-size:70%\">다양한 공모전에 관심있으십니까?</span>"
-          align: center
-          background:
-            image:
-              filename: forest.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-          link:
-            icon: external-link-alt
-            icon_pack: fas
-            text: "Image 출처: Unsplash"
-            text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
-          button: "<button class=\"slider-button\">자세히 보기</button>"
+- block: slider
+  content:
+    slides:
+      - title: "<span style=\"font-size:70%\">공모전</span>"
+        content: "<span style=\"font-size:70%\">다양한 공모전에 관심있으십니까?</span>"
+        align: center
+        background:
+          image:
+            filename: forest.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: "Image 출처: Unsplash"
+          text-color: '#fff'
+          url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
+        # 슬라이더에 버튼 추가 (cta-button으로 클래스 변경)
+        button: "<a href='#' class='cta-button'>자세히 보기</a>"
 
-        - title: "<span style=\"font-size:70%\">아웃소싱(외주)</span>"
-          content: "<span style=\"font-size:70%\">크몽이나 기타 외주를 받고싶으십니까?</span>"
-          align: center
-          background:
-            image:
-              filename: forest1.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-          link:
-            icon: external-link-alt
-            icon_pack: fas
-            text: "Image 출처: Unsplash"
-            text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
-          button: "<button class=\"slider-button\">자세히 보기</button>"
+      - title: "<span style=\"font-size:70%\">아웃소싱(외주)</span>"
+        content: "<span style=\"font-size:70%\">크몽이나 기타 외주를 받고싶으십니까?</span>"
+        align: center
+        background:
+          image:
+            filename: forest1.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: "Image 출처: Unsplash"
+          text-color: '#fff'
+          url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
+        button: "<a href='#' class='cta-button'>자세히 보기</a>"
 
-        - title: "<span style=\"font-size:70%\">코딩</span>"
-          content: "<span style=\"font-size:70%\">컴퓨터 과학이나 코딩에 관심있으십니까?</span>"
-          align: center
-          background:
-            image:
-              filename: forest2.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-          link:
-            icon: external-link-alt
-            icon_pack: fas
-            text: "Image 출처: Unsplash"
-            text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%EB%B3%84%EC%9D%B4-%EB%B9%9B%EB%82%98%EB%8A%94-%EB%B0%A4-1OtUkD_8svc"
-          button: "<button class=\"slider-button\">자세히 보기</button>"
+      - title: "<span style=\"font-size:70%\">코딩</span>"
+        content: "<span style=\"font-size:70%\">컴퓨터 과학이나 코딩에 관심있으십니까?</span>"
+        align: center
+        background:
+          image:
+            filename: forest2.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: "Image 출처: Unsplash"
+          text-color: '#fff'
+          url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%EB%B3%84%EC%9D%B4-%EB%B9%9B%EB%82%98%EB%8A%94-%EB%B0%A4-1OtUkD_8svc"
+        button: "<a href='#' class='cta-button'>자세히 보기</a>"
 
-        - title: "<span style=\"font-size:70%\">런닝</span>"
-          content: "<span style=\"font-size:70%\">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>"
-          align: center
-          background:
-            image:
-              filename: 런닝.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-          link:
-            icon: external-link-alt
-            icon_pack: fas
-            text: "Image 출처: Unsplash"
-            text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%8F%84%EB%A1%9C%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-Apj4nSemkzk"
-          button: "<button class=\"slider-button\">자세히 보기</button>"
+      - title: "<span style=\"font-size:70%\">런닝</span>"
+        content: "<span style=\"font-size:70%\">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>"
+        align: center
+        background:
+          image:
+            filename: 런닝.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: "Image 출처: Unsplash"
+          text-color: '#fff'
+          url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%8F%84%EB%A1%9C%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-Apj4nSemkzk"
+        button: "<a href='#' class='cta-button'>자세히 보기</a>"
 
-        - title: "<span style=\"font-size:70%\">대학원</span>"
-          content: "<span style=\"font-size:70%\">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>"
-          align: center
-          background:
-            image:
-              filename: 공부.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: '#000'
-          link:
-            icon: external-link-alt
-            icon_pack: fas
-            text: "Image 출처: Unsplash"
-            text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EC%84%B8%EB%9D%BC%EB%AF%B9-%EB%A8%B8%EA%B7%B8%EC%9E%94-%EA%B7%BC%EC%B2%98%EC%9D%98-%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C-s9CC2SKySJM"
-          button: "<button class=\"slider-button\">자세히 보기</button>"
+      - title: "<span style=\"font-size:70%\">대학원</span>"
+        content: "<span style=\"font-size:70%\">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>"
+        align: center
+        background:
+          image:
+            filename: 공부.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: external-link-alt
+          icon_pack: fas
+          text: "Image 출처: Unsplash"
+          text-color: '#fff'
+          url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EC%84%B8%EB%9D%BC%EB%AF%B9-%EB%A8%B8%EA%B7%B8%EC%9E%94-%EA%B7%BC%EC%B2%98%EC%9D%98-%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C-s9CC2SKySJM"
+        button: "<a href='#' class='cta-button'>자세히 보기</a>"
 
     design:
       slide_height: '350px'

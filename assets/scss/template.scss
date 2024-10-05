@@ -48,13 +48,20 @@ header, nav {
   text-align: justify;
 }
 
-.slider-button {
-  background-color: #3EB489 !important; /* 초록색 (민트색) */
-  color: #fff !important; /* 기본 글자색 */
-  transition: background-color 0.3s ease, color 0.3s ease !important; /* 호버 시 부드러운 전환 효과 */
+/* 기본 버튼 스타일 */
+.cta-button {
+  background-color: #3e9a51; /* 기본 배경색 */
+  color: #fff; /* 기본 텍스트 색 */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease; /* 호버 시 부드러운 전환 효과 */
 }
 
-.slider-button:hover {
-  background-color: #FFD700 !important; /* 호버 시 노란색 */
-  color: #000 !important; /* 호버 시 글자색 */
+/* 호버 시 색 변경 */
+.cta-button:hover {
+  background-color: #FFD700; /* 호버 시 노란색 */
+  color: #000; /* 호버 시 텍스트 색 */
 }
