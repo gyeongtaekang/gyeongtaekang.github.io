@@ -37,27 +37,34 @@ sections:
         - name: 인공지능(AI)
           icon: brain
           icon_pack: fas
+          icon_color: "#FF0000" # 빨간색
           description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN,FCN 컴퓨터 비전 등등</span>"
         - name: 런닝
           icon: running
           icon_pack: fas
+          icon_color: "#FFA500" # 주황색
           description: "<span style=\"font-size:90%\">하루에 10km씩 런닝하며 체중감소</span>"
         - name: 노래
           icon: music
           icon_pack: fas
+          icon_color: "#FFFF00" # 노란색
           description: "<span style=\"font-size:90%\">꾀꼬리 같은 맑은 보이스의 소유자로서, 혼코노러버</span>"
         - name: 의료
           icon: hospital
           icon_pack: fas
+          icon_color: "#008000" # 초록색
           description: "<span style=\"font-size:90%\">의료지식을 공부하며 의료 인공지능과의 결합 고민</span>"
         - name: 주식
           icon: chart-line
           icon_pack: fas
+          icon_color: "#0000FF" # 파란색
           description: "<span style=\"font-size:90%\">미장위주, 금리인하, 실적발표, RSI 등 투자와 재테크에 관심</span>"
         - name: 전자기기
           icon: mobile-alt
           icon_pack: fas
+          icon_color: "#4B0082" # 남색
           description: "<span style=\"font-size:90%\">노트북, 스마트폰 등의 분해 및 조립 가능</span>"
+
 
 
   - block: features
