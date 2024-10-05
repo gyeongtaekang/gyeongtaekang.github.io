@@ -28,49 +28,51 @@ sections:
         안녕하세요! 저는 전북대학교 컴퓨터공학부 학생으로, 인공지능(AI)과 데이터 분석에 관심이 많습니다. 원래 의류학을 전공하다가 새로운 도전을 위해 컴퓨터공학으로 전과하였고, 그 이후 다양한 프로젝트와 공모전에 참여하며 성장해 왔습니다. 현재는 의료 AI 분야에서 활발하게 활동하며 기술과 혁신을 통해 사회에 긍정적인 변화를 가져오고자 노력하고 있습니다. 끊임없이 배우고 도전하며, 서울대 의료인공지능 연구실로 진학하는것이 저의 목표입니다.
         </span>
 
-  - block: features
-    id: features
-    content:
-      title: "<span style=\"font-size:75%\">강경태의 관심사</span>"
-      text: "저는 다음과 같은 주제에 관심이 있습니다.<br><br>"
-      items:
-        - name: 인공지능(AI)
-          icon: brain
-          icon_pack: fas
-          icon_color: "#FF0000" # 빨간색
-          description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN,FCN 컴퓨터 비전 등등</span>"
-        - name: 런닝
-          icon: running
-          icon_pack: fas
-          icon_color: "#FFA500" # 주황색
-          description: "<span style=\"font-size:90%\">하루에 10km씩 런닝하며 체중감소</span>"
-        - name: 노래
-          icon: music
-          icon_pack: fas
-          icon_color: "#FFFF00" # 노란색
-          description: "<span style=\"font-size:90%\">꾀꼬리 같은 맑은 보이스의 소유자로서, 혼코노러버</span>"
-        - name: 의료
-          icon: hospital
-          icon_pack: fas
-          icon_color: "#008000" # 초록색
-          description: "<span style=\"font-size:90%\">의료지식을 공부하며 의료 인공지능과의 결합 고민</span>"
-        - name: 주식
-          icon: chart-line
-          icon_pack: fas
-          icon_color: "#0000FF" # 파란색
-          description: "<span style=\"font-size:90%\">미장위주, 금리인하, 실적발표, RSI 등 투자와 재테크에 관심</span>"
-        - name: 전자기기
-          icon: mobile-alt
-          icon_pack: fas
-          icon_color: "#4B0082" # 남색
-          description: "<span style=\"font-size:90%\">노트북, 스마트폰 등의 분해 및 조립 가능</span>"
+- block: features
+  id: features
+  content:
+    title: "<span style=\"font-size:75%\">강경태의 관심사🧐</span>"
+    text: "저는 다음과 같은 주제에 관심이 있습니다✍️<br><br>"
+    items:
+      - name: 인공지능(AI)
+        icon: robot
+        icon_pack: fas
+        icon_color: "#FF0000" # 빨간색
+        description: "<span style=\"font-size:90%\">🤖 기계학습, 딥러닝, RNN, FCN, 컴퓨터 비전 등 다양한 분야의 인공지능에 관심이 있습니다.</span>"
+      - name: 런닝
+        icon: running
+        icon_pack: fas
+        icon_color: "#FFA500" # 주황색
+        description: "<span style=\"font-size:90%\">🏃‍♂️ 하루에 10km씩 런닝하며 체중감소와 체력 증진을 추구합니다.</span>"
+      - name: 노래
+        icon: microphone
+        icon_pack: fas
+        icon_color: "#FFFF00" # 노란색
+        description: "<span style=\"font-size:90%\">🎤 꾀꼬리 같은 맑은 보이스를 가진 혼코노러버! 노래 부르는 것이 저의 힐링입니다.</span>"
+      - name: 인생을 더 잘사는법
+        icon: lightbulb
+        icon_pack: fas
+        icon_color: "#008000" # 초록색
+        description: "<span style=\"font-size:90%\">💡 남들보다 앞서가는 인생을 살기 위해 고민하고 실천 중입니다. 자기개발과 성장에 항상 초점을 맞추고 있어요.</span>"
+      - name: 재테크
+        icon: dollar-sign
+        icon_pack: fas
+        icon_color: "#0000FF" # 파란색
+        description: "<span style=\"font-size:90%\">💹 복리효과를 누리기 위해 젊을 때 적극적으로 도전하고 있습니다. 현재는 대기업 위주의 장기투자에 집중하며, 신중한 전략을 추구합니다.</span>"
+      - name: 책
+        icon: book
+        icon_pack: fas
+        icon_color: "#4B0082" # 남색
+        description: "<span style=\"font-size:90%\">📚 상상력을 키우는 소설보다는, 관심 분야에 대한 지식을 키우기 위한 실용서적을 즐겨 읽습니다. 특히 재테크 관련 책도 5권 이상 읽었습니다.</span>"
+
+
 
 
 
   - block: features
     content:
       title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
-      text: "<br><span style=\"font-size:125%\">강경태의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
+      text: "<br><span style=\"font-size:125%\">버튼 hover 색변화</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
   - block: slider
     content:
