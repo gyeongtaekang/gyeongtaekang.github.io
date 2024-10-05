@@ -47,3 +47,14 @@ header, nav {
 .justify-text {
   text-align: justify;
 }
+
+.slider-button {
+  background-color: #000; /* 기본 배경색 */
+  color: #fff; /* 기본 글자색 */
+  transition: background-color 0.3s ease, color 0.3s ease; /* 호버 시 부드러운 전환 효과 */
+}
+
+.slider-button:hover {
+  background-color: #fff; /* 호버 시 배경색 */
+  color: #000; /* 호버 시 글자색 */
+}
