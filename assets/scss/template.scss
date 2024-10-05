@@ -77,3 +77,33 @@ header, nav {
 .image-link:hover {
   color: #FFD700; /* 호버 시 노란색 */
 }
+
+/* 인공지능(AI) 아이콘 색상 */
+.ai-icon .fa-robot {
+  color: #FF0000 !important; /* 빨간색 */
+}
+
+/* 런닝 아이콘 색상 */
+.running-icon .fa-running {
+  color: #FFA500 !important; /* 주황색 */
+}
+
+/* 노래 아이콘 색상 */
+.music-icon .fa-microphone {
+  color: #FFFF00 !important; /* 노란색 */
+}
+
+/* 인생을 더 잘사는법 아이콘 색상 */
+.life-icon .fa-lightbulb {
+  color: #008000 !important; /* 초록색 */
+}
+
+/* 재테크 아이콘 색상 */
+.finance-icon .fa-dollar-sign {
+  color: #0000FF !important; /* 파란색 */
+}
+
+/* 책 아이콘 색상 */
+.book-icon .fa-book {
+  color: #4B0082 !important; /* 남색 */
+}
