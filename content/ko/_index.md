@@ -104,9 +104,8 @@ sections:
             icon: external-link-alt
             icon_pack: fas
             text: "<br>{{% cta cta_link=\"https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A\" cta_text=\"Image 출처: Unsplash\" %}}"
-
             text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
+
 
 
         - title: "<span style=\"font-size:70%\">코딩</span>"
