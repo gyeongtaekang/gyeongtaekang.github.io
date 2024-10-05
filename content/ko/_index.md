@@ -103,11 +103,11 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "<br>{{% cta cta_link=\"https://www.naver.com\" cta_text=\"더보기 →\" %}}"
+            text: "<br>{{% cta cta_link=\"https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A\" cta_text=\"더보기 →\" %}}"
 
             text-color: '#fff'
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
-          button: "<a href='#' class='cta-button'>자세히 보기</a>"
+
 
         - title: "<span style=\"font-size:70%\">코딩</span>"
           content: "<span style=\"font-size:70%\">컴퓨터 과학이나 코딩에 관심있으십니까?</span>"
