@@ -139,7 +139,6 @@ sections:
       loop: true
       interval: 3000
 
-
   - block: collection
     content:
       id: section-1
