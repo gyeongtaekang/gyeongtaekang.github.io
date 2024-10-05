@@ -84,7 +84,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "자세히 보기"
+            text: "Image 출처: Unsplash"
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
 
         - title: "<span style=\"font-size:70%\">아웃소싱(외주)</span>"
@@ -100,7 +100,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "자세히 보기"
+            text: "Image 출처: Unsplash"
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
 
         - title: "<span style=\"font-size:70%\">코딩</span>"
@@ -116,7 +116,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "자세히 보기"
+            text: "Image 출처: Unsplash"
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%EB%B3%84%EC%9D%B4-%EB%B9%9B%EB%82%98%EB%8A%94-%EB%B0%A4-1OtUkD_8svc"
 
         - title: "<span style=\"font-size:70%\">런닝</span>"
@@ -132,7 +132,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "자세히 보기"
+            text: "Image 출처: Unsplash"
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%8F%84%EB%A1%9C%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-Apj4nSemkzk"
 
         - title: "<span style=\"font-size:70%\">대학원</span>"
@@ -148,7 +148,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "자세히 보기"
+            text: "Image 출처: Unsplash"
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EC%84%B8%EB%9D%BC%EB%AF%B9-%EB%A8%B8%EA%B7%B8%EC%9E%94-%EA%B7%BC%EC%B2%98%EC%9D%98-%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C-s9CC2SKySJM"
 
     design:
