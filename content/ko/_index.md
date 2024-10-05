@@ -63,10 +63,7 @@ sections:
           icon_color: "#4B0082" # 남색
           description: "<span style=\"font-size:90%\">📚 상상력을 키우는 소설보다는, 관심 분야에 대한 지식을 키우기 위한 실용서적을 즐겨 읽습니다. 특히 재테크 관련 책도 5권 이상 읽었습니다.</span>"
 
-  - block: features
-    content:
-      title: "<span style=\"font-size:70%\">버튼 hover 색변화</span>"
-      text: "<br><span style=\"font-size:125%\">초록->노란색</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
+
 
   - block: slider
     content:
@@ -220,6 +217,11 @@ sections:
           description: 전북대학교 (JBNU) 컴퓨터공학부
           date_start: '2020-03-02'
           date_end: '2025-08-31'
+
+  - block: features
+    content:
+      title: "<span style=\"font-size:70%\">버튼 hover 색변화</span>"
+      text: "<br><span style=\"font-size:125%\">초록->노란색</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
   - block: tag_cloud
     content:
