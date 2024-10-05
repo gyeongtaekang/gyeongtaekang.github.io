@@ -85,7 +85,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "<a href='https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE' target='_blank' style='color: #fff;'>Image 출처: Unsplash</a>"
+            text: "<br><span style=\"font-size:125%\">버튼 hover 색변화</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
             text-color: '#fff'
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
           button: "<a href='#' class='cta-button'>자세히 보기</a>"
@@ -103,8 +103,7 @@ sections:
           link:
             icon: external-link-alt
             icon_pack: fas
-            text: "<a href='https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A' target='_blank' style='color: #fff;'>Image 출처: Unsplash</a>"
-
+            text: "<br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
             text-color: '#fff'
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
           button: "<a href='#' class='cta-button'>자세히 보기</a>"
