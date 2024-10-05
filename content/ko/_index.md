@@ -81,6 +81,7 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
+          text: "<br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
           link:
             icon: external-link-alt
             icon_pack: fas
