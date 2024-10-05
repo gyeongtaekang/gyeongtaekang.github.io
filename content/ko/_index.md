@@ -65,8 +65,8 @@ sections:
 
   - block: features
     content:
-      title: "<span style=\"font-size:70%\">강경태의 포트폴리오 사이트</span>"
-      text: "<br><span style=\"font-size:125%\">버튼 hover 색변화</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
+      title: "<span style=\"font-size:70%\">버튼 hover 색변화</span>"
+      text: "<br><span style=\"font-size:125%\">초록->노란색</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
   - block: slider
     content:
