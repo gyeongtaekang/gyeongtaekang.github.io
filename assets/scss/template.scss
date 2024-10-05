@@ -49,12 +49,13 @@ header, nav {
 }
 
 .slider-button {
-  background-color: #000; /* 기본 배경색 */
+  background-color: #3EB489; /* 초록색 (민트색) */
   color: #fff; /* 기본 글자색 */
   transition: background-color 0.3s ease, color 0.3s ease; /* 호버 시 부드러운 전환 효과 */
 }
 
 .slider-button:hover {
-  background-color: #fff; /* 호버 시 배경색 */
+  background-color: #FFD700; /* 호버 시 노란색 */
   color: #000; /* 호버 시 글자색 */
 }
+
