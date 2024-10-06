@@ -1,68 +1,70 @@
----
+--- 
 # Display name
-title: Hamjji
+title: Hamji
 
 # Full Name (for SEO)
-first_name: Student
-last_name: 1
+first_name: Hamji
+last_name: Kang
 
 # Username (this should match the folder name)
 authors:
-  - Hamjji
+  - admin22
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Cutie Manager
+role: Cuteness Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Current President of the National Cuteness Association <br> Former Vice President of the National Hamster Club
-
-# Profile image (avatar)
-avatar: avatar.jpg  # Specify the path of the profile image file
+  - name: Former National Cuteness Alliance Representative
+  - name: Former Vice President of the Hamster Club
+  - name: 2011 ~ 2012
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Includes deep learning techniques for medical domains using federated learning and representation learning, domain adaptation and test-time learning in deep learning-based computer vision applications, and deep learning-based diagnostics for medical applications including image processing and image-text captioning.
+bio: |
+  ## Hamji's Story
+  
+  Cute and adorable Hamji...  
+  Although it can smell a lot, fight with others, and bite,  
+  and being nocturnal, making noise at night, it's okay.  
+  Because it's cute.
 
 # interests:
-#   - 
+#   - Artificial Intelligence and Deep Learning
+#   - Data Analysis and Big Data
+#   - Software Development and Programming
+#   - Entrepreneurship and Idea Implementation
+#   - Solving Social Issues and Sustainability
+#   - Service Experience and Communication
 
 # education:
 #   courses:
-#     - course: Integrated M.S. & Ph.D. in (Electrical, Electronics, and Computer Engineering)
-#       institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST)
-#       year: 2018 - 2023
-#     - course: B.S. in (School of Computer and Electronic Engineering)
-#       institution: Handong Global University
-#       year: 2014 - 2018
+#     - course: Computer Engineering
+#       institution: Jeonbuk National University (JBNU)
+#       year: 2020 - 2025
+#     - course: General Studies (Science)
+#       institution: Jeonju High School
+#       year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:ksl@jbnu.ac.kr'
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-#   - icon: orcid
-#     icon_pack: ai
-#     link: https://orcid.org/0009-0000-7223-0903
+#   - icon: instagram
+#     icon_pack: fab
+#     link: https://www.instagram.com/gyeongtae1101/
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gyeongtaekang
 #   - icon: cv
 #     icon_pack: ai
-#     link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#     link: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: 'namwon420@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -73,3 +75,10 @@ user_groups:
   - pet
 
 ---
+
+## Hamji's Story
+
+Cute and adorable Hamji...  
+Although it can smell a lot, fight with others, and bite,  
+and being nocturnal, making noise at night, it's okay.  
+Because it's cute.
