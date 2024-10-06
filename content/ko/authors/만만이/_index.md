@@ -10,22 +10,24 @@ sections:
     content:
       title: '만만이의 이야기'
       username: 만만이
+      bio: |
+        2014년, 강경태는 학교 귀가 후 집으로 가는 데 만만이가 화난 상태로 기다리고 있었다...  
+
+# Additional sections for role and organizations
+  - block: about.details
+    id: details
+    content:
       role: 아침 알람담당
       organizations:
         - name: 전국 닭연맹 대표
       avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
-      bio: |
-        2014년, 강경태는 학교 귀가 후 집으로 가는 데 만만이가 화난 상태로 기다리고 있었다...  
-        집에 들어가려는 나와 그걸 막고 나를 보며 깃을 세우고 있는 만만이...  
-        어쩔 수 없이 싸우지 않고 그냥 만만이에게 쫓기며 집 안으로 안전하게 들어갔다.  
-        (사실 만만이를 피해 도망간 건 비밀이다.)
 
 # interests:
 #   - 
 
 # education:
 #   courses:
-#     - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
+#     - course: Integrated M.S. & Ph.D. in (전기전자공학과)
 #       institution: 대구경북과학기술원 (DGIST)
 #       year: 2018 - 2023
 #     - course: B.S. in (전산전자공학부)
