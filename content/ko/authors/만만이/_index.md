@@ -8,7 +8,7 @@ last_name: Kang
 
 # Username (this should match the folder name)
 authors:
-  - admin
+  - admin22
 
 # Is this the primary user of the site?
 superuser: true
