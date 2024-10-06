@@ -5,8 +5,8 @@
     <p>{{ .content.role }}</p>
     <p>Organizations: 
         {{ if .content.organizations }}
-            {{ range .content.organizations }}
-                {{ . }}{{ if not (eq . @last) }}, {{ end }}
+            {{ range $index, $org := .content.organizations }}
+                {{ $org }}{{ if ne (add $index 1) (len .content.organizations) }}, {{ end }}
             {{ end }}
         {{ else }}
             No organizations available.
