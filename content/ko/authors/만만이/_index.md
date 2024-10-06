@@ -1,4 +1,4 @@
----
+--- 
 # Display name
 title: 만만이
 
@@ -24,8 +24,6 @@ organizations:
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
 
-# Short bio (displayed in user profile at end of posts)
-# Short bio (displayed in user profile at end of posts)
 # Short bio (displayed in user profile at end of posts)
 bio: |
   ## 만만이의 이야기
