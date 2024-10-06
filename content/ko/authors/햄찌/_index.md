@@ -18,7 +18,9 @@ role: 귀요미 담당
 
 # Organizations/Affiliations
 organizations:
-  - name: 現전국 귀염뽀짝 연맹 대표 <br> 前전국 햄스터 클럽 부대표
+  - name: 前전국 귀염뽀짝 연맹 대표
+  - name: 前전국 햄스터 클럽 부대표
+  - name: 2011 ~ 2012
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
