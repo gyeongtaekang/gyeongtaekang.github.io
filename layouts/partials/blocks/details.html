@@ -3,7 +3,13 @@
     <h2>{{ .content.title }}</h2>
     <p>{{ .content.username }}</p>
     <p>{{ .content.role }}</p>
-    <p>Organizations: {{ .content.organizations | join ", " }}</p>
+    <p>Organizations: 
+        {{ if .content.organizations }}
+            {{ .content.organizations | join ", " }}
+        {{ else }}
+            No organizations available.
+        {{ end }}
+    </p>
     <img src="{{ .content.avatar }}" alt="Avatar" />
     <div>{{ .content.bio }}</div>
 </div>
