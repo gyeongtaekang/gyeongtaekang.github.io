@@ -3,15 +3,15 @@
 title: 햄찌
 
 # Full Name (for SEO)
-first_name: Student
-last_name: 1
+first_name: 햄찌
+last_name: Kang
 
 # Username (this should match the folder name)
 authors:
-  - 햄찌
+  - admin22
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: 귀요미 담당
@@ -22,41 +22,52 @@ organizations:
   - name: 前전국 햄스터 클럽 부대표
   - name: 2011 ~ 2012
 
-# Profile image (avatar)
-avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
+
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+# bio: |
+#   ## 만만이의 이야기
+#   2011년, 강경태는 학교 귀가 후 집으로 가는 데 만만이가 화난 상태로 기다리고 있었다...  
+
+  
+#   집에 들어가려는 나와 그걸 막고 나를 보며 깃을 세우고 있는 만만이...  
+
+  
+#   어쩔 수 없이 싸우지 않고 그냥 만만이에게 쫓기며 집 안으로 안전하게 들어갔다.  
+#   (사실 만만이를 피해 도망간 건 비밀이다.)
+
 
 # interests:
-#   - 
+#   - 인공지능 및 딥러닝
+#   - 데이터 분석 및 빅데이터
+#   - 소프트웨어 개발 및 프로그래밍
+#   - 창업 및 아이디어 구현
+#   - 사회 문제 해결 및 지속가능성
+#   - 서비스 경험 및 소통
 
 # education:
 #   courses:
-#     - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-#       institution: 대구경북과학기술원 (DGIST)
-#       year: 2018 - 2023
-#     - course: B.S. in (전산전자공학부)
-#       institution: 한동대학교
-#       year: 2014 - 2018
+#     - course: 컴퓨터공학부
+#       institution: 전북대학교(JBNU)
+#       year: 2020 - 2025
+#     - course: 일반계(이공계열)
+#       institution: 전주고등학교
+#       year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:ksl@jbnu.ac.kr'
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-#   - icon: orcid
-#     icon_pack: ai
-#     link: https://orcid.org/0009-0000-7223-0903
+#   - icon: instagram
+#     icon_pack: fab
+#     link: https://www.instagram.com/gyeongtae1101/
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gyeongtaekang
 #   - icon: cv
 #     icon_pack: ai
-#     link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+#     link: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +75,7 @@ avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: 'namwon420@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,4 +85,13 @@ highlight_name: true
 user_groups:
   - pet
 
+
 ---
+  ## 햄찌 이야기
+  
+  귀염 뽀짝 햄찌..
+  비록, 냄새는 많이 나고 서로 싸우고 손도 물라고 하고,
+  야행성이라 밤에 자는데 시끄럽게하는 햄찌였지만
+  괜찮다
+  왜냐하면
+  귀엽기때문에
