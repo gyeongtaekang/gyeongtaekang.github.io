@@ -1,8 +1,8 @@
-<!-- layouts/partials/blocks/details.html -->
-<div class="details">
+<!-- layouts/partials/blocks/about.details.html -->
+<div class="about-details">
     <h2>{{ .content.title }}</h2>
-    <p>{{ .content.username }}</p>
-    <p>{{ .content.role }}</p>
+    <p>Username: {{ .content.username }}</p>
+    <p>Role: {{ .content.role }}</p>
     <p>Organizations: 
         {{ if .content.organizations }}
             {{ range $index, $org := .content.organizations }}
