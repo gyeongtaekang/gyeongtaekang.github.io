@@ -1,7 +1,9 @@
-<!-- layouts/partials/blocks/about.details.html -->
-<div class="about-details">
-    <h2>{{ .content.role }}</h2>
-    <p>{{ .content.username }} - {{ .content.organizations | join ", " }}</p>
+<!-- layouts/partials/blocks/details.html -->
+<div class="details">
+    <h2>{{ .content.title }}</h2>
+    <p>{{ .content.username }}</p>
+    <p>{{ .content.role }}</p>
+    <p>Organizations: {{ .content.organizations | join ", " }}</p>
     <img src="{{ .content.avatar }}" alt="Avatar" />
     <div>{{ .content.bio }}</div>
 </div>
