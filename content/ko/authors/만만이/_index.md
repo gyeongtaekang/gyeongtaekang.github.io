@@ -18,7 +18,8 @@ role: 아침 알람담당
 
 # Organizations/Affiliations
 organizations:
-  - name: 전국 닭연맹 대표
+  - name: (전)전국 닭연맹 대표
+  - name: 2011 ~ 2013
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
