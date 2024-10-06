@@ -5,7 +5,9 @@
     <p>{{ .content.role }}</p>
     <p>Organizations: 
         {{ if .content.organizations }}
-            {{ .content.organizations | join ", " }}
+            {{ range .content.organizations }}
+                {{ . }}{{ if not (eq . @last) }}, {{ end }}
+            {{ end }}
         {{ else }}
             No organizations available.
         {{ end }}
