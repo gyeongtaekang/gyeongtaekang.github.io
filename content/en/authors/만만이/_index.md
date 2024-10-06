@@ -1,72 +1,70 @@
----
+--- 
 # Display name
 title: Manmani
 
 # Full Name (for SEO)
-first_name: Student
-last_name: 1
+first_name: Manmani
+last_name: Kang
 
 # Username (this should match the folder name)
 authors:
-  - Manmani
+  - admin22
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Morning Alarm Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: President of the National Chicken Federation
-
-# Profile image (avatar)
-avatar: avatar.jpg  # Specify the path of the profile image file
+  - name: Former National Cock-a-doodle-doo Alliance Representative
+  - name: 2011 ~ 2013
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  It was the year 2014... Gyeongtae returned from school, only to find Manmani waiting in an angry state...  
-  Trying to enter the house, I was confronted by Manmani, who raised its feathers and blocked my way...  
-  Having no choice but to avoid a fight, I ran and safely entered the house away from Manmani.  
-  (Truth be told, it's a secret that I ran away from Manmani.)
+  ## Manmani's Story
+  In 2011, Gyeongtae was returning home from school when Manmani was waiting angrily...  
+
+  As I was trying to get into the house, Manmani was blocking me and raising its feathers...  
+
+  I had no choice but to run away from Manmani and safely enter the house.  
+  (Actually, it’s a secret that I ran away from Alpha Male Manmani, who raised me but doesn't appreciate it ㅠ)
 
 # interests:
-#   - 
+#   - Artificial Intelligence and Deep Learning
+#   - Data Analysis and Big Data
+#   - Software Development and Programming
+#   - Entrepreneurship and Idea Implementation
+#   - Solving Social Issues and Sustainability
+#   - Service Experience and Communication
 
 # education:
 #   courses:
-#     - course: Integrated M.S. & Ph.D. in (Electrical, Electronics, and Computer Engineering)
-#       institution: Daegu Gyeongbuk Institute of Science and Technology (DGIST)
-#       year: 2018 - 2023
-#     - course: B.S. in (School of Computer and Electronic Engineering)
-#       institution: Handong Global University
-#       year: 2014 - 2018
+#     - course: Computer Engineering
+#       institution: Jeonbuk National University (JBNU)
+#       year: 2020 - 2025
+#     - course: General Studies (Science)
+#       institution: Jeonju High School
+#       year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:ksl@jbnu.ac.kr'
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-#   - icon: orcid
-#     icon_pack: ai
-#     link: https://orcid.org/0009-0000-7223-0903
+#   - icon: instagram
+#     icon_pack: fab
+#     link: https://www.instagram.com/gyeongtae1101/
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gyeongtaekang
 #   - icon: cv
 #     icon_pack: ai
-#     link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#     link: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: 'namwon420@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -77,3 +75,11 @@ user_groups:
   - pet
 
 ---
+
+  ## Manmani's Story
+  In 2011, Gyeongtae was returning home from school when Manmani was waiting angrily...  
+
+  As I was trying to get into the house, Manmani was blocking me and raising its feathers...  
+
+  I had no choice but to run away from Manmani and safely enter the house.  
+  (Actually, it’s a secret that I ran away from Alpha Male Manmani, who raised me but doesn't appreciate it 😢)
