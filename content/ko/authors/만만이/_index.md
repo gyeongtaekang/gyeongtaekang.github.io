@@ -1,70 +1,61 @@
---- 
+---
 # Display name
 title: 만만이
 
 # Full Name (for SEO)
-first_name: Student
-last_name: 1
+first_name: 만만
+last_name: Kang
 
 # Username (this should match the folder name)
 authors:
-  - 만만이
+  - admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 아침 알람담당
+role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: 前전국 닭연맹 대표
-  - name: 2011 ~ 2013
+  - name: '경태의 개발연습'
+    url: 'https://gyeongta1101.netlify.app'
 
-# Profile image (avatar)
-avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
 
 # Short bio (displayed in user profile at end of posts)
-bio: |
-  ## 만만이의 이야기
-  2014년, 강경태는 학교 귀가 후 집으로 가는 데 만만이가 화난 상태로 기다리고 있었다...  
+bio: 전북대학교 컴퓨터공학부 학생으로, AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상 경험을 가지고 있으며, 의료 인공지능 분야의 전문성을 쌓고자 이경수 교수님의 연구실에서 활발히 활동하고 있습니다. 프로젝트 및 연구를 통해 기술 혁신과 문제 해결 능력을 키우며, 서비스업 경험과 학업 성과를 바탕으로 사회에 긍정적인 변화를 일으키는 것을 목표로 하고 있습니다.
 
-  ## 격렬한 대치
-  집에 들어가려는 나와 그걸 막고 나를 보며 깃을 세우고 있는 만만이...  
+interests:
+  - 인공지능 및 딥러닝
+  - 데이터 분석 및 빅데이터
+  - 소프트웨어 개발 및 프로그래밍
+  - 창업 및 아이디어 구현
+  - 사회 문제 해결 및 지속가능성
+  - 서비스 경험 및 소통
 
-  ## 도망의 역사
-  어쩔 수 없이 싸우지 않고 그냥 만만이에게 쫓기며 집 안으로 안전하게 들어갔다.  
-  (사실 만만이를 피해 도망간 건 비밀이다.)
-
-# interests:
-#   - 
-
-# education:
-#   courses:
-#     - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-#       institution: 대구경북과학기술원 (DGIST)
-#       year: 2018 - 2023
-#     - course: B.S. in (전산전자공학부)
-#       institution: 한동대학교
-#       year: 2014 - 2018
+education:
+  courses:
+    - course: 컴퓨터공학부
+      institution: 전북대학교(JBNU)
+      year: 2020 - 2025
+    - course: 일반계(이공계열)
+      institution: 전주고등학교
+      year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:ksl@jbnu.ac.kr'
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-#   - icon: orcid
-#     icon_pack: ai
-#     link: https://orcid.org/0009-0000-7223-0903
-#   - icon: cv
-#     icon_pack: ai
-#     link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+social:
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/gyeongtae1101/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gyeongtaekang
+  - icon: cv
+    icon_pack: ai
+    link: 'https://gyeongtaekang.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/자기소개.pdf'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,7 +63,7 @@ bio: |
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'namwon420@naver.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -82,4 +73,7 @@ highlight_name: true
 user_groups:
   - pet
 
+
 ---
+
+전북대학교 컴퓨터공학부 학생으로, 의류학과에서 전과해 AI와 데이터 분석에 열정을 쏟고 있습니다. 전북대 아이디어 해커톤 최우수상, 창업 아이디어 메이커톤 베스트 피칭상 등 다양한 수상을 했으며, 현재는 이경수 교수님의 의료 인공지능 연구실에서 활동 중입니다. 서비스직 경험과 학업 성과를 바탕으로 기술과 혁신을 통해 사회에 기여하고자 합니다.
