@@ -49,10 +49,10 @@ jobs:
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
       - name: Upload artifact
-        # Updated version to v2.1.1 to avoid deprecated actions/upload-artifact@v3 dependency
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+          sourceRepositoryUrl: ${{ github.event.repository.html_url }}
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
