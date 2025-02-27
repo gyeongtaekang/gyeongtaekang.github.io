@@ -25,7 +25,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -50,7 +49,8 @@ jobs:
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        # Updated version to v2.1.1 to avoid deprecated actions/upload-artifact@v3 dependency
+        uses: actions/upload-pages-artifact@v2.1.1
         with:
           path: ./public
 
