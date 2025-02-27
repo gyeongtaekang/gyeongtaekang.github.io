@@ -50,7 +50,7 @@ jobs:
         run: npx pagefind --site "public"
       - name: Upload artifact
         # Updated version to v2.1.1 to avoid deprecated actions/upload-artifact@v3 dependency
-        uses: actions/upload-pages-artifact@v2.1.1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
